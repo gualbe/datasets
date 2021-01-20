@@ -1,4 +1,4 @@
-@relation 'EQAgen:tokyo-short-BIG(12/02/2012-01:41-->unspecified_prediction-horizon:7days)-weka.filters.unsupervised.attribute.Remove-R1-2,10-16,104-214,216-227-weka.filters.unsupervised.attribute.RemoveByName-E^event|time|.*_indep_bA|.*2013.*|.*bA.*|continuousClass|class[^5].*|class5..$'
+@relation 'Tokyo-DS2'
 
 @attribute x1_bM numeric
 @attribute x2_bM numeric
@@ -94,7 +94,7 @@
 @attribute c6_indep_bM numeric
 @attribute c6.1_indep_bM numeric
 @attribute c6.2_indep_bM numeric
-@attribute class5 {0,1}
+@attribute class5 {1,0}
 
 @data
 0.000654,0.002903,-0.001282,-0.001621,-0.003636,4.7,0.158381,3.0375,3.0375,3.0375,3.0375,3.0375,3.0375,3.0375,5.075,5.075,4.511111,4.511111,9.861111,21.822918,20.066668,45.272915,96.829865,96.829865,140.44098,304.02014,306.5007,317.9257,317.9257,347.80417,83.26805,83.26805,0,-3.315972,4.425,3230094340,0.266766,2.567885,0.078911,-3.825995,0,0,0,0,0,0,0,0,0.002083,0.002083,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
