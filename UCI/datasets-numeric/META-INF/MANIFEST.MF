@@ -1,0 +1,182 @@
+Manifest-Version: 1.0
+
+Name: numeric/auto93.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: BUHNbufQvRWX3k2ARJNEKDDYcpQ=
+MD5-Digest: sDGmhdjUATZEnZQ2X5qLgQ==
+
+Name: numeric/autoHorse.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: YgvfDrpNMg4L790gPiMgDFplivs=
+MD5-Digest: WRFPDiph5WmxIdV0oxDNjQ==
+
+Name: numeric/autoMpg.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: b5KTH0GinL8P141ABQQUJ7BsPJ0=
+MD5-Digest: 6lC9YTGw7falHicYk/IYnA==
+
+Name: numeric/autoPrice.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: UrAfpgRi1HcX5jaBzTfn3UNCiUc=
+MD5-Digest: a8Lppo1fCNuZkRKI9zakSg==
+
+Name: numeric/baskball.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: pQBNpuNaw0w9Cb8pjGfeXQ+sAsk=
+MD5-Digest: ZaApsarofFvcFyBWPca7wQ==
+
+Name: numeric/bodyfat.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: xXYeIs2oEJ1DTwJhE0v++hyGCMY=
+MD5-Digest: t/+OKZIRnYa9ChBpEWxxdA==
+
+Name: numeric/bolts.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: FtfWZZtWBbjcwIqVOaRUeC1kiBw=
+MD5-Digest: M05btIoutbuAHZZLJBoZpw==
+
+Name: numeric/breastTumor.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: jo3IGdnexvPZWGinRqvsGzIfkRM=
+MD5-Digest: nGzSS0X7qQvY3yOgGEbwhQ==
+
+Name: numeric/cholesterol.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: rknG3JsZIWdeeM8FeC0STiYC5XE=
+MD5-Digest: 0Fi6QSY0GHpTrjdqr0X5JQ==
+
+Name: numeric/cleveland.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: RvUDR4kuaJEUHdWRbc1VUg36bpM=
+MD5-Digest: rKIflmrCXq0awJ+7LE6d1g==
+
+Name: numeric/cloud.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: YZN3dTDsLpzbRfGFfBZTo52FrP8=
+MD5-Digest: GKgW0iz64Uwhaw3zGha7eA==
+
+Name: numeric/cpu.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: R+oESUidG0QYCNmuVand7UPaDck=
+MD5-Digest: 4caQl5duzSDefSFZGRMMzA==
+
+Name: numeric/detroit.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 4BoYMOveMKt83x7CQ5Wt02QPeYI=
+MD5-Digest: CGy0P1Jb/w6SAX86ndU/wA==
+
+Name: numeric/echoMonths.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: so6oAqvwDbSwPI5UAepiBtd0XSQ=
+MD5-Digest: JK/+gy8q+TkLp1BRxx4hBQ==
+
+Name: numeric/elusage.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: VF6grETFbYWWGeJJhF5eQlzcbnk=
+MD5-Digest: K4zlLrvDJ4M76SIDWEl1kQ==
+
+Name: numeric/fishcatch.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: gTCF8vWZfvWz2yonbZZkSopLiAI=
+MD5-Digest: aH40EaOH/iu9JOuFeUPVDA==
+
+Name: numeric/fruitfly.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: z2+j6icKqgK8x8QQbiCdmCOJwno=
+MD5-Digest: u1Vxlvl9hJQoBB3RijbBdQ==
+
+Name: numeric/gascons.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: scFwct6oze4Syaqj6gPW28cH174=
+MD5-Digest: BdvM56vsGmKk9yCSCWf90A==
+
+Name: numeric/housing.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: AX6xF21+41p+xjnxT7n9q1X2Fg4=
+MD5-Digest: aLR4to/NMPjZeTTIHX4X5g==
+
+Name: numeric/hungarian.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: HITxQyBRVemVZ9iu8FsgQV7bvT8=
+MD5-Digest: zER88srxDsmJlLfqNaXhIA==
+
+Name: numeric/longley.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 3V7wDkSouDycDvfCbEwIGutynKc=
+MD5-Digest: OLTBB3K5lzdc9qZh0sukpw==
+
+Name: numeric/lowbwt.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: SkBvWYSk7HN2ODW4FBiF2/KV2uM=
+MD5-Digest: Kec+ofg77qh0YQLN3M+PhQ==
+
+Name: numeric/mbagrade.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: pXWwOQtTkndihMjspmJfrbC9WJs=
+MD5-Digest: bgOvoBQ5mg/3+AVZx5UnWg==
+
+Name: numeric/meta.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Ln0LHjh24MzDlxkLssxA/OWe34w=
+MD5-Digest: UCWHvABFpfjHoCZGAFrH1A==
+
+Name: numeric/pbc.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Zyu4vyGkfxlfrQDYrqE85J9VF28=
+MD5-Digest: bJ+kjuFbA9yjUwN1php4xg==
+
+Name: numeric/pharynx.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: t1MPDWbVFlrOCKxEh+gYgWc3lDg=
+MD5-Digest: t/fTE4Dm4RQoOhonvbeZeA==
+
+Name: numeric/pollution.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: SLdWyHwidjrvP5mP96oPZEPv2hg=
+MD5-Digest: 7dOnVVji/kMcLukl2VgdaQ==
+
+Name: numeric/pwLinear.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 6ECOI3bBQT7BlOTF1e905Ivfhy8=
+MD5-Digest: r8yU5qb/M9Cs95hBr6HMTw==
+
+Name: numeric/quake.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 0ODrEywFWMVIRXvQRv+2G8QOXyY=
+MD5-Digest: kCVGXspTGMrmwrV7ARoOgA==
+
+Name: numeric/schlvote.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: MAqu9Df1Ktvtuwcdl4a4wn6I84U=
+MD5-Digest: 3b+86S62Hx+VHHemmi0b0w==
+
+Name: numeric/sensory.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: k79FaZR5k1scpss+UGIA0kfizLs=
+MD5-Digest: JwTb7L1/I3IEXzQHig34xw==
+
+Name: numeric/servo.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: LankYupco0BcD2caR8vI9YYUAG8=
+MD5-Digest: xANKTlFwee8EvKTTuW7y6A==
+
+Name: numeric/sleep.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: erg++Tn8+BpWo3IQra+rI/uj7a4=
+MD5-Digest: HjlaTEt8d4Cj3GLu0S215Q==
+
+Name: numeric/strike.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: mlXe4JMYB4FOUkwnfGS8q2LQ2KU=
+MD5-Digest: ckYcwibvrEPMpUNChfcbPg==
+
+Name: numeric/veteran.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Zzs7lVu88OmA6QXbJKgFsDPDMAg=
+MD5-Digest: PGBekhIXoS+wVkprAFIjxQ==
+
+Name: numeric/vineyard.arff
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 1F8ejTA2cmmr+7qw0+ZiySjLg90=
+MD5-Digest: gs5fH2XI3iWwhFv8UCuZHQ==
+
