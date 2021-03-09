@@ -1,0 +1,44 @@
+coffees per day	sweets per day	water per day (l)	smoker	sport per week [h]	transport to work	general health	Selected	nickname
+continuous	continuous	continuous	discrete	continuous	discrete	continuous	discrete	string
+							class	meta
+2.0	3.0	5.0	No	6.0	car	3.0	No	a
+0.0	2.0	2.0	No	4.0	car	3.0	No	diskus
+0.0	1.0	1.0	No	9.0	car	4.0	No	mićo
+0.0	1.0	1.0	No	3.0	car	4.0	No	foobar
+3.0	0.0	1.0	No	5.0	car	5.0	No	martin
+0.0	1.0	2.0	No	2.0	car	4.0	No	anon
+1.0	1.0	2.0	No	10.0	bike/skates	4.0	No	k
+2.0	1.0	2.0	No	2.0	pubic transport	2.0	No	Barni
+0.0	1.0	2.0	No	10.0	bike/skates	4.0	No	ananas
+0.0	0.0	4.0	No	1.0	bike/skates	5.0	No	kebab
+1.0	1.0	2.0	No	3.0	car	4.0	No	x
+0.0	1.0	2.0	No	5.0	walking	5.0	No	Naja
+1.0	3.0	2.0	Yes	2.0	walking	4.0	No	oda
+3.0	5.0	3.0	No	5.0	car	-1.0	No	Luidgi
+0.0	1.0	2.0	No	7.0	bike/skates	5.0	No	atekna
+0.0	3.0	2.0	No	3.0	pubic transport	4.0	No	Buksl
+0.0	1.0	3.0	No	3.0	car	4.0	No	Luka
+0.0	1.0	2.0	No	7.0	pubic transport	3.0	No	Rdeca Kapica
+0.0	2.0	2.0	No	11.0	bike/skates	5.0	No	bogomoljka
+0.0	2.0	2.0	No	1.0	pubic transport	-1.0	No	Harry Potter
+2.0	1.0	3.0	Yes	9.0	bike/skates	5.0	No	sugar daddy
+2.0	1.0	3.0	No	2.0	bike/skates	4.0	No	Cokolada
+2.0	3.0	4.0	No	51.0	car	-1.0	No	Pipi
+0.0	0.0	3.0	No	0.0	walking	5.0	No	leni
+1.0	3.0	2.0	No	3.0	pubic transport	4.0	No	Color
+0.0	0.0	2.0	No	1.0	pubic transport	3.0	No	zorro
+0.0	1.0	3.0	No	9.0	pubic transport	5.0	No	Koki
+2.0	0.0	3.0	No	10.0	bike/skates	5.0	No	snow
+0.0	2.0	2.0	No	2.0	pubic transport	5.0	No	sanbernie
+2.0	0.0	4.0	No	6.0	pubic transport	4.0	No	joze
+0.0	1.0	2.0	No	1.0	walking	4.0	No	riba
+0.0	1.0	1.0	No	0.0	pubic transport	3.0	No	zert
+10.0	0.0	10.0	No	100.0	car	5.0	No	Chad
+0.0	2.0	3.0	No	2.0	pubic transport	4.0	No	Monjan
+0.0	0.0	2.0	No	1.0	pubic transport	4.0	No	Sloth
+0.0	5.0	3.0	No	4.0	pubic transport	4.0	No	Ron Swanson
+0.0	0.0	3.0	No	8.0	bike/skates	5.0	No	GeneralRommel
+1.0	2.0	2.0	No	5.0	car	4.0	No	piki
+0.0	2.0	2.0	No	5.0	pubic transport	3.0	No	Superman
+2.0	1.0	3.0	No	1.0	car	2.0	No	vzdevek
+0.0	4.0	1.0	No	20.0	pubic transport	5.0	No	Stroj14
