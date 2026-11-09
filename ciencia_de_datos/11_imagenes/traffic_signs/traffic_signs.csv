@@ -1,0 +1,71 @@
+category,sign,image
+regulatory,Turn Left,https://file.biolab.si/images/traffic-signs/regulatory/Turn%20Left.png
+regulatory,Go Left,https://file.biolab.si/images/traffic-signs/regulatory/Go%20Left.png
+regulatory,Turn Right,https://file.biolab.si/images/traffic-signs/regulatory/Turn%20Right.png
+regulatory,Pedestrian Lane,https://file.biolab.si/images/traffic-signs/regulatory/Pedestrian%20Lane.png
+regulatory,Go Right or Left,https://file.biolab.si/images/traffic-signs/regulatory/Go%20Right%20or%20Left.png
+regulatory,Snow Chains,https://file.biolab.si/images/traffic-signs/regulatory/Snow%20Chains.png
+regulatory,Go Straight,https://file.biolab.si/images/traffic-signs/regulatory/Go%20Straight.png
+regulatory,Horse Riding Lane,https://file.biolab.si/images/traffic-signs/regulatory/Horse%20Riding%20Lane.png
+regulatory,Stay Right,https://file.biolab.si/images/traffic-signs/regulatory/Stay%20Right.png
+regulatory,Minimum Speed,https://file.biolab.si/images/traffic-signs/regulatory/Minimum%20Speed.png
+regulatory,Bike (right) and Pedestrian Lane,https://file.biolab.si/images/traffic-signs/regulatory/Bike%20%28right%29%20and%20Pedestrian%20Lane.png
+regulatory,Bike Lane,https://file.biolab.si/images/traffic-signs/regulatory/Bike%20Lane.png
+regulatory,Go Straight On or Left,https://file.biolab.si/images/traffic-signs/regulatory/Go%20Straight%20On%20or%20Left.png
+regulatory,Bike and Pedestrian Lane,https://file.biolab.si/images/traffic-signs/regulatory/Bike%20and%20Pedestrian%20Lane.png
+regulatory,Go Right,https://file.biolab.si/images/traffic-signs/regulatory/Go%20Right.png
+regulatory,Bike (left) and Pedestrian Lane,https://file.biolab.si/images/traffic-signs/regulatory/Bike%20%28left%29%20and%20Pedestrian%20Lane.png
+regulatory,Go Straight On or Right,https://file.biolab.si/images/traffic-signs/regulatory/Go%20Straight%20On%20or%20Right.png
+regulatory,Roundabout,https://file.biolab.si/images/traffic-signs/regulatory/Roundabout.png
+regulatory,Stay Left,https://file.biolab.si/images/traffic-signs/regulatory/Stay%20Left.png
+warning,No Trailers,https://file.biolab.si/images/traffic-signs/warning/No%20Trailers.jpg
+warning,Stop,https://file.biolab.si/images/traffic-signs/warning/Stop.jpg
+warning,No Motor Bikes,https://file.biolab.si/images/traffic-signs/warning/No%20Motor%20Bikes.jpg
+warning,No Horse Traffic,https://file.biolab.si/images/traffic-signs/warning/No%20Horse%20Traffic.jpg
+warning,No Mopeds,https://file.biolab.si/images/traffic-signs/warning/No%20Mopeds.jpg
+warning,No U-Turn,https://file.biolab.si/images/traffic-signs/warning/No%20U-Turn.jpg
+warning,No Explosives,https://file.biolab.si/images/traffic-signs/warning/No%20Explosives.jpg
+warning,No Through Traffic,https://file.biolab.si/images/traffic-signs/warning/No%20Through%20Traffic.jpg
+warning,No Dangerous Trucks,https://file.biolab.si/images/traffic-signs/warning/No%20Dangerous%20Trucks.jpg
+warning,No Entry,https://file.biolab.si/images/traffic-signs/warning/No%20Entry.jpg
+warning,No Watter Pollutants,https://file.biolab.si/images/traffic-signs/warning/No%20Watter%20Pollutants.jpg
+warning,Give Way,https://file.biolab.si/images/traffic-signs/warning/Give%20Way.jpg
+warning,No Bikes,https://file.biolab.si/images/traffic-signs/warning/No%20Bikes.jpg
+warning,Stop for Border Control,https://file.biolab.si/images/traffic-signs/warning/Stop%20for%20Border%20Control.jpg
+warning,No Hand Pulled,https://file.biolab.si/images/traffic-signs/warning/No%20Hand%20Pulled.jpg
+warning,Stop for Police,https://file.biolab.si/images/traffic-signs/warning/Stop%20for%20Police.jpg
+warning,Peage,https://file.biolab.si/images/traffic-signs/warning/Peage.jpg
+warning,No Right Turn,https://file.biolab.si/images/traffic-signs/warning/No%20Right%20Turn.jpg
+warning,No Trailer Trucks,https://file.biolab.si/images/traffic-signs/warning/No%20Trailer%20Trucks.jpg
+warning,No Access,https://file.biolab.si/images/traffic-signs/warning/No%20Access.jpg
+warning,No Trucks with Trailers,https://file.biolab.si/images/traffic-signs/warning/No%20Trucks%20with%20Trailers.jpg
+warning,No Tractor,https://file.biolab.si/images/traffic-signs/warning/No%20Tractor.jpg
+warning,No Left Turn,https://file.biolab.si/images/traffic-signs/warning/No%20Left%20Turn.jpg
+warning,No Truck Traffic,https://file.biolab.si/images/traffic-signs/warning/No%20Truck%20Traffic.jpg
+warning,No Motor Vehicles and Motor Bikes,https://file.biolab.si/images/traffic-signs/warning/No%20Motor%20Vehicles%20and%20Motor%20Bikes.jpg
+warning,No Bus,https://file.biolab.si/images/traffic-signs/warning/No%20Bus.jpg
+warning,No Pedestrians,https://file.biolab.si/images/traffic-signs/warning/No%20Pedestrians.jpg
+warning,40 km Limit,https://file.biolab.si/images/traffic-signs/warning/40%20km%20Limit.jpg
+yield,Two Curves First One Right,https://file.biolab.si/images/traffic-signs/yield/Two%20Curves%20First%20One%20Right.png
+yield,Unprotected Sea Edge,https://file.biolab.si/images/traffic-signs/yield/Unprotected%20Sea%20Edge.png
+yield,Two Curves First One Left,https://file.biolab.si/images/traffic-signs/yield/Two%20Curves%20First%20One%20Left.png
+yield,Falling Rocks on Right,https://file.biolab.si/images/traffic-signs/yield/Falling%20Rocks%20on%20Right.png
+yield,Unsteady Material,https://file.biolab.si/images/traffic-signs/yield/Unsteady%20Material.png
+yield,Bike Crossing,https://file.biolab.si/images/traffic-signs/yield/Bike%20Crossing.png
+yield,Wild Animals Corssing,https://file.biolab.si/images/traffic-signs/yield/Wild%20Animals%20Corssing.png
+yield,Narrows (on Left),https://file.biolab.si/images/traffic-signs/yield/Narrows%20%28on%20Left%29.png
+yield,Falling Rocks on Left,https://file.biolab.si/images/traffic-signs/yield/Falling%20Rocks%20on%20Left.png
+yield,Childreen Crossing,https://file.biolab.si/images/traffic-signs/yield/Childreen%20Crossing.png
+yield,Dip,https://file.biolab.si/images/traffic-signs/yield/Dip.png
+yield,Narrows (on Right),https://file.biolab.si/images/traffic-signs/yield/Narrows%20%28on%20Right%29.png
+yield,Bump,https://file.biolab.si/images/traffic-signs/yield/Bump.png
+yield,Right Curve,https://file.biolab.si/images/traffic-signs/yield/Right%20Curve.png
+yield,Slippery Road,https://file.biolab.si/images/traffic-signs/yield/Slippery%20Road.png
+yield,Pedestrian Crossing,https://file.biolab.si/images/traffic-signs/yield/Pedestrian%20Crossing.png
+yield,Uneven Road,https://file.biolab.si/images/traffic-signs/yield/Uneven%20Road.png
+yield,Steep Decline,https://file.biolab.si/images/traffic-signs/yield/Steep%20Decline.png
+yield,Steep Incline,https://file.biolab.si/images/traffic-signs/yield/Steep%20Incline.png
+yield,Road Narrows,https://file.biolab.si/images/traffic-signs/yield/Road%20Narrows.png
+yield,Movable Bridge,https://file.biolab.si/images/traffic-signs/yield/Movable%20Bridge.png
+yield,Animals Crossing,https://file.biolab.si/images/traffic-signs/yield/Animals%20Crossing.png
+yield,Left Curve,https://file.biolab.si/images/traffic-signs/yield/Left%20Curve.png

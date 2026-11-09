@@ -1,0 +1,1809 @@
+Duration,Event,Country Name,Effective Head of Government,COW Country Code,POLITY IV Country Code,UN Geographic Region Name,UN Continent Name,Democracy,Regime,Start Year
+7,1,Afghanistan,Mohammad Zahir Shah,700,700,Southern Asia,Asia,Non-democracy,Monarchy,1946
+10,1,Afghanistan,Sardar Mohammad Daoud,700,700,Southern Asia,Asia,Non-democracy,Civilian Dict,1953
+10,1,Afghanistan,Mohammad Zahir Shah,700,700,Southern Asia,Asia,Non-democracy,Monarchy,1963
+5,0,Afghanistan,Sardar Mohammad Daoud,700,700,Southern Asia,Asia,Non-democracy,Civilian Dict,1973
+1,0,Afghanistan,Nur Mohammad Taraki,700,700,Southern Asia,Asia,Non-democracy,Civilian Dict,1978
+6,1,Afghanistan,Babrak Karmal,700,700,Southern Asia,Asia,Non-democracy,Civilian Dict,1979
+7,1,Afghanistan,Mohammed Najibullah,700,700,Southern Asia,Asia,Non-democracy,Civilian Dict,1985
+4,1,Afghanistan,Burhanuddin Rabbani,700,700,Southern Asia,Asia,Non-democracy,Civilian Dict,1992
+5,0,Afghanistan,Mullah Mohammad Rabbani,700,700,Southern Asia,Asia,Non-democracy,Civilian Dict,1996
+8,0,Afghanistan,Hamid Karzai,700,700,Southern Asia,Asia,Non-democracy,Civilian Dict,2001
+39,0,Albania,Enver Hoxha,339,339,Southern Europe,Europe,Non-democracy,Military Dict,1946
+6,1,Albania,Ramiz Alia,339,339,Southern Europe,Europe,Non-democracy,Civilian Dict,1985
+1,1,Albania,Ramiz Alia,339,339,Southern Europe,Europe,Democracy,Parliamentary Dem,1991
+5,1,Albania,Aleksander Meksi,339,339,Southern Europe,Europe,Democracy,Parliamentary Dem,1992
+1,1,Albania,Fatos Nano,339,339,Southern Europe,Europe,Democracy,Parliamentary Dem,1997
+1,1,Albania,Pandeli Majko,339,339,Southern Europe,Europe,Democracy,Parliamentary Dem,1998
+3,1,Albania,Ilir Meta,339,339,Southern Europe,Europe,Democracy,Parliamentary Dem,1999
+3,1,Albania,Fatos Nano,339,339,Southern Europe,Europe,Democracy,Parliamentary Dem,2002
+4,0,Albania,Sali Berisha,339,339,Southern Europe,Europe,Democracy,Parliamentary Dem,2005
+3,1,Algeria,Ahmed Ben Bella,615,615,Northern Africa,Africa,Non-democracy,Civilian Dict,1962
+13,0,Algeria,Houari Boumedienne,615,615,Northern Africa,Africa,Non-democracy,Military Dict,1965
+1,1,Algeria,military,615,615,Northern Africa,Africa,Non-democracy,Military Dict,1978
+13,1,Algeria,Benjedid Chadli,615,615,Northern Africa,Africa,Non-democracy,Military Dict,1979
+2,1,Algeria,military High Security Council,615,615,Northern Africa,Africa,Non-democracy,Military Dict,1992
+5,1,Algeria,Liamine Zeroual,615,615,Northern Africa,Africa,Non-democracy,Military Dict,1994
+10,0,Algeria,Abdelaziz Bouteflika,615,615,Northern Africa,Africa,Non-democracy,Civilian Dict,1999
+1,1,Andorra,Oscar Ribas Reig,232,232,Southern Europe,Europe,Democracy,Parliamentary Dem,1993
+11,1,Andorra,Marc Forne Molne,232,232,Southern Europe,Europe,Democracy,Parliamentary Dem,1994
+4,0,Andorra,Albert Pintat Santolï¿½ria,232,232,Southern Europe,Europe,Democracy,Parliamentary Dem,2005
+4,0,Angola,Agostinho Neto,540,540,Middle Africa,Africa,Non-democracy,Civilian Dict,1975
+30,0,Angola,Jose Eduardo dos Santos,540,540,Middle Africa,Africa,Non-democracy,Civilian Dict,1979
+13,1,Antigua & Barbuda,Vere Cornwall Bird,58,58,Caribbean,Americas,Democracy,Parliamentary Dem,1981
+10,1,Antigua & Barbuda,Lester Bird,58,58,Caribbean,Americas,Democracy,Parliamentary Dem,1994
+5,0,Antigua & Barbuda,Baldwin Spencer,58,58,Caribbean,Americas,Democracy,Parliamentary Dem,2004
+9,1,Argentina,Juan Peron,160,160,South America,Americas,Democracy,Presidential Dem,1946
+3,1,Argentina,Pedro Eugenio Aramburu Cilveti,160,160,South America,Americas,Non-democracy,Military Dict,1955
+4,1,Argentina,Arturo Frondizi,160,160,South America,Americas,Democracy,Presidential Dem,1958
+1,1,Argentina,Military,160,160,South America,Americas,Non-democracy,Military Dict,1962
+3,1,Argentina,Arturo Umberto Illia,160,160,South America,Americas,Democracy,Presidential Dem,1963
+4,1,Argentina,Juan Carlos Ongania,160,160,South America,Americas,Non-democracy,Military Dict,1966
+1,1,Argentina,Roberto Marcelo Levingston,160,160,South America,Americas,Non-democracy,Military Dict,1970
+2,1,Argentina,Alejandro Agustan Lanusse,160,160,South America,Americas,Non-democracy,Military Dict,1971
+1,0,Argentina,Juan Peron,160,160,South America,Americas,Democracy,Presidential Dem,1973
+2,1,Argentina,Isabel Peron,160,160,South America,Americas,Democracy,Presidential Dem,1974
+5,1,Argentina,Jorge Rafael Videla,160,160,South America,Americas,Non-democracy,Military Dict,1976
+1,1,Argentina,Leopoldo Galtieri,160,160,South America,Americas,Non-democracy,Military Dict,1981
+1,1,Argentina,Reynaldo Bignone,160,160,South America,Americas,Non-democracy,Military Dict,1982
+6,1,Argentina,Raul Alfonsin,160,160,South America,Americas,Democracy,Presidential Dem,1983
+10,1,Argentina,Carlos Menem,160,160,South America,Americas,Democracy,Presidential Dem,1989
+2,1,Argentina,Fernando de la Rua,160,160,South America,Americas,Democracy,Presidential Dem,1999
+1,1,Argentina,Eduardo Oscar Camano,160,160,South America,Americas,Democracy,Presidential Dem,2001
+3,1,Argentina,Eduardo Alberto Duhalde Maldonado,160,160,South America,Americas,Democracy,Presidential Dem,2002
+2,1,Argentina,Nï¿½stor Carlos Kirchner Ostoic,160,160,South America,Americas,Democracy,Presidential Dem,2005
+2,0,Argentina,Cristina Fernï¿½ndez de Kirchner,160,160,South America,Americas,Democracy,Presidential Dem,2007
+4,1,Armenia,Levon Ter-Petrosyan,371,371,Western Asia,Asia,Democracy,Mixed Dem,1991
+1,1,Armenia,Hrant Bagratyan,371,371,Western Asia,Asia,Democracy,Mixed Dem,1995
+1,1,Armenia,Armen Sarkisyan,371,371,Western Asia,Asia,Democracy,Mixed Dem,1996
+1,1,Armenia,Robert Kocharyan,371,371,Western Asia,Asia,Democracy,Mixed Dem,1997
+1,1,Armenia,Armen Darbinyan,371,371,Western Asia,Asia,Democracy,Mixed Dem,1998
+1,1,Armenia,Aram Sargsyan,371,371,Western Asia,Asia,Democracy,Mixed Dem,1999
+7,0,Armenia,Andranik Margaryan,371,371,Western Asia,Asia,Democracy,Mixed Dem,2000
+1,1,Armenia,Serzh Sargsyan,371,371,Western Asia,Asia,Democracy,Mixed Dem,2007
+1,0,Armenia,Tigran Sargsyan,371,371,Western Asia,Asia,Democracy,Mixed Dem,2008
+3,1,Australia,Joseph Chifley,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1946
+17,1,Australia,Robert Menzies,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1949
+1,0,Australia,Harold Holt,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1966
+1,1,Australia,John McEwan,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1967
+3,1,Australia,John Gorton,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1968
+1,1,Australia,William McMahon,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1971
+3,1,Australia,E. Gough Whitlam,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1972
+8,1,Australia,Malcom Fraser,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1975
+8,1,Australia,Robert Hawke,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1983
+5,1,Australia,Paul Keating,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1991
+11,1,Australia,John Howard,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1996
+2,0,Australia,Kevin Michael Rudd,900,900,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,2007
+7,1,Austria,Leopold Figl,305,305,Western Europe,Europe,Democracy,Mixed Dem,1946
+8,1,Austria,Julius Raab,305,305,Western Europe,Europe,Democracy,Mixed Dem,1953
+3,1,Austria,Alfons Gorbach,305,305,Western Europe,Europe,Democracy,Mixed Dem,1961
+6,1,Austria,Josef Klaus,305,305,Western Europe,Europe,Democracy,Mixed Dem,1964
+13,1,Austria,Bruno Kreisky,305,305,Western Europe,Europe,Democracy,Mixed Dem,1970
+3,1,Austria,Alfred Sinowatz,305,305,Western Europe,Europe,Democracy,Mixed Dem,1983
+11,1,Austria,Franz Vranitzky,305,305,Western Europe,Europe,Democracy,Mixed Dem,1986
+3,1,Austria,Viktor Klima,305,305,Western Europe,Europe,Democracy,Mixed Dem,1997
+7,1,Austria,Wolfgang Schussel,305,305,Western Europe,Europe,Democracy,Mixed Dem,2000
+2,0,Austria,Alfred Gusenbauer,305,305,Western Europe,Europe,Democracy,Mixed Dem,2007
+1,1,Azerbaijan,Ayaz Mutalibov,373,373,Western Asia,Asia,Non-democracy,Civilian Dict,1991
+1,1,Azerbaijan,Abulfez Elchibey,373,373,Western Asia,Asia,Non-democracy,Civilian Dict,1992
+10,0,Azerbaijan,Heydar Aliyev,373,373,Western Asia,Asia,Non-democracy,Civilian Dict,1993
+6,0,Azerbaijan,Ilham Heydar oglu Aliyev,373,373,Western Asia,Asia,Non-democracy,Civilian Dict,2003
+19,1,Bahamas,Lynden Pindling,31,31,Caribbean,Americas,Democracy,Parliamentary Dem,1973
+10,1,Bahamas,Hubert Ingraham,31,31,Caribbean,Americas,Democracy,Parliamentary Dem,1992
+5,1,Bahamas,Perry Gladstone Christie,31,31,Caribbean,Americas,Democracy,Parliamentary Dem,2002
+2,0,Bahamas,Hubert Alexander Ingraham,31,31,Caribbean,Americas,Democracy,Parliamentary Dem,2007
+28,0,Bahrain,Sheikh 'Isa ibn Sulman Al Khalifah,692,692,Western Asia,Asia,Non-democracy,Monarchy,1971
+10,0,Bahrain,Sheikh Hamad ibn 'Isa Al Khalifah,692,692,Western Asia,Asia,Non-democracy,Monarchy,1999
+1,1,Bangladesh,Tajuddin Ahmed,771,771,Southern Asia,Asia,Non-democracy,Civilian Dict,1971
+3,0,Bangladesh,Mujibur Rahman,771,771,Southern Asia,Asia,Non-democracy,Civilian Dict,1972
+2,1,Bangladesh,Abu Sadat Mohammad Sayem,771,771,Southern Asia,Asia,Non-democracy,Civilian Dict,1975
+4,0,Bangladesh,Zia ur-Rahman,771,771,Southern Asia,Asia,Non-democracy,Military Dict,1977
+1,1,Bangladesh,Abdus Sattar,771,771,Southern Asia,Asia,Non-democracy,Civilian Dict,1981
+4,1,Bangladesh,Hossain Mohammad Ershad,771,771,Southern Asia,Asia,Non-democracy,Military Dict,1982
+4,1,Bangladesh,Hossain Mohammad Ershad,771,771,Southern Asia,Asia,Democracy,Mixed Dem,1986
+1,1,Bangladesh,Shahabuddin Ahmed,771,771,Southern Asia,Asia,Democracy,Mixed Dem,1990
+5,1,Bangladesh,Khaleda Zia,771,771,Southern Asia,Asia,Democracy,Parliamentary Dem,1991
+5,1,Bangladesh,Sheikh Hasina Wajed,771,771,Southern Asia,Asia,Democracy,Parliamentary Dem,1996
+6,1,Bangladesh,Khaleda Zia,771,771,Southern Asia,Asia,Democracy,Parliamentary Dem,2001
+1,1,Bangladesh,military,771,771,Southern Asia,Asia,Non-democracy,Military Dict,2007
+1,0,Bangladesh,military,771,771,Southern Asia,Asia,Non-democracy,Civilian Dict,2008
+10,1,Barbados,Errol Barrow,53,53,Caribbean,Americas,Democracy,Parliamentary Dem,1966
+9,0,Barbados,John Adams,53,53,Caribbean,Americas,Democracy,Parliamentary Dem,1976
+1,1,Barbados,Bernard St. John,53,53,Caribbean,Americas,Democracy,Parliamentary Dem,1985
+1,0,Barbados,Errol Barrow,53,53,Caribbean,Americas,Democracy,Parliamentary Dem,1986
+7,1,Barbados,Erskine Sandiford,53,53,Caribbean,Americas,Democracy,Parliamentary Dem,1987
+14,1,Barbados,Owen Arthur,53,53,Caribbean,Americas,Democracy,Parliamentary Dem,1994
+1,0,Barbados,David Thompson,53,53,Caribbean,Americas,Democracy,Parliamentary Dem,2008
+3,1,Belarus,Stanislau Shushkevich,370,370,Eastern Europe,Europe,Non-democracy,Civilian Dict,1991
+15,0,Belarus,Alyaksandr Lukashenka,370,370,Eastern Europe,Europe,Non-democracy,Civilian Dict,1994
+1,1,Belgium,Camille Huysmans,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1946
+2,1,Belgium,Paul-Henri Spaak,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1947
+1,1,Belgium,Gaston Eyskens,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1949
+2,1,Belgium,Joseph Pholien,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1950
+2,1,Belgium,Jean van Houtte,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1952
+4,1,Belgium,Achille van Acker,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1954
+3,1,Belgium,Gaston Eyskens,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1958
+4,1,Belgium,Theodore Lefevre,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1961
+1,1,Belgium,Pierre Harmel,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1965
+2,1,Belgium,Paul van den Boeynants,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1966
+5,1,Belgium,Gaston Eyskens,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1968
+1,1,Belgium,Edmond Leburton,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1973
+4,1,Belgium,Leo Tindemans,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1974
+1,1,Belgium,Paul van den Boeynants,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1978
+13,1,Belgium,Wilfried Martens,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1979
+7,1,Belgium,Jean-Luc Dehaene,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1992
+9,1,Belgium,Guy Verhofstadt,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,1999
+1,0,Belgium,Herman Van Rompuy,211,211,Western Europe,Europe,Democracy,Parliamentary Dem,2008
+3,1,Belize,George Cadle Price,80,80,Central America,Americas,Democracy,Parliamentary Dem,1981
+5,1,Belize,Manuel Esquivel,80,80,Central America,Americas,Democracy,Parliamentary Dem,1984
+4,1,Belize,George Cadle Price,80,80,Central America,Americas,Democracy,Parliamentary Dem,1989
+5,1,Belize,Manuel Esquivel,80,80,Central America,Americas,Democracy,Parliamentary Dem,1993
+10,1,Belize,Said Musa,80,80,Central America,Americas,Democracy,Parliamentary Dem,1998
+1,0,Belize,Dean Oliver Barrow,80,80,Central America,Americas,Democracy,Parliamentary Dem,2008
+3,1,Benin,Hubert Maga,434,434,Western Africa,Africa,Non-democracy,Civilian Dict,1960
+4,1,Benin,Christophe Soglo,434,434,Western Africa,Africa,Non-democracy,Military Dict,1963
+1,1,Benin,Alphonse Alley,434,434,Western Africa,Africa,Non-democracy,Military Dict,1967
+2,1,Benin,military,434,434,Western Africa,Africa,Non-democracy,Military Dict,1968
+2,1,Benin,Hubert Maga,434,434,Western Africa,Africa,Non-democracy,Civilian Dict,1970
+19,1,Benin,Mathieu Kerekou,434,434,Western Africa,Africa,Non-democracy,Military Dict,1972
+5,1,Benin,Nicephore Soglo,434,434,Western Africa,Africa,Democracy,Presidential Dem,1991
+10,1,Benin,Mathieu Kerekou,434,434,Western Africa,Africa,Democracy,Presidential Dem,1996
+3,0,Benin,Yayi Boni,434,434,Western Africa,Africa,Democracy,Presidential Dem,2006
+6,0,Bhutan,Jigme Wangchuk,760,760,Southern Asia,Asia,Non-democracy,Monarchy,1946
+20,0,Bhutan,Jigme Dorji Wangchuk,760,760,Southern Asia,Asia,Non-democracy,Monarchy,1952
+35,1,Bhutan,Jigme Singye Wangchuk,760,760,Southern Asia,Asia,Non-democracy,Monarchy,1972
+1,1,Bhutan,Kinzang Dorji,760,760,Southern Asia,Asia,Democracy,Parliamentary Dem,2007
+1,0,Bhutan,Jigme Thinley,760,760,Southern Asia,Asia,Democracy,Parliamentary Dem,2008
+1,1,Bolivia,Military,145,145,South America,Americas,Non-democracy,Military Dict,1946
+2,1,Bolivia,Enrique Hertzog,145,145,South America,Americas,Non-democracy,Civilian Dict,1947
+2,1,Bolivia,Mamerto Urriolagoitia,145,145,South America,Americas,Non-democracy,Civilian Dict,1949
+1,1,Bolivia,Hugo Ballivion Rojas,145,145,South America,Americas,Non-democracy,Military Dict,1951
+4,1,Bolivia,Victor Paz Estenssoro,145,145,South America,Americas,Non-democracy,Civilian Dict,1952
+4,1,Bolivia,Hernan Siles Zuazo,145,145,South America,Americas,Non-democracy,Civilian Dict,1956
+4,1,Bolivia,Victor Paz Estenssoro,145,145,South America,Americas,Non-democracy,Civilian Dict,1960
+1,1,Bolivia,Rene Barrientos Ortuno,145,145,South America,Americas,Non-democracy,Military Dict,1964
+1,1,Bolivia,Rene Barrientos Ortuno+Alfredo Ovando Candia,145,145,South America,Americas,Non-democracy,Military Dict,1965
+3,0,Bolivia,Rene Barrientos Ortuno,145,145,South America,Americas,Non-democracy,Military Dict,1966
+1,1,Bolivia,Alfredo Ovando Candia,145,145,South America,Americas,Non-democracy,Military Dict,1969
+1,1,Bolivia,Juan Torres Gonzalez,145,145,South America,Americas,Non-democracy,Military Dict,1970
+7,1,Bolivia,Hugo Banzer Suarez,145,145,South America,Americas,Non-democracy,Military Dict,1971
+1,1,Bolivia,David Padilla Arancibia,145,145,South America,Americas,Non-democracy,Military Dict,1978
+1,1,Bolivia,Lidia Gueiler Tejada,145,145,South America,Americas,Democracy,Presidential Dem,1979
+1,1,Bolivia,Luis Garcia Meza Tejada,145,145,South America,Americas,Non-democracy,Military Dict,1980
+1,1,Bolivia,Celso Torrelio Villa,145,145,South America,Americas,Non-democracy,Military Dict,1981
+3,1,Bolivia,Hernan Siles Zuazo,145,145,South America,Americas,Democracy,Presidential Dem,1982
+4,1,Bolivia,Victor Paz Estenssoro,145,145,South America,Americas,Democracy,Presidential Dem,1985
+4,1,Bolivia,Jaime Paz Zamoro,145,145,South America,Americas,Democracy,Presidential Dem,1989
+4,1,Bolivia,Gonzalo Sanchez de Lozada,145,145,South America,Americas,Democracy,Presidential Dem,1993
+4,1,Bolivia,Hugo Banzer Suarez,145,145,South America,Americas,Democracy,Presidential Dem,1997
+1,1,Bolivia,Jorge Fernando Quiroga Ramirez,145,145,South America,Americas,Democracy,Presidential Dem,2001
+1,1,Bolivia,Gonzalo Sanchez de Lozada,145,145,South America,Americas,Democracy,Presidential Dem,2002
+2,1,Bolivia,Carlos Diego Mesa Gisbert,145,145,South America,Americas,Democracy,Presidential Dem,2003
+1,1,Bolivia,Eduardo Rodrï¿½guez Veltzï¿½,145,145,South America,Americas,Democracy,Presidential Dem,2005
+3,0,Bolivia,Juan Evo Morales Ayma,145,145,South America,Americas,Democracy,Presidential Dem,2006
+7,1,Bosnia and Herzegovina,Alija Izetbegovic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,1991
+1,1,Bosnia and Herzegovina,Zivko Radisic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,1998
+1,1,Bosnia and Herzegovina,Ante Jelavic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,1999
+1,1,Bosnia and Herzegovina,Zivko Radisic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,2000
+1,1,Bosnia and Herzegovina,Jozo Krizanovic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,2001
+1,1,Bosnia and Herzegovina,Mirko Sarovic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,2002
+1,1,Bosnia and Herzegovina,Dragan Kovic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,2003
+1,1,Bosnia and Herzegovina,Borislav Paravac,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,2004
+1,1,Bosnia and Herzegovina,Ivo Miro Jovic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,2005
+1,1,Bosnia and Herzegovina,Nebojsa Radmanovic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,2006
+1,1,Bosnia and Herzegovina,Zeljko Komsic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,2007
+1,0,Bosnia and Herzegovina,Nebojsa Radmanovic,346,346,Southern Europe,Europe,Non-democracy,Civilian Dict,2008
+14,0,Botswana,Seretse Khama,571,571,Southern Africa,Africa,Non-democracy,Civilian Dict,1966
+18,1,Botswana,Quett Masire,571,571,Southern Africa,Africa,Non-democracy,Civilian Dict,1980
+10,1,Botswana,Festus Mogae,571,571,Southern Africa,Africa,Non-democracy,Civilian Dict,1998
+1,0,Botswana,Seretse Khama Ian Khama,571,571,Southern Africa,Africa,Non-democracy,Military Dict,2008
+5,1,Brazil,Eurico Dutra,140,140,South America,Americas,Democracy,Presidential Dem,1946
+3,0,Brazil,Getulio Vargas,140,140,South America,Americas,Democracy,Presidential Dem,1951
+1,1,Brazil,Joao Cafe,140,140,South America,Americas,Democracy,Presidential Dem,1954
+1,1,Brazil,Nereu Ramos,140,140,South America,Americas,Democracy,Presidential Dem,1955
+5,1,Brazil,Juscelino Kubitschek,140,140,South America,Americas,Democracy,Presidential Dem,1956
+1,1,Brazil,Tancredo de Almeida Neves,140,140,South America,Americas,Democracy,Mixed Dem,1961
+1,1,Brazil,Hermes Lima,140,140,South America,Americas,Democracy,Mixed Dem,1962
+1,1,Brazil,Joao Belchior Marques Goulart,140,140,South America,Americas,Democracy,Presidential Dem,1963
+3,1,Brazil,Humberto de Alencar Castello Branco,140,140,South America,Americas,Non-democracy,Military Dict,1964
+2,1,Brazil,Artur da Costa e Silva,140,140,South America,Americas,Non-democracy,Military Dict,1967
+5,1,Brazil,Emilio Medici,140,140,South America,Americas,Non-democracy,Military Dict,1969
+5,1,Brazil,Ernesto Geisel,140,140,South America,Americas,Non-democracy,Military Dict,1974
+6,1,Brazil,Joao Figueiredo,140,140,South America,Americas,Non-democracy,Military Dict,1979
+5,1,Brazil,Jose Sarney,140,140,South America,Americas,Democracy,Presidential Dem,1985
+2,1,Brazil,Fernando Collor de Mello,140,140,South America,Americas,Democracy,Presidential Dem,1990
+3,1,Brazil,Itamar Franco,140,140,South America,Americas,Democracy,Presidential Dem,1992
+8,1,Brazil,Fernando Henrique Cardoso,140,140,South America,Americas,Democracy,Presidential Dem,1995
+6,0,Brazil,Luiz Inï¿½cio Lula da Silva,140,140,South America,Americas,Democracy,Presidential Dem,2003
+25,0,Brunei Darussalam,Hassanal Bolkiah,835,835,South-Eastern Asia,Asia,Non-democracy,Monarchy,1984
+3,0,Bulgaria,Georgi Dimitrov,355,355,Eastern Europe,Europe,Non-democracy,Civilian Dict,1946
+1,0,Bulgaria,Vasil Petrov Kolarov,355,355,Eastern Europe,Europe,Non-democracy,Civilian Dict,1949
+4,1,Bulgaria,Vulko Chervenkov,355,355,Eastern Europe,Europe,Non-democracy,Civilian Dict,1950
+35,1,Bulgaria,Todor Zhivkov,355,355,Eastern Europe,Europe,Non-democracy,Civilian Dict,1954
+1,1,Bulgaria,Peter Mladenov,355,355,Eastern Europe,Europe,Non-democracy,Civilian Dict,1989
+1,1,Bulgaria,Dimitur Popov,355,355,Eastern Europe,Europe,Democracy,Mixed Dem,1990
+1,1,Bulgaria,Filip Dimitrov,355,355,Eastern Europe,Europe,Democracy,Mixed Dem,1991
+2,1,Bulgaria,Lyuben Berov,355,355,Eastern Europe,Europe,Democracy,Mixed Dem,1992
+1,1,Bulgaria,Reneta Indzhova,355,355,Eastern Europe,Europe,Democracy,Mixed Dem,1994
+2,1,Bulgaria,Zhan Videnov,355,355,Eastern Europe,Europe,Democracy,Mixed Dem,1995
+4,1,Bulgaria,Ivan Kostov,355,355,Eastern Europe,Europe,Democracy,Mixed Dem,1997
+4,1,Bulgaria,Simeon Borisov Sakskoburggotski,355,355,Eastern Europe,Europe,Democracy,Mixed Dem,2001
+4,0,Bulgaria,Sergey Dimitrievich Stanishev,355,355,Eastern Europe,Europe,Democracy,Mixed Dem,2005
+6,1,Burkina Faso,Maurice Yameogo,439,439,Western Africa,Africa,Non-democracy,Civilian Dict,1960
+14,1,Burkina Faso,Sangoule Lamizana,439,439,Western Africa,Africa,Non-democracy,Military Dict,1966
+2,1,Burkina Faso,Saye Zerbo,439,439,Western Africa,Africa,Non-democracy,Military Dict,1980
+1,1,Burkina Faso,Jean-Baptiste Ouedraogo,439,439,Western Africa,Africa,Non-democracy,Military Dict,1982
+4,0,Burkina Faso,Thomas Sankara,439,439,Western Africa,Africa,Non-democracy,Military Dict,1983
+22,0,Burkina Faso,Blaise Compaor,439,439,Western Africa,Africa,Non-democracy,Military Dict,1987
+4,1,Burundi,Mwambutsa IV,516,516,Eastern Africa,Africa,Non-democracy,Monarchy,1962
+10,1,Burundi,Michel Micombero,516,516,Eastern Africa,Africa,Non-democracy,Military Dict,1966
+11,1,Burundi,Jean-Baptiste Bagaza,516,516,Eastern Africa,Africa,Non-democracy,Military Dict,1976
+6,1,Burundi,Pierre Buyoya,516,516,Eastern Africa,Africa,Non-democracy,Military Dict,1987
+1,1,Burundi,Sylvie Kinigi,516,516,Eastern Africa,Africa,Democracy,Presidential Dem,1993
+2,1,Burundi,Sylvestre Ntibantunganya,516,516,Eastern Africa,Africa,Democracy,Presidential Dem,1994
+7,1,Burundi,Pierre Buyoya,516,516,Eastern Africa,Africa,Non-democracy,Military Dict,1996
+2,1,Burundi,Domitien Ndayizeye,516,516,Eastern Africa,Africa,Non-democracy,Civilian Dict,2003
+4,0,Burundi,Pierre Nkurunziza,516,516,Eastern Africa,Africa,Democracy,Presidential Dem,2005
+2,1,Cambodia,Norodom Sihanouk,811,811,South-Eastern Asia,Asia,Non-democracy,Monarchy,1953
+11,1,Cambodia,Norodom Sihanouk,811,811,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1955
+1,1,Cambodia,Lon Nol,811,811,South-Eastern Asia,Asia,Non-democracy,Military Dict,1966
+2,1,Cambodia,Norodom Sihanouk,811,811,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1967
+6,1,Cambodia,Lon Nol,811,811,South-Eastern Asia,Asia,Non-democracy,Military Dict,1969
+1,1,Cambodia,Norodom Sihanouk,811,811,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1975
+3,1,Cambodia,Pol Pot,811,811,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1976
+12,1,Cambodia,Heng Samrin,811,811,South-Eastern Asia,Asia,Non-democracy,Military Dict,1979
+2,1,Cambodia,Norodom Sihanouk,811,811,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1991
+4,1,Cambodia,Hun Sen + Ranariddh,811,811,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1993
+12,0,Cambodia,Hun Sen,811,811,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1997
+22,1,Cameroon,Ahmadou Ahidjo,471,471,Middle Africa,Africa,Non-democracy,Civilian Dict,1960
+27,0,Cameroon,Paul Biya,471,471,Middle Africa,Africa,Non-democracy,Civilian Dict,1982
+2,1,Canada,W. MacKenzie King,20,20,Northern America,Americas,Democracy,Parliamentary Dem,1946
+9,1,Canada,Louis Saint Laurent,20,20,Northern America,Americas,Democracy,Parliamentary Dem,1948
+6,1,Canada,John Diefenbaker,20,20,Northern America,Americas,Democracy,Parliamentary Dem,1957
+5,1,Canada,Lester Pearson,20,20,Northern America,Americas,Democracy,Parliamentary Dem,1963
+11,1,Canada,Pierre Elliott Trudeau,20,20,Northern America,Americas,Democracy,Parliamentary Dem,1968
+1,1,Canada,Joe Clark,20,20,Northern America,Americas,Democracy,Parliamentary Dem,1979
+4,1,Canada,Pierre Elliott Trudeau,20,20,Northern America,Americas,Democracy,Parliamentary Dem,1980
+9,1,Canada,Brian Mulroney,20,20,Northern America,Americas,Democracy,Parliamentary Dem,1984
+10,1,Canada,Jean Chretien,20,20,Northern America,Americas,Democracy,Parliamentary Dem,1993
+3,1,Canada,"Paul Joseph Martin, Jr.",20,20,Northern America,Americas,Democracy,Parliamentary Dem,2003
+3,0,Canada,Stephen Joseph Harper,20,20,Northern America,Americas,Democracy,Parliamentary Dem,2006
+15,1,Cape Verde,Aristides Pereira,402,402,Western Africa,Africa,Non-democracy,Civilian Dict,1975
+1,1,Cape Verde,Aristides Pereira,402,402,Western Africa,Africa,Democracy,Mixed Dem,1990
+9,1,Cape Verde,Carlos Veiga,402,402,Western Africa,Africa,Democracy,Mixed Dem,1991
+1,1,Cape Verde,Antonio Gualberto do Rosario,402,402,Western Africa,Africa,Democracy,Mixed Dem,2000
+8,0,Cape Verde,Jose Neves,402,402,Western Africa,Africa,Democracy,Mixed Dem,2001
+6,1,Central African Republic,David Dacko,482,482,Middle Africa,Africa,Non-democracy,Civilian Dict,1960
+13,1,Central African Republic,Jean-Bedel Bokassa,482,482,Middle Africa,Africa,Non-democracy,Military Dict,1966
+2,1,Central African Republic,David Dacko,482,482,Middle Africa,Africa,Non-democracy,Civilian Dict,1979
+12,1,Central African Republic,Andre Kolingba,482,482,Middle Africa,Africa,Non-democracy,Military Dict,1981
+2,1,Central African Republic,Jean-Luc Mandaba,482,482,Middle Africa,Africa,Democracy,Mixed Dem,1993
+1,1,Central African Republic,Gabriel Koyambounou,482,482,Middle Africa,Africa,Democracy,Mixed Dem,1995
+1,1,Central African Republic,Jean-Paul Ngoupande,482,482,Middle Africa,Africa,Democracy,Mixed Dem,1996
+2,1,Central African Republic,Michel Gbezera-Bria,482,482,Middle Africa,Africa,Democracy,Mixed Dem,1997
+2,1,Central African Republic,Anicet Georges Dologuele,482,482,Middle Africa,Africa,Democracy,Mixed Dem,1999
+2,1,Central African Republic,Martin Ziguele,482,482,Middle Africa,Africa,Democracy,Mixed Dem,2001
+6,0,Central African Republic,Franï¿½ois Bozizï¿½,482,482,Middle Africa,Africa,Non-democracy,Military Dict,2003
+15,0,Chad,Ngarta Tombolbaye,483,483,Middle Africa,Africa,Non-democracy,Civilian Dict,1960
+4,1,Chad,Felix Malloum,483,483,Middle Africa,Africa,Non-democracy,Military Dict,1975
+3,1,Chad,Goukouni Ouedei,483,483,Middle Africa,Africa,Non-democracy,Civilian Dict,1979
+8,1,Chad,Hissene Habre,483,483,Middle Africa,Africa,Non-democracy,Civilian Dict,1982
+19,0,Chad,Idriss Deby,483,483,Middle Africa,Africa,Non-democracy,Military Dict,1990
+6,1,Chile,Gabriel Gonzalez Videla,155,155,South America,Americas,Democracy,Presidential Dem,1946
+6,1,Chile,Carlos Ibanez del Campo,155,155,South America,Americas,Democracy,Presidential Dem,1952
+6,1,Chile,Jorge Alessandri Rodriguez,155,155,South America,Americas,Democracy,Presidential Dem,1958
+6,1,Chile,Eduardo Frei Montalva,155,155,South America,Americas,Democracy,Presidential Dem,1964
+3,0,Chile,Salvador Allende Gossens,155,155,South America,Americas,Democracy,Presidential Dem,1970
+17,1,Chile,Augusto Pinochet Ugarte,155,155,South America,Americas,Non-democracy,Military Dict,1973
+4,1,Chile,Patricio Aylwin Azacar,155,155,South America,Americas,Democracy,Presidential Dem,1990
+6,1,Chile,Eduardo Frei Ruiz-Tagle,155,155,South America,Americas,Democracy,Presidential Dem,1994
+6,1,Chile,Ricardo Froilan Lagos Escobar,155,155,South America,Americas,Democracy,Presidential Dem,2000
+3,0,Chile,Verï¿½nica Michelle Bachelet Jeria,155,155,South America,Americas,Democracy,Presidential Dem,2006
+3,1,China,Chiang Kai-Shek,710,710,Eastern Asia,Asia,Non-democracy,Military Dict,1946
+27,0,China,Mao Zedong,710,710,Eastern Asia,Asia,Non-democracy,Civilian Dict,1949
+2,1,China,Hua Guofeng,710,710,Eastern Asia,Asia,Non-democracy,Civilian Dict,1976
+19,0,China,Deng Xiaoping,710,710,Eastern Asia,Asia,Non-democracy,Civilian Dict,1978
+5,1,China,Jiang Zemin,710,710,Eastern Asia,Asia,Non-democracy,Civilian Dict,1997
+7,0,China,Hu Jintao,710,710,Eastern Asia,Asia,Non-democracy,Civilian Dict,2002
+3,1,Colombia,Luis Mariano Ospina Perez,100,100,South America,Americas,Democracy,Presidential Dem,1946
+1,1,Colombia,Luis Mariano Ospina Perez,100,100,South America,Americas,Non-democracy,Civilian Dict,1949
+1,1,Colombia,Laureano Gomez Castro,100,100,South America,Americas,Non-democracy,Civilian Dict,1950
+2,1,Colombia,Roberto Urdaneta Arbelaez,100,100,South America,Americas,Non-democracy,Civilian Dict,1951
+4,1,Colombia,Gustavo Rojas Pinilla,100,100,South America,Americas,Non-democracy,Military Dict,1953
+1,1,Colombia,Gabriel Paris,100,100,South America,Americas,Non-democracy,Military Dict,1957
+4,1,Colombia,Alberto Lleras Camargo,100,100,South America,Americas,Democracy,Presidential Dem,1958
+4,1,Colombia,Guillermo Valencia,100,100,South America,Americas,Democracy,Presidential Dem,1962
+4,1,Colombia,Carlos Lleras Restrepo,100,100,South America,Americas,Democracy,Presidential Dem,1966
+4,1,Colombia,Misael Pastrana Borrero,100,100,South America,Americas,Democracy,Presidential Dem,1970
+4,1,Colombia,Alfonso Lopez Michelson,100,100,South America,Americas,Democracy,Presidential Dem,1974
+4,1,Colombia,Julio Turbay Ayala,100,100,South America,Americas,Democracy,Presidential Dem,1978
+4,1,Colombia,Belisario Betancur Cuartas,100,100,South America,Americas,Democracy,Presidential Dem,1982
+4,1,Colombia,Virgilio Barco Vargas,100,100,South America,Americas,Democracy,Presidential Dem,1986
+4,1,Colombia,Cesar Gaviria Trujillo,100,100,South America,Americas,Democracy,Presidential Dem,1990
+4,1,Colombia,Ernesto Samper Pizano,100,100,South America,Americas,Democracy,Presidential Dem,1994
+4,1,Colombia,Andres Pastrana Arango,100,100,South America,Americas,Democracy,Presidential Dem,1998
+7,0,Colombia,Alvaro Uribe Velez,100,100,South America,Americas,Democracy,Presidential Dem,2002
+3,0,Comoros,Ali Soilih,581,581,Eastern Africa,Africa,Non-democracy,Civilian Dict,1975
+11,0,Comoros,Ahmed Abdallah,581,581,Eastern Africa,Africa,Non-democracy,Civilian Dict,1978
+1,1,Comoros,Said Mohammed Djohar,581,581,Eastern Africa,Africa,Non-democracy,Civilian Dict,1989
+3,1,Comoros,Said Mohammed Djohar,581,581,Eastern Africa,Africa,Democracy,Mixed Dem,1990
+1,1,Comoros,Ahmed Ben Cheikh Attoumane,581,581,Eastern Africa,Africa,Democracy,Mixed Dem,1993
+1,1,Comoros,Halifa Houmadi,581,581,Eastern Africa,Africa,Democracy,Mixed Dem,1994
+1,1,Comoros,Caambi el-Yachourtu,581,581,Eastern Africa,Africa,Non-democracy,Civilian Dict,1995
+2,0,Comoros,Mohammed Taki Abdoulkarim,581,581,Eastern Africa,Africa,Non-democracy,Civilian Dict,1996
+1,1,Comoros,Tadjidine Ben Said Massounde,581,581,Eastern Africa,Africa,Non-democracy,Civilian Dict,1998
+5,1,Comoros,Azali Assoumani,581,581,Eastern Africa,Africa,Non-democracy,Military Dict,1999
+2,1,Comoros,Azali Assoumani,581,581,Eastern Africa,Africa,Democracy,Presidential Dem,2004
+3,0,Comoros,Ahmed Abdallah Sambi,581,581,Eastern Africa,Africa,Democracy,Presidential Dem,2006
+3,1,"Congo (Brazzaville, Republic of Congo)",Fulbert Youlou,484,484,Middle Africa,Africa,Democracy,Presidential Dem,1960
+5,1,"Congo (Brazzaville, Republic of Congo)",Alphonse Massamba-Debat,484,484,Middle Africa,Africa,Non-democracy,Civilian Dict,1963
+1,1,"Congo (Brazzaville, Republic of Congo)",Alfred Raoul,484,484,Middle Africa,Africa,Non-democracy,Military Dict,1968
+8,0,"Congo (Brazzaville, Republic of Congo)",Marien Ngouabi,484,484,Middle Africa,Africa,Non-democracy,Military Dict,1969
+2,1,"Congo (Brazzaville, Republic of Congo)",Joachim Yhombi-Opango,484,484,Middle Africa,Africa,Non-democracy,Military Dict,1977
+13,1,"Congo (Brazzaville, Republic of Congo)",Denis Sassou-Nguesso,484,484,Middle Africa,Africa,Non-democracy,Military Dict,1979
+1,1,"Congo (Brazzaville, Republic of Congo)",Claude-Antoine Dacosta,484,484,Middle Africa,Africa,Democracy,Mixed Dem,1992
+3,1,"Congo (Brazzaville, Republic of Congo)",Jacques-Joachim Yhombi-Opango,484,484,Middle Africa,Africa,Democracy,Mixed Dem,1993
+1,1,"Congo (Brazzaville, Republic of Congo)",Charles David Ganao,484,484,Middle Africa,Africa,Democracy,Mixed Dem,1996
+12,0,"Congo (Brazzaville, Republic of Congo)",Denis Sassou-Nguesso,484,484,Middle Africa,Africa,Non-democracy,Military Dict,1997
+2,1,Costa Rica,Teodoro Picado Michalski,94,94,Central America,Americas,Democracy,Presidential Dem,1946
+1,1,Costa Rica,Jose Figueres Ferrer,94,94,Central America,Americas,Non-democracy,Civilian Dict,1948
+4,1,Costa Rica,Otilia Ulate Blanco,94,94,Central America,Americas,Democracy,Presidential Dem,1949
+5,1,Costa Rica,Jose Figueres Ferrer,94,94,Central America,Americas,Democracy,Presidential Dem,1953
+4,1,Costa Rica,Mario Echandi Jimenez,94,94,Central America,Americas,Democracy,Presidential Dem,1958
+4,1,Costa Rica,Francisco Jose Orlich Bolmarich,94,94,Central America,Americas,Democracy,Presidential Dem,1962
+4,1,Costa Rica,Jose Joaquim Trejos Fernandez,94,94,Central America,Americas,Democracy,Presidential Dem,1966
+4,1,Costa Rica,Jose Figueres Ferrer,94,94,Central America,Americas,Democracy,Presidential Dem,1970
+4,1,Costa Rica,Daniel Oduber Quires,94,94,Central America,Americas,Democracy,Presidential Dem,1974
+4,1,Costa Rica,Rodrigo Carazo Odio,94,94,Central America,Americas,Democracy,Presidential Dem,1978
+4,1,Costa Rica,Luis Alberto Monge Alverez,94,94,Central America,Americas,Democracy,Presidential Dem,1982
+4,1,Costa Rica,Oscar Arias Sanchez,94,94,Central America,Americas,Democracy,Presidential Dem,1986
+4,1,Costa Rica,Rafael Angel Calderon Fournier,94,94,Central America,Americas,Democracy,Presidential Dem,1990
+4,1,Costa Rica,Jose Maria Figueres Olsen,94,94,Central America,Americas,Democracy,Presidential Dem,1994
+4,1,Costa Rica,Miguel Angel Rodriguez Echeverria,94,94,Central America,Americas,Democracy,Presidential Dem,1998
+4,1,Costa Rica,Abel Pacheco de la Espriella,94,94,Central America,Americas,Democracy,Presidential Dem,2002
+3,0,Costa Rica,ï¿½scar Rafael Arias Sï¿½nchez,94,94,Central America,Americas,Democracy,Presidential Dem,2006
+33,0,Cote d'Ivoire,Felix Houphouet-Boigny,437,437,Western Africa,Africa,Non-democracy,Civilian Dict,1960
+6,1,Cote d'Ivoire,Henri Konan Bedie,437,437,Western Africa,Africa,Non-democracy,Civilian Dict,1993
+1,1,Cote d'Ivoire,Robert Guei,437,437,Western Africa,Africa,Non-democracy,Military Dict,1999
+9,0,Cote d'Ivoire,Laurent Gbagbo,437,437,Western Africa,Africa,Non-democracy,Civilian Dict,2000
+1,1,Croatia,Franjo Greguric,344,344,Southern Europe,Europe,Democracy,Mixed Dem,1991
+1,1,Croatia,Hrvoje Sarinic,344,344,Southern Europe,Europe,Democracy,Mixed Dem,1992
+2,1,Croatia,Nikica Valentic,344,344,Southern Europe,Europe,Democracy,Mixed Dem,1993
+5,1,Croatia,Zlatko Matesa,344,344,Southern Europe,Europe,Democracy,Mixed Dem,1995
+3,1,Croatia,Ivica Racan,344,344,Southern Europe,Europe,Democracy,Mixed Dem,2000
+6,0,Croatia,Ivo Sanader,344,344,Southern Europe,Europe,Democracy,Mixed Dem,2003
+6,1,Cuba,Fulgencio Batista y Zaldivar,40,40,Caribbean,Americas,Democracy,Presidential Dem,1946
+7,1,Cuba,Fulgencio Batista y Zaldivar,40,40,Caribbean,Americas,Non-democracy,Military Dict,1952
+47,1,Cuba,Fidel Castro Ruz,40,40,Caribbean,Americas,Non-democracy,Civilian Dict,1959
+3,0,Cuba,Raul Castro,40,40,Caribbean,Americas,Non-democracy,Military Dict,2006
+17,0,Cyprus,Archbishop Makarios,352,352,Western Asia,Asia,Non-democracy,Civilian Dict,1960
+6,0,Cyprus,Spyros Kyprianou,352,352,Western Asia,Asia,Non-democracy,Civilian Dict,1977
+5,1,Cyprus,Spyros Kyprianou,352,352,Western Asia,Asia,Democracy,Presidential Dem,1983
+5,1,Cyprus,George Vassiliou,352,352,Western Asia,Asia,Democracy,Presidential Dem,1988
+10,1,Cyprus,Glafkos Klerides,352,352,Western Asia,Asia,Democracy,Presidential Dem,1993
+5,1,Cyprus,Tassos Nikolaou Papadopoulos,352,352,Western Asia,Asia,Democracy,Presidential Dem,2003
+1,0,Cyprus,Dimitris Christofi Christofias,352,352,Western Asia,Asia,Democracy,Presidential Dem,2008
+4,1,Czech Republic,Vaclav Klaus,316,316,Eastern Europe,Europe,Democracy,Parliamentary Dem,1993
+1,1,Czech Republic,Josef Tosovsky,316,316,Eastern Europe,Europe,Democracy,Parliamentary Dem,1997
+4,1,Czech Republic,Milos Zeman,316,316,Eastern Europe,Europe,Democracy,Parliamentary Dem,1998
+2,1,Czech Republic,Vladimir Spidla,316,316,Eastern Europe,Europe,Democracy,Parliamentary Dem,2002
+1,1,Czech Republic,Stanislav Gross,316,316,Eastern Europe,Europe,Democracy,Parliamentary Dem,2004
+1,1,Czech Republic,Jirï¿½ Paroubek,316,316,Eastern Europe,Europe,Democracy,Parliamentary Dem,2005
+3,0,Czech Republic,Mirek Topolï¿½nek,316,316,Eastern Europe,Europe,Democracy,Parliamentary Dem,2006
+7,0,Czechoslovakia,Klement Gottwald,315,315,Eastern Europe,Europe,Non-democracy,Civilian Dict,1946
+15,1,Czechoslovakia,Antonin Novotny,315,315,Eastern Europe,Europe,Non-democracy,Civilian Dict,1953
+1,1,Czechoslovakia,Alexander Dubcek,315,315,Eastern Europe,Europe,Non-democracy,Civilian Dict,1968
+18,1,Czechoslovakia,Gustav Husak,315,315,Eastern Europe,Europe,Non-democracy,Civilian Dict,1969
+2,1,Czechoslovakia,Milos Jakes,315,315,Eastern Europe,Europe,Non-democracy,Civilian Dict,1987
+3,1,Czechoslovakia,Marian Calfa,315,315,Eastern Europe,Europe,Democracy,Parliamentary Dem,1989
+1,0,Czechoslovakia,Jan Strasky,315,315,Eastern Europe,Europe,Democracy,Parliamentary Dem,1992
+5,1,"Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",Joseph Kasabuvu,490,490,Middle Africa,Africa,Non-democracy,Civilian Dict,1960
+32,1,"Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",Mobutu Sese Seko,490,490,Middle Africa,Africa,Non-democracy,Military Dict,1965
+4,0,"Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",Laurent Kabila,490,490,Middle Africa,Africa,Non-democracy,Civilian Dict,1997
+8,0,"Democratic Republic of the Congo (Zaire, Congo-Kinshasha)",Joseph Kabila,490,490,Middle Africa,Africa,Non-democracy,Civilian Dict,2001
+1,1,Denmark,Knud Kristensen,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1946
+3,1,Denmark,Hans Hedtoft,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1947
+3,1,Denmark,Erik Eriksen,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1950
+2,0,Denmark,Hans Hedtoft,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1953
+5,0,Denmark,Hans Hansen,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1955
+2,1,Denmark,Viggo Kampmann,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1960
+6,1,Denmark,Jens-Otto Krag,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1962
+3,1,Denmark,Hilmar Baunsgaard,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1968
+1,1,Denmark,Jens-Otto Krag,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1971
+1,1,Denmark,Anker Jorgensen,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1972
+2,1,Denmark,Poul Hartling,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1973
+7,1,Denmark,Anker Jorgensen,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1975
+11,1,Denmark,Poul Schluter,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1982
+8,1,Denmark,Poul Nyrup Rasmussen,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,1993
+8,0,Denmark,Anders Fogh Rasmussen,390,390,Northern Europe,Europe,Democracy,Parliamentary Dem,2001
+22,1,Djibouti,Hassan Gouled Aptidon,522,522,Eastern Africa,Africa,Non-democracy,Civilian Dict,1977
+10,0,Djibouti,Ismail Omar Guelleh,522,522,Eastern Africa,Africa,Non-democracy,Civilian Dict,1999
+1,1,Dominica,Patrick John,54,54,Caribbean,Americas,Democracy,Parliamentary Dem,1978
+1,1,Dominica,Oliver Seraphine,54,54,Caribbean,Americas,Democracy,Parliamentary Dem,1979
+15,1,Dominica,Eugenia Charles,54,54,Caribbean,Americas,Democracy,Parliamentary Dem,1980
+5,1,Dominica,Edison James,54,54,Caribbean,Americas,Democracy,Parliamentary Dem,1995
+4,1,Dominica,Pierre Charles,54,54,Caribbean,Americas,Democracy,Parliamentary Dem,2000
+5,0,Dominica,Roosevelt Skerrit,54,54,Caribbean,Americas,Democracy,Parliamentary Dem,2004
+15,0,Dominican Republic,Rafael Trujillo,42,42,Caribbean,Americas,Non-democracy,Military Dict,1946
+1,1,Dominican Republic,Joaquin Balaguer,42,42,Caribbean,Americas,Non-democracy,Civilian Dict,1961
+1,1,Dominican Republic,Rafael Bonnelly,42,42,Caribbean,Americas,Non-democracy,Civilian Dict,1962
+2,1,Dominican Republic,military,42,42,Caribbean,Americas,Non-democracy,Military Dict,1963
+1,1,Dominican Republic,Hector Garcia-Godoy Caceres,42,42,Caribbean,Americas,Non-democracy,Civilian Dict,1965
+12,1,Dominican Republic,Joaquin Balaguer,42,42,Caribbean,Americas,Democracy,Presidential Dem,1966
+4,0,Dominican Republic,Antonio Guzman Fernandez,42,42,Caribbean,Americas,Democracy,Presidential Dem,1978
+4,1,Dominican Republic,Salvador Jorge Blanco,42,42,Caribbean,Americas,Democracy,Presidential Dem,1982
+10,1,Dominican Republic,Joaquin Balaguer,42,42,Caribbean,Americas,Democracy,Presidential Dem,1986
+4,1,Dominican Republic,Leonel Fernandez Reyna,42,42,Caribbean,Americas,Democracy,Presidential Dem,1996
+4,1,Dominican Republic,Rafael Hipolito Mejia Dominguez,42,42,Caribbean,Americas,Democracy,Presidential Dem,2000
+5,0,Dominican Republic,Leonel Antonio Fernï¿½ndez Reyna,42,42,Caribbean,Americas,Democracy,Presidential Dem,2004
+4,1,East Timor,Marï¿½ Bim Amude Alkatiri,860,860,South-Eastern Asia,Asia,Democracy,Mixed Dem,2002
+1,1,East Timor,Josï¿½ Ramos-Horta,860,860,South-Eastern Asia,Asia,Democracy,Mixed Dem,2006
+2,0,East Timor,Kay Rala Xanana Gusmï¿½o,860,860,South-Eastern Asia,Asia,Democracy,Mixed Dem,2007
+1,1,Ecuador,Jose Velasco Ibarra,130,130,South America,Americas,Democracy,Presidential Dem,1946
+1,1,Ecuador,military,130,130,South America,Americas,Non-democracy,Military Dict,1947
+4,1,Ecuador,Galo Plaza Lasso,130,130,South America,Americas,Democracy,Presidential Dem,1948
+4,1,Ecuador,Jose Velasco Ibarra,130,130,South America,Americas,Democracy,Presidential Dem,1952
+4,1,Ecuador,Camilo Ponce Enriquez,130,130,South America,Americas,Democracy,Presidential Dem,1956
+1,1,Ecuador,Jose Velasco Ibarra,130,130,South America,Americas,Democracy,Presidential Dem,1960
+2,1,Ecuador,Carlos Arosemena Monroy,130,130,South America,Americas,Democracy,Presidential Dem,1961
+3,1,Ecuador,Ramon Castro Jijon,130,130,South America,Americas,Non-democracy,Military Dict,1963
+2,1,Ecuador,Otto Arosemena Gomez,130,130,South America,Americas,Non-democracy,Civilian Dict,1966
+4,1,Ecuador,Jose Velasco Ibarra,130,130,South America,Americas,Non-democracy,Civilian Dict,1968
+4,1,Ecuador,Guillermo Rodriguez Lara,130,130,South America,Americas,Non-democracy,Military Dict,1972
+3,1,Ecuador,Alfredo Poveda Burbano,130,130,South America,Americas,Non-democracy,Military Dict,1976
+2,0,Ecuador,Jaime Roldos Aguillera,130,130,South America,Americas,Democracy,Presidential Dem,1979
+3,1,Ecuador,Osvaldo Hurtado Larrea,130,130,South America,Americas,Democracy,Presidential Dem,1981
+4,1,Ecuador,Leon Febres Cordero,130,130,South America,Americas,Democracy,Presidential Dem,1984
+4,1,Ecuador,Rodrigo Borja Cevallos,130,130,South America,Americas,Democracy,Presidential Dem,1988
+4,1,Ecuador,Sixto Duran Ballen,130,130,South America,Americas,Democracy,Presidential Dem,1992
+1,1,Ecuador,Abdala Bucaram Ortiz,130,130,South America,Americas,Democracy,Presidential Dem,1996
+1,1,Ecuador,Fabian Alarcon,130,130,South America,Americas,Democracy,Presidential Dem,1997
+2,1,Ecuador,Jamil Mahuad,130,130,South America,Americas,Democracy,Presidential Dem,1998
+2,1,Ecuador,Gustavo Noboa Bejarano,130,130,South America,Americas,Non-democracy,Civilian Dict,2000
+1,1,Ecuador,Gustavo Noboa Bejarano,130,130,South America,Americas,Democracy,Presidential Dem,2002
+2,1,Ecuador,Lucio Gutiï¿½rrez,130,130,South America,Americas,Democracy,Presidential Dem,2003
+2,1,Ecuador,Alfredo Palacio,130,130,South America,Americas,Democracy,Presidential Dem,2005
+2,0,Ecuador,Rafael Correa,130,130,South America,Americas,Democracy,Presidential Dem,2007
+6,1,Egypt,Faruq I,651,651,Northern Africa,Africa,Non-democracy,Monarchy,1946
+2,1,Egypt,Mohammed Naguib,651,651,Northern Africa,Africa,Non-democracy,Military Dict,1952
+16,0,Egypt,Gamal Nasser,651,651,Northern Africa,Africa,Non-democracy,Military Dict,1954
+11,0,Egypt,Anwar el-Sadat,651,651,Northern Africa,Africa,Non-democracy,Military Dict,1970
+28,0,Egypt,Hosni Mubarak,651,651,Northern Africa,Africa,Non-democracy,Military Dict,1981
+2,1,El Salvador,Salvador Castaneda Castro,92,92,Central America,Americas,Non-democracy,Military Dict,1946
+1,1,El Salvador,Manuel Cordoba,92,92,Central America,Americas,Non-democracy,Military Dict,1948
+1,1,El Salvador,Oscar Bolanos,92,92,Central America,Americas,Non-democracy,Military Dict,1949
+6,1,El Salvador,Oscar Osorio,92,92,Central America,Americas,Non-democracy,Military Dict,1950
+4,1,El Salvador,Jose Lemus,92,92,Central America,Americas,Non-democracy,Military Dict,1956
+1,1,El Salvador,Miguel Castillo,92,92,Central America,Americas,Non-democracy,Military Dict,1960
+1,1,El Salvador,Anibal Portillo,92,92,Central America,Americas,Non-democracy,Military Dict,1961
+5,1,El Salvador,Julio Rivera Carballo,92,92,Central America,Americas,Non-democracy,Military Dict,1962
+5,1,El Salvador,Fidel Sanchez Hernandez,92,92,Central America,Americas,Non-democracy,Military Dict,1967
+5,1,El Salvador,Arturo Molina Barraza,92,92,Central America,Americas,Non-democracy,Military Dict,1972
+2,1,El Salvador,Carlos Romero Mena,92,92,Central America,Americas,Non-democracy,Military Dict,1977
+1,1,El Salvador,Adolfo Majano + Jaime Gutierrez,92,92,Central America,Americas,Non-democracy,Military Dict,1979
+2,1,El Salvador,Jose Napoleon Duarte,92,92,Central America,Americas,Non-democracy,Civilian Dict,1980
+2,1,El Salvador,military,92,92,Central America,Americas,Non-democracy,Military Dict,1982
+5,1,El Salvador,Jose Napoleon Duarte,92,92,Central America,Americas,Democracy,Presidential Dem,1984
+5,1,El Salvador,Alfredo Christiani,92,92,Central America,Americas,Democracy,Presidential Dem,1989
+5,1,El Salvador,Armando Calderon Sol,92,92,Central America,Americas,Democracy,Presidential Dem,1994
+5,1,El Salvador,Francisco Guillermo Flores Perez,92,92,Central America,Americas,Democracy,Presidential Dem,1999
+5,0,El Salvador,Elï¿½as Antonio Saca Gonzï¿½lez,92,92,Central America,Americas,Democracy,Presidential Dem,2004
+11,1,Equatorial Guinea,Francisco Macias Nguema,411,411,Middle Africa,Africa,Non-democracy,Civilian Dict,1968
+30,0,Equatorial Guinea,Teodoro Obiang Nguema Mbasogo,411,411,Middle Africa,Africa,Non-democracy,Military Dict,1979
+16,0,Eritrea,Isaias Afwerki,531,531,Eastern Africa,Africa,Non-democracy,Civilian Dict,1993
+1,1,Estonia,Edgar Savisaar,366,366,Northern Europe,Europe,Democracy,Parliamentary Dem,1991
+2,1,Estonia,Mart Laar,366,366,Northern Europe,Europe,Democracy,Parliamentary Dem,1992
+1,1,Estonia,Andres Tarand,366,366,Northern Europe,Europe,Democracy,Parliamentary Dem,1994
+2,1,Estonia,Tiit Vahi,366,366,Northern Europe,Europe,Democracy,Parliamentary Dem,1995
+2,1,Estonia,Mart Siimann,366,366,Northern Europe,Europe,Democracy,Parliamentary Dem,1997
+3,1,Estonia,Mart Laar,366,366,Northern Europe,Europe,Democracy,Parliamentary Dem,1999
+1,1,Estonia,Siim Kallas,366,366,Northern Europe,Europe,Democracy,Parliamentary Dem,2002
+2,1,Estonia,Juhan Parts,366,366,Northern Europe,Europe,Democracy,Parliamentary Dem,2003
+4,0,Estonia,Andrus Ansip,366,366,Northern Europe,Europe,Democracy,Parliamentary Dem,2005
+28,1,Ethiopia,Haile Selassie,530,530,Eastern Africa,Africa,Non-democracy,Monarchy,1946
+3,1,Ethiopia,Teferi Benti,530,530,Eastern Africa,Africa,Non-democracy,Military Dict,1974
+14,1,Ethiopia,Mengistu Haile Mariam,530,530,Eastern Africa,Africa,Non-democracy,Military Dict,1977
+4,0,Ethiopia,Meles Zenawi,530,530,Eastern Africa,Africa,Non-democracy,Civilian Dict,1991
+4,0,Ethiopia,Meles Zenawi,530,529,Eastern Africa,Africa,Non-democracy,Civilian Dict,1991
+6,1,Ethiopia,Negasso Gidada,530,529,Eastern Africa,Africa,Non-democracy,Civilian Dict,1995
+8,0,Ethiopia,Girma Wolde-Giyorgis Lucha,530,529,Eastern Africa,Africa,Non-democracy,Civilian Dict,2001
+17,1,Fiji,Ratu Sir Kamisese Mara,950,950,Melanesia,Oceania,Non-democracy,Civilian Dict,1970
+5,1,Fiji,Sitiveni Rabuka,950,950,Melanesia,Oceania,Non-democracy,Military Dict,1987
+7,1,Fiji,Sitiveni Rabuka,950,950,Melanesia,Oceania,Democracy,Parliamentary Dem,1992
+1,1,Fiji,Mahendra Chaudhry,950,950,Melanesia,Oceania,Democracy,Parliamentary Dem,1999
+1,1,Fiji,Ratu Josefa Iloilo,950,950,Melanesia,Oceania,Non-democracy,Military Dict,2000
+5,1,Fiji,Ratu Josefa Iloilo,950,950,Melanesia,Oceania,Non-democracy,Civilian Dict,2001
+3,0,Fiji,Voreqe Bainimarama,950,950,Melanesia,Oceania,Non-democracy,Military Dict,2006
+2,1,Finland,Mauno Pekkala,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1946
+2,1,Finland,Karl Fagerholm,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1948
+3,1,Finland,Urho Kekkonen,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1950
+1,1,Finland,Sakari Tuomioja,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1953
+2,1,Finland,Urho Kekkonen,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1954
+1,1,Finland,Karl Fagerholm,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1956
+1,1,Finland,Rainer von Fieandt,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1957
+1,1,Finland,Karl Fagerholm,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1958
+2,1,Finland,Vaino Sukselainen,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1959
+1,1,Finland,Martti Miettunen,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1961
+1,1,Finland,Ahti Karjalainen,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1962
+1,1,Finland,Reino Lehto,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1963
+2,1,Finland,Johannes Virolainen,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1964
+2,1,Finland,Rafael Paasio,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1966
+2,1,Finland,Mauno Koivisto,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1968
+1,1,Finland,Ahti Karjalainen,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1970
+1,1,Finland,Teuvo Aura,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1971
+3,1,Finland,Kalevi Sorsa,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1972
+2,1,Finland,Martti Miettunen,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1975
+2,1,Finland,Kalevi Sorsa,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1977
+3,1,Finland,Mauno Koivisto,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1979
+5,1,Finland,Kalevi Sorsa,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1982
+4,1,Finland,Harri Holkeri,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1987
+4,1,Finland,Esko Aho,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1991
+8,1,Finland,Paavo Lipponen,375,375,Northern Europe,Europe,Democracy,Mixed Dem,1995
+6,0,Finland,Matti Taneli Vanhanen,375,375,Northern Europe,Europe,Democracy,Mixed Dem,2003
+1,1,France,Leon Blum,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1946
+1,1,France,Robert Schuman,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1947
+1,1,France,Henri Queuille,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1948
+1,1,France,Georges Bidault,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1949
+2,1,France,Rene Pleven,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1950
+1,1,France,Antoine Pinay,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1952
+1,1,France,Joseph Laniel,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1953
+1,1,France,Pierre Mendes-France,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1954
+1,1,France,Edgar Faure,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1955
+1,1,France,Guy Mollet,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1956
+1,1,France,Felix Gaillard,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1957
+1,1,France,Charles de Gaulle,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1958
+3,1,France,Michel Debre,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1959
+3,1,France,Georges Pompidou,220,220,Western Europe,Europe,Democracy,Parliamentary Dem,1962
+3,1,France,Georges Pompidou,220,220,Western Europe,Europe,Democracy,Mixed Dem,1965
+1,1,France,Maurice Couve de Murville,220,220,Western Europe,Europe,Democracy,Mixed Dem,1968
+3,1,France,Jacques Chaban-Delmas,220,220,Western Europe,Europe,Democracy,Mixed Dem,1969
+2,1,France,Pierre Messmer,220,220,Western Europe,Europe,Democracy,Mixed Dem,1972
+2,1,France,Jacques Chirac,220,220,Western Europe,Europe,Democracy,Mixed Dem,1974
+5,1,France,Raymond Barre,220,220,Western Europe,Europe,Democracy,Mixed Dem,1976
+3,1,France,Pierre Mauroy,220,220,Western Europe,Europe,Democracy,Mixed Dem,1981
+2,1,France,Laurent Fabius,220,220,Western Europe,Europe,Democracy,Mixed Dem,1984
+2,1,France,Jacques Chirac,220,220,Western Europe,Europe,Democracy,Mixed Dem,1986
+3,1,France,Michel Rocard,220,220,Western Europe,Europe,Democracy,Mixed Dem,1988
+1,1,France,Edith Cresson,220,220,Western Europe,Europe,Democracy,Mixed Dem,1991
+1,1,France,Pierre Beregovoy,220,220,Western Europe,Europe,Democracy,Mixed Dem,1992
+2,1,France,Edouard Balladur,220,220,Western Europe,Europe,Democracy,Mixed Dem,1993
+2,1,France,Alain Juppe,220,220,Western Europe,Europe,Democracy,Mixed Dem,1995
+5,1,France,Lionel Jospin,220,220,Western Europe,Europe,Democracy,Mixed Dem,1997
+3,1,France,Jean-Pierre Raffarin,220,220,Western Europe,Europe,Democracy,Mixed Dem,2002
+2,1,France,Dominique de Villepin,220,220,Western Europe,Europe,Democracy,Mixed Dem,2005
+2,0,France,Franï¿½ois Fillon,220,220,Western Europe,Europe,Democracy,Mixed Dem,2007
+7,0,Gabon,Leon Mba,481,481,Middle Africa,Africa,Non-democracy,Civilian Dict,1960
+42,0,Gabon,Albert-Bernard Bongo,481,481,Middle Africa,Africa,Non-democracy,Civilian Dict,1967
+29,1,Gambia,Dauda Jawara,420,420,Western Africa,Africa,Non-democracy,Civilian Dict,1965
+15,0,Gambia,Yahya Jammeh,420,420,Western Africa,Africa,Non-democracy,Military Dict,1994
+1,1,Georgia,Zviad Gamsakhurdia,372,372,Western Asia,Asia,Non-democracy,Civilian Dict,1991
+11,1,Georgia,Eduard Shevardnadze,372,372,Western Asia,Asia,Non-democracy,Civilian Dict,1992
+1,1,Georgia,Nino Burdzhanadze,372,372,Western Asia,Asia,Non-democracy,Civilian Dict,2003
+1,1,Georgia,Zurab Zhvania,372,372,Western Asia,Asia,Democracy,Mixed Dem,2004
+2,1,Georgia,Zurab Nogaideli,372,372,Western Asia,Asia,Democracy,Mixed Dem,2005
+1,1,Georgia,Lado Gurgenidze,372,372,Western Asia,Asia,Democracy,Mixed Dem,2007
+1,0,Georgia,Grigol Mgaloblishvili,372,372,Western Asia,Asia,Democracy,Mixed Dem,2008
+8,1,Germany,Helmut Kohl,255,255,Western Europe,Europe,Democracy,Parliamentary Dem,1990
+7,1,Germany,Gerhard Schroeder,255,255,Western Europe,Europe,Democracy,Parliamentary Dem,1998
+4,0,Germany,Angela Merkel,255,255,Western Europe,Europe,Democracy,Parliamentary Dem,2005
+1,1,"Germany, East",Wilhelm Pieck + Otto Grotewohl,265,265,Western Europe,Europe,Non-democracy,Civilian Dict,1949
+21,1,"Germany, East",Walter Ulbricht,265,265,Western Europe,Europe,Non-democracy,Civilian Dict,1950
+18,1,"Germany, East",Erich Honecker,265,265,Western Europe,Europe,Non-democracy,Civilian Dict,1971
+1,0,"Germany, East",Egon Krenz,265,265,Western Europe,Europe,Non-democracy,Civilian Dict,1989
+14,1,"Germany, West",Konrad Adenauer,260,260,Western Europe,Europe,Democracy,Parliamentary Dem,1949
+3,1,"Germany, West",Ludwig Erhard,260,260,Western Europe,Europe,Democracy,Parliamentary Dem,1963
+3,1,"Germany, West",Kurt-Georg Kiesinger,260,260,Western Europe,Europe,Democracy,Parliamentary Dem,1966
+5,1,"Germany, West",Willy Brandt,260,260,Western Europe,Europe,Democracy,Parliamentary Dem,1969
+8,1,"Germany, West",Helmut Schmidt,260,260,Western Europe,Europe,Democracy,Parliamentary Dem,1974
+8,0,"Germany, West",Helmut Kohl,260,260,Western Europe,Europe,Democracy,Parliamentary Dem,1982
+9,1,Ghana,Kwame Nkrumah,452,452,Western Africa,Africa,Non-democracy,Civilian Dict,1957
+3,1,Ghana,Joseph Ankrah,452,452,Western Africa,Africa,Non-democracy,Military Dict,1966
+3,1,Ghana,Kofi Busia,452,452,Western Africa,Africa,Democracy,Parliamentary Dem,1969
+6,1,Ghana,Ignatius Acheampong,452,452,Western Africa,Africa,Non-democracy,Military Dict,1972
+1,1,Ghana,Frederick Akuffo,452,452,Western Africa,Africa,Non-democracy,Military Dict,1978
+2,1,Ghana,Hilla Limann,452,452,Western Africa,Africa,Democracy,Presidential Dem,1979
+12,1,Ghana,Jerry Rawlings,452,452,Western Africa,Africa,Non-democracy,Military Dict,1981
+8,1,Ghana,Jerry Rawlings,452,452,Western Africa,Africa,Democracy,Presidential Dem,1993
+8,0,Ghana,John Agyekum Kufuor,452,452,Western Africa,Africa,Democracy,Presidential Dem,2001
+1,1,Greece,Constantine Tsaldaris,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1946
+2,1,Greece,Themistocles Sophoulis,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1947
+1,1,Greece,Alexandros Diomidis,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1949
+2,1,Greece,Nikolas Plastiras,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1950
+3,0,Greece,Alexandros Papagos,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1952
+8,1,Greece,Konstantinos Karamanlis,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1955
+1,1,Greece,Ioannis Paraskevopoulos,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1963
+1,1,Greece,Georgios Papandreou,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1964
+1,1,Greece,Stephanos Stephanopoulos,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1965
+1,1,Greece,Ioannis Paraskevopoulos,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1966
+6,1,Greece,Georgios Papadopoulos,350,350,Southern Europe,Europe,Non-democracy,Military Dict,1967
+1,1,Greece,Phaidon Gizikis,350,350,Southern Europe,Europe,Non-democracy,Military Dict,1973
+6,1,Greece,Konstantinos Karamanlis,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1974
+1,1,Greece,Georgios Rallis,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1980
+8,1,Greece,Andreas Papandreou,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1981
+1,1,Greece,Xenophon Zolotas,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1989
+3,1,Greece,Konstantinos Mitsotakis,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1990
+3,0,Greece,Andreas Papandreou,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1993
+8,1,Greece,Kostas Simitis,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,1996
+5,0,Greece,Konstantinos A. (Kostas) Karamanlis,350,350,Southern Europe,Europe,Democracy,Parliamentary Dem,2004
+5,1,Grenada,Eric Gairy,55,55,Caribbean,Americas,Democracy,Parliamentary Dem,1974
+4,0,Grenada,Maurice Bishop,55,55,Caribbean,Americas,Non-democracy,Civilian Dict,1979
+1,1,Grenada,Nicholas Brathwaite,55,55,Caribbean,Americas,Non-democracy,Civilian Dict,1983
+5,0,Grenada,Herbert Blaize,55,55,Caribbean,Americas,Democracy,Parliamentary Dem,1984
+1,1,Grenada,Ben Jones,55,55,Caribbean,Americas,Democracy,Parliamentary Dem,1989
+5,1,Grenada,Nicholas Brathwaite,55,55,Caribbean,Americas,Democracy,Parliamentary Dem,1990
+13,1,Grenada,Keith Mitchell,55,55,Caribbean,Americas,Democracy,Parliamentary Dem,1995
+1,0,Grenada,Tillman Joseph Thomas,55,55,Caribbean,Americas,Democracy,Parliamentary Dem,2008
+5,1,Guatemala,Juan Arevalo,90,90,Central America,Americas,Democracy,Presidential Dem,1946
+3,1,Guatemala,Jacobo Arbenz Guzman,90,90,Central America,Americas,Democracy,Presidential Dem,1951
+3,0,Guatemala,Carlos Castillo Armas,90,90,Central America,Americas,Non-democracy,Military Dict,1954
+1,1,Guatemala,Guillermo Flores Avendano,90,90,Central America,Americas,Non-democracy,Military Dict,1957
+5,1,Guatemala,Miguel Ydigoras Fuentes,90,90,Central America,Americas,Democracy,Presidential Dem,1958
+3,1,Guatemala,Enrique Peralta Azurdia,90,90,Central America,Americas,Non-democracy,Military Dict,1963
+4,1,Guatemala,Julio Mendez Montenegro,90,90,Central America,Americas,Democracy,Presidential Dem,1966
+4,1,Guatemala,Carlos Arana Osorio,90,90,Central America,Americas,Democracy,Presidential Dem,1970
+4,1,Guatemala,Kjell Laugerud Garcia,90,90,Central America,Americas,Democracy,Presidential Dem,1974
+4,1,Guatemala,Romeo Lucas Garcia,90,90,Central America,Americas,Democracy,Presidential Dem,1978
+1,1,Guatemala,Efrain Rios Montt,90,90,Central America,Americas,Non-democracy,Military Dict,1982
+3,1,Guatemala,Oscar Humberto Mejia Victores,90,90,Central America,Americas,Non-democracy,Military Dict,1983
+5,1,Guatemala,Marco Vinicio Cerezo Arevalo,90,90,Central America,Americas,Democracy,Presidential Dem,1986
+2,1,Guatemala,Jorge Serrano Elias,90,90,Central America,Americas,Democracy,Presidential Dem,1991
+3,1,Guatemala,Ramiro de Leon Carpio,90,90,Central America,Americas,Democracy,Presidential Dem,1993
+4,1,Guatemala,Alvaro Arzu Irigoyen,90,90,Central America,Americas,Democracy,Presidential Dem,1996
+8,1,Guatemala,Alfonso Antonio Portillo Cabrera,90,90,Central America,Americas,Democracy,Presidential Dem,2000
+1,0,Guatemala,ï¿½lvaro Colom Caballeros,90,90,Central America,Americas,Democracy,Presidential Dem,2008
+26,0,Guinea,Ahmed Sekou Toure,438,438,Western Africa,Africa,Non-democracy,Civilian Dict,1958
+24,0,Guinea,Lansana Conte,438,438,Western Africa,Africa,Non-democracy,Military Dict,1984
+1,0,Guinea,Moussa Dadis Camara,438,438,Western Africa,Africa,Non-democracy,Military Dict,2008
+6,1,Guinea-Bissau,Luis Cabral,404,404,Western Africa,Africa,Non-democracy,Civilian Dict,1974
+19,1,Guinea-Bissau,Joao Vieira,404,404,Western Africa,Africa,Non-democracy,Military Dict,1980
+1,1,Guinea-Bissau,Ansumane Mane,404,404,Western Africa,Africa,Non-democracy,Military Dict,1999
+3,1,Guinea-Bissau,Kumba Iala,404,404,Western Africa,Africa,Democracy,Mixed Dem,2000
+1,1,Guinea-Bissau,Henrique Rosa,404,404,Western Africa,Africa,Non-democracy,Civilian Dict,2003
+1,1,Guinea-Bissau,Carlos Gomes,404,404,Western Africa,Africa,Democracy,Mixed Dem,2004
+2,1,Guinea-Bissau,Aristides Gomes,404,404,Western Africa,Africa,Democracy,Mixed Dem,2005
+1,1,Guinea-Bissau,Martinho Ndafa Cabi,404,404,Western Africa,Africa,Democracy,Mixed Dem,2007
+1,0,Guinea-Bissau,Carlos Correia,404,404,Western Africa,Africa,Democracy,Mixed Dem,2008
+19,0,Guyana,Forbes Burnham,110,110,South America,Americas,Non-democracy,Civilian Dict,1966
+7,1,Guyana,Desmond Hoyte,110,110,South America,Americas,Non-democracy,Civilian Dict,1985
+5,0,Guyana,Cheddi Jagan,110,110,South America,Americas,Non-democracy,Civilian Dict,1992
+2,1,Guyana,Janet Jagan,110,110,South America,Americas,Non-democracy,Civilian Dict,1997
+10,0,Guyana,Bharrat Jagdeo,110,110,South America,Americas,Non-democracy,Civilian Dict,1999
+4,1,Haiti,Dumarsais Estime,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,1946
+6,1,Haiti,Paul Eugene Magloire,41,41,Caribbean,Americas,Non-democracy,Military Dict,1950
+1,1,Haiti,Joseph Nemours Pierre-Louis,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,1956
+14,0,Haiti,Francois Duvalier,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,1957
+15,1,Haiti,Jean-Claude Duvalier,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,1971
+2,1,Haiti,Henri Namphy,41,41,Caribbean,Americas,Non-democracy,Military Dict,1986
+2,1,Haiti,Prosper Avril,41,41,Caribbean,Americas,Non-democracy,Military Dict,1988
+1,1,Haiti,Ertha Pascal-Trouillot,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,1990
+1,1,Haiti,Joseph Nerette,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,1991
+1,1,Haiti,Marc Bazin,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,1992
+3,1,Haiti,Jean-Bertrand Aristide,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,1993
+5,1,Haiti,Rene Garcia Preval,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,1996
+3,1,Haiti,Jean-Bertrand Aristide,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,2001
+2,1,Haiti,Boniface Alexandre,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,2004
+3,0,Haiti,Rene Garcia Preval,41,41,Caribbean,Americas,Non-democracy,Civilian Dict,2006
+3,1,Honduras,Tiburcio Carias Andino,91,91,Central America,Americas,Non-democracy,Military Dict,1946
+5,1,Honduras,Juan Manuel Galvez,91,91,Central America,Americas,Non-democracy,Civilian Dict,1949
+2,1,Honduras,Julio Lozano Diaz,91,91,Central America,Americas,Non-democracy,Civilian Dict,1954
+1,1,Honduras,Roque Rodriguez,91,91,Central America,Americas,Non-democracy,Military Dict,1956
+6,1,Honduras,Ramon Villeda Morales,91,91,Central America,Americas,Democracy,Presidential Dem,1957
+8,1,Honduras,Oswaldo Lopez Arellano,91,91,Central America,Americas,Non-democracy,Military Dict,1963
+1,1,Honduras,Ramon Ernesto Cruz Ucles,91,91,Central America,Americas,Democracy,Presidential Dem,1971
+3,1,Honduras,Oswaldo Lopez Arellano,91,91,Central America,Americas,Non-democracy,Military Dict,1972
+3,1,Honduras,Juan Alberto Melgar Castro,91,91,Central America,Americas,Non-democracy,Military Dict,1975
+4,1,Honduras,Policarpo Paz Garcia,91,91,Central America,Americas,Non-democracy,Military Dict,1978
+4,1,Honduras,Roberto Suazo Cordova,91,91,Central America,Americas,Democracy,Presidential Dem,1982
+4,1,Honduras,Jose Azcona Hoyo,91,91,Central America,Americas,Democracy,Presidential Dem,1986
+4,1,Honduras,Rafael Leonardo Callejas,91,91,Central America,Americas,Democracy,Presidential Dem,1990
+4,1,Honduras,Carlos Roberto Reina Idiaquez,91,91,Central America,Americas,Democracy,Presidential Dem,1994
+4,1,Honduras,Carlos Roberto Flores Facusse,91,91,Central America,Americas,Democracy,Presidential Dem,1998
+4,1,Honduras,Ricardo Maduro Joest,91,91,Central America,Americas,Democracy,Presidential Dem,2002
+3,0,Honduras,Josï¿½ Manuel Zelaya Rosales,91,91,Central America,Americas,Democracy,Presidential Dem,2006
+10,1,Hungary,Matyas Rakosi,310,310,Eastern Europe,Europe,Non-democracy,Civilian Dict,1946
+32,1,Hungary,Janos Kadar,310,310,Eastern Europe,Europe,Non-democracy,Civilian Dict,1956
+1,1,Hungary,Karoly Grosz,310,310,Eastern Europe,Europe,Non-democracy,Civilian Dict,1988
+1,1,Hungary,Miklos Nemeth,310,310,Eastern Europe,Europe,Non-democracy,Civilian Dict,1989
+3,0,Hungary,Jozsef Antall,310,310,Eastern Europe,Europe,Democracy,Parliamentary Dem,1990
+1,1,Hungary,Peter Boross,310,310,Eastern Europe,Europe,Democracy,Parliamentary Dem,1993
+4,1,Hungary,Gyula Horn,310,310,Eastern Europe,Europe,Democracy,Parliamentary Dem,1994
+4,1,Hungary,Viktor Orban,310,310,Eastern Europe,Europe,Democracy,Parliamentary Dem,1998
+2,1,Hungary,Peter Medgyessy,310,310,Eastern Europe,Europe,Democracy,Parliamentary Dem,2002
+5,0,Hungary,Ferenc Gyurcsï¿½ny,310,310,Eastern Europe,Europe,Democracy,Parliamentary Dem,2004
+1,1,Iceland,Olafur Thors,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1946
+2,1,Iceland,Stefan Stefansson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1947
+1,1,Iceland,Olafur Thors,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1949
+3,1,Iceland,Steingrimur Steinthorsson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1950
+3,1,Iceland,Olafur Thors,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1953
+2,1,Iceland,Hermann Jonasson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1956
+1,1,Iceland,Emil Jonsson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1958
+4,1,Iceland,Olafur Thors,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1959
+7,0,Iceland,Bjarni Benediktsson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1963
+1,1,Iceland,Johann Hafstein,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1970
+3,1,Iceland,Olafur Johannesson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1971
+4,1,Iceland,Geir Hallgrimsson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1974
+1,1,Iceland,Olafur Johannesson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1978
+1,1,Iceland,Benedikt Groendal,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1979
+3,1,Iceland,Gunnar Thoroddsen,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1980
+4,1,Iceland,Steingrimur Hermannsson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1983
+1,1,Iceland,Thorsteinn Palsson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1987
+3,1,Iceland,Steingrimur Hermannsson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1988
+13,1,Iceland,David Oddsson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,1991
+2,1,Iceland,Halldï¿½r ï¿½sgrï¿½msson,395,395,Northern Europe,Europe,Democracy,Mixed Dem,2004
+3,0,Iceland,Geir Hilmar Haarde,395,395,Northern Europe,Europe,Democracy,Mixed Dem,2006
+17,0,India,Jawaharlal Nehru,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1947
+2,1,India,Lal Bahadur Shastri,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1964
+11,1,India,Indira Gandhi,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1966
+2,1,India,Morarji Desai,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1977
+1,1,India,Charan Singh,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1979
+4,0,India,Indira Gandhi,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1980
+5,0,India,Rajiv Gandhi,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1984
+1,1,India,Vishwanath Pratap Singh,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1989
+1,1,India,Chandra Shekhar,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1990
+5,1,India,P.V. Narasimha Rao,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1991
+1,1,India,H.D. Deve Gowda,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1996
+1,1,India,Inder Kumar Gujral,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1997
+6,1,India,Atal Bihari Vajpayee,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,1998
+5,0,India,Manmohan Singh,750,750,Southern Asia,Asia,Democracy,Parliamentary Dem,2004
+17,1,Indonesia,Sukarno,850,850,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1949
+32,1,Indonesia,Suharto,850,850,South-Eastern Asia,Asia,Non-democracy,Military Dict,1966
+1,1,Indonesia,military,850,850,South-Eastern Asia,Asia,Non-democracy,Military Dict,1998
+2,1,Indonesia,Abdurrahman Wahid,850,850,South-Eastern Asia,Asia,Democracy,Presidential Dem,1999
+3,1,Indonesia,Megawati Sukarnoputri,850,850,South-Eastern Asia,Asia,Democracy,Presidential Dem,2001
+5,0,Indonesia,Susilo Bambang Yudhoyono,850,850,South-Eastern Asia,Asia,Democracy,Presidential Dem,2004
+33,1,Iran,Mohammed Reza Pahlavi,630,630,Southern Asia,Asia,Non-democracy,Monarchy,1946
+10,0,Iran,Ayatollah Ruhollah Khomeini,630,630,Southern Asia,Asia,Non-democracy,Civilian Dict,1979
+20,0,Iran,Ayatollah Sayyed Ali Khamenei,630,630,Southern Asia,Asia,Non-democracy,Civilian Dict,1989
+7,1,Iraq,Abdul-Ilah,645,645,Western Asia,Asia,Non-democracy,Monarchy,1946
+5,0,Iraq,Faisal II,645,645,Western Asia,Asia,Non-democracy,Monarchy,1953
+5,1,Iraq,Najib el-Rubai,645,645,Western Asia,Asia,Non-democracy,Military Dict,1958
+3,0,Iraq,Abdul Salam Arif,645,645,Western Asia,Asia,Non-democracy,Military Dict,1963
+2,1,Iraq,Abdul Rahman Arif,645,645,Western Asia,Asia,Non-democracy,Military Dict,1966
+11,1,Iraq,Ahmed al-Bakr,645,645,Western Asia,Asia,Non-democracy,Military Dict,1968
+24,1,Iraq,Saddam Hussein,645,645,Western Asia,Asia,Non-democracy,Civilian Dict,1979
+6,0,Iraq,Lt. Gen. John P. Abizaid,645,645,Western Asia,Asia,Non-democracy,Military Dict,2003
+2,1,Ireland,Eamon de Valera,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1946
+3,1,Ireland,John Costello,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1948
+3,1,Ireland,Eamon de Valera,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1951
+3,1,Ireland,John Costello,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1954
+2,1,Ireland,Eamon de Valera,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1957
+7,1,Ireland,Sean Lemass,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1959
+7,1,Ireland,John Lynch,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1966
+4,1,Ireland,Liam Cosgrave,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1973
+2,1,Ireland,John Lynch,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1977
+2,1,Ireland,Charles Haughey,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1979
+6,1,Ireland,Garret Fitzgerald,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1981
+5,1,Ireland,Charles Haughey,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1987
+2,1,Ireland,Albert Reynolds,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1992
+3,1,Ireland,John Bruton,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1994
+11,1,Ireland,Bertie Ahern,205,205,Northern Europe,Europe,Democracy,Mixed Dem,1997
+1,0,Ireland,Brian Cowen,205,205,Northern Europe,Europe,Democracy,Mixed Dem,2008
+5,1,Israel,David Ben-Gurion,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1948
+2,1,Israel,Moshe Sharett,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1953
+8,1,Israel,David Ben-Gurion,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1955
+6,0,Israel,Levi Eshkol,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1963
+5,1,Israel,Golda Meir,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1969
+3,1,Israel,Yitzhak Rabin,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1974
+6,1,Israel,Menachem Begin,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1977
+1,1,Israel,Yitzhak Shamir,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1983
+2,1,Israel,Shimon Peres,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1984
+6,1,Israel,Yitzhak Shamir,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1986
+3,0,Israel,Yitzhak Rabin,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1992
+1,1,Israel,Shimon Peres,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1995
+3,1,Israel,Benjamin Netanyahu,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1996
+2,1,Israel,Ehud Barak,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,1999
+5,1,Israel,Ariel Sharon,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,2001
+3,1,Israel,Ehud Olmert,666,666,Western Asia,Asia,Democracy,Parliamentary Dem,2006
+7,1,Italy,Alcide de Gasperi,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1946
+1,1,Italy,Giuseppe Pella,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1953
+1,1,Italy,Mario Scelba,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1954
+2,1,Italy,Antonio Segni,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1955
+1,1,Italy,Adone Zoli,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1957
+1,1,Italy,Amintore Fanfani,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1958
+1,1,Italy,Antonio Segni,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1959
+3,1,Italy,Amintore Fanfani,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1960
+5,1,Italy,Aldo Moro,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1963
+2,1,Italy,Mariano Rumor,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1968
+2,1,Italy,Emilio Colombo,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1970
+1,1,Italy,Giulio Andreotti,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1972
+1,1,Italy,Mariano Rumor,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1973
+2,1,Italy,Aldo Moro,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1974
+3,1,Italy,Giulio Andreotti,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1976
+1,1,Italy,Francisco Cossiga,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1979
+1,1,Italy,Arnaldo Forlani,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1980
+1,1,Italy,Giovanni Spadolini,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1981
+1,1,Italy,Amintore Fanfani,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1982
+4,1,Italy,Benedetto Craxi,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1983
+1,1,Italy,Giovanni Goria,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1987
+1,1,Italy,Ciriaco de Mita,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1988
+3,1,Italy,Giulio Andreotti,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1989
+1,1,Italy,Giuliano Amato,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1992
+1,1,Italy,Carlo Azeglio Ciampi,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1993
+1,1,Italy,Silvio Berlusconi,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1994
+1,1,Italy,Lamberto Dini,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1995
+2,1,Italy,Romano Prodi,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1996
+2,1,Italy,Massimo D'Alema,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,1998
+1,1,Italy,Guiliano Amato,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,2000
+5,1,Italy,Silvio Berlusconi,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,2001
+2,1,Italy,Romano Prodi,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,2006
+1,0,Italy,Silvio Berlusconi,325,325,Southern Europe,Europe,Democracy,Parliamentary Dem,2008
+5,1,Jamaica,William Bustamante,51,51,Caribbean,Americas,Democracy,Parliamentary Dem,1962
+5,1,Jamaica,Hugh Lawson Shearer,51,51,Caribbean,Americas,Democracy,Parliamentary Dem,1967
+8,1,Jamaica,Michael Manley,51,51,Caribbean,Americas,Democracy,Parliamentary Dem,1972
+9,1,Jamaica,Edward Seaga,51,51,Caribbean,Americas,Democracy,Parliamentary Dem,1980
+3,1,Jamaica,Michael Manley,51,51,Caribbean,Americas,Democracy,Parliamentary Dem,1989
+14,1,Jamaica,Percival Patterson,51,51,Caribbean,Americas,Democracy,Parliamentary Dem,1992
+1,1,Jamaica,Portia Simpson Miller,51,51,Caribbean,Americas,Democracy,Parliamentary Dem,2006
+2,0,Jamaica,Orette Bruce Golding,51,51,Caribbean,Americas,Democracy,Parliamentary Dem,2007
+1,0,Japan,Shigeru Yoshida,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1946
+1,1,Japan,Tetsu Katayama,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1947
+6,1,Japan,Shigeru Yoshida,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1948
+2,1,Japan,Ichiro Hatoyama,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1954
+1,1,Japan,Tanzan Ishibashi,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1956
+3,1,Japan,Nobusuke Kishi,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1957
+4,1,Japan,Hayato Ikeda,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1960
+8,1,Japan,Eisaku Sato,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1964
+2,1,Japan,Kakuei Tanaka,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1972
+2,1,Japan,Takeo Miki,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1974
+2,1,Japan,Takeo Fukuda,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1976
+2,0,Japan,Masayoshi Ohira,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1978
+2,1,Japan,Zenko Suzuki,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1980
+5,1,Japan,Yasuhiro Nakasone,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1982
+2,1,Japan,Noboru Takeshita,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1987
+2,1,Japan,Sosuke Uno,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1989
+2,1,Japan,Kiichi Miyazawa,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1991
+1,1,Japan,Morihiro Hosokawa,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1993
+2,1,Japan,Tomiichi Murayama,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1994
+2,1,Japan,Ryutaro Hashimoto,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1996
+2,0,Japan,Keizo Obuchi,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,1998
+1,1,Japan,Yoshiro Mori,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,2000
+5,1,Japan,Junichiro Koizumi,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,2001
+1,1,Japan,Shinzo Abe,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,2006
+1,1,Japan,Yasuo Fukuda,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,2007
+1,0,Japan,Taro Aso,740,740,Eastern Asia,Asia,Democracy,Parliamentary Dem,2008
+5,0,Jordan,Abdullah bin Hussein,663,663,Western Asia,Asia,Non-democracy,Monarchy,1946
+1,1,Jordan,Talal bin Abdullah,663,663,Western Asia,Asia,Non-democracy,Monarchy,1951
+47,0,Jordan,Hussein bin Talal,663,663,Western Asia,Asia,Non-democracy,Monarchy,1952
+10,0,Jordan,Abdallah ibn al-Hussein al-Hashimi,663,663,Western Asia,Asia,Non-democracy,Monarchy,1999
+18,0,Kazakhstan,Nursultan Nazarbayev,705,705,Central Asia,Asia,Non-democracy,Civilian Dict,1991
+15,0,Kenya,Jomo Kenyatta,501,501,Eastern Africa,Africa,Non-democracy,Civilian Dict,1963
+20,1,Kenya,Daniel Arap Moi,501,501,Eastern Africa,Africa,Non-democracy,Civilian Dict,1978
+4,1,Kenya,Daniel Arap Moi,501,501,Eastern Africa,Africa,Democracy,Presidential Dem,1998
+7,0,Kenya,Mwai Kibaki,501,501,Eastern Africa,Africa,Democracy,Presidential Dem,2002
+3,1,Kiribati,Ieremia Tabai,946,946,Micronesia,Oceania,Democracy,Parliamentary Dem,1979
+1,1,Kiribati,Rota Onorio,946,946,Micronesia,Oceania,Democracy,Parliamentary Dem,1982
+8,1,Kiribati,Ieremia Tabai,946,946,Micronesia,Oceania,Democracy,Parliamentary Dem,1983
+3,1,Kiribati,Teatao Teannaki,946,946,Micronesia,Oceania,Democracy,Parliamentary Dem,1991
+9,1,Kiribati,Teburoro Tito,946,946,Micronesia,Oceania,Democracy,Parliamentary Dem,1994
+6,0,Kiribati,Anote Tong,946,946,Micronesia,Oceania,Democracy,Parliamentary Dem,2003
+4,0,Kuwait,Sheikh Abdullah Al Salim Al Sabah,690,690,Western Asia,Asia,Non-democracy,Monarchy,1961
+12,0,Kuwait,Sheikh Sabah Al Salim Al Sabah,690,690,Western Asia,Asia,Non-democracy,Monarchy,1965
+29,1,Kuwait,Sheikh Jabir Al Ahmad Al Jabir Al Sabah,690,690,Western Asia,Asia,Non-democracy,Monarchy,1977
+3,0,Kuwait,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,690,690,Western Asia,Asia,Non-democracy,Monarchy,2006
+14,1,Kyrgyzstan,Askar Akayev,703,703,Central Asia,Asia,Non-democracy,Civilian Dict,1991
+2,1,Kyrgyzstan,Feliks Kulov,703,703,Central Asia,Asia,Democracy,Mixed Dem,2005
+2,0,Kyrgyzstan,Igor Chudinov,703,703,Central Asia,Asia,Democracy,Mixed Dem,2007
+1,1,Laos,Prince Souvanna Phouma,812,812,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1953
+2,1,Laos,Katay Don Sasorith,812,812,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1954
+2,1,Laos,Prince Souvanna Phouma,812,812,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1956
+1,1,Laos,Phoui Sananikone,812,812,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1958
+3,1,Laos,Phoumi Nosavan,812,812,South-Eastern Asia,Asia,Non-democracy,Military Dict,1959
+13,1,Laos,Prince Souvanna Phouma,812,812,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1962
+17,0,Laos,Kaysone Phomvihan,812,812,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1975
+14,1,Laos,Khamtay Siphandon,812,812,South-Eastern Asia,Asia,Non-democracy,Military Dict,1992
+3,0,Laos,Choummaly Sayasone,812,812,South-Eastern Asia,Asia,Non-democracy,Military Dict,2006
+2,1,Latvia,Ivars Godmanis,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,1991
+1,1,Latvia,Valdis Birkavs,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,1993
+1,1,Latvia,Maris Gailis,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,1994
+2,1,Latvia,Andris Skele,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,1995
+1,1,Latvia,Guntars Krasts,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,1997
+1,1,Latvia,Vilis Kristopans,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,1998
+1,1,Latvia,Andris Skele,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,1999
+2,1,Latvia,Andris Berzins,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,2000
+2,1,Latvia,Einars Repse,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,2002
+3,1,Latvia,Aigars Kalvitis,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,2004
+2,0,Latvia,Ivars Godmanis,367,367,Northern Europe,Europe,Democracy,Parliamentary Dem,2007
+5,1,Lebanon,Riyad es-Solh,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1946
+1,1,Lebanon,Abdullah Aref al-Yafi,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1951
+1,1,Lebanon,Amir Khalid Chehab,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1952
+1,1,Lebanon,Abdullah Aref al-Yafi,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1953
+1,1,Lebanon,Abd' Rashin Sami es-Solh,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1954
+1,1,Lebanon,Rashid Karame,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1955
+2,1,Lebanon,Abd' Rashin Sami es-Solh,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1956
+2,1,Lebanon,Rashid Karame,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1958
+1,1,Lebanon,Saeb Sallam,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1960
+3,1,Lebanon,Rashid Karame,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1961
+1,1,Lebanon,Hussein al-Oweini,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1964
+3,1,Lebanon,Rashid Karame,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1965
+1,1,Lebanon,Abdullah Aref al-Yafi,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1968
+1,1,Lebanon,Rashid Karame,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1969
+3,1,Lebanon,Saeb Sallam,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1970
+1,1,Lebanon,Takieddin es-Solh,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1973
+1,1,Lebanon,Rashid es-Solh,660,660,Western Asia,Asia,Democracy,Parliamentary Dem,1974
+1,1,Lebanon,Soleiman Kabalan Franjieh,660,660,Western Asia,Asia,Non-democracy,Civilian Dict,1975
+6,1,Lebanon,Elias Sarkis,660,660,Western Asia,Asia,Non-democracy,Civilian Dict,1976
+6,1,Lebanon,Amine Pierre Gemayel,660,660,Western Asia,Asia,Non-democracy,Civilian Dict,1982
+1,1,Lebanon,Michel Aoun,660,660,Western Asia,Asia,Non-democracy,Military Dict,1988
+9,1,Lebanon,Elias Khalil Haraoui,660,660,Western Asia,Asia,Non-democracy,Civilian Dict,1989
+9,1,Lebanon,Emile Geamil Lahoud,660,660,Western Asia,Asia,Non-democracy,Military Dict,1998
+1,1,Lebanon,Fouad Siniora,660,660,Western Asia,Asia,Non-democracy,Civilian Dict,2007
+1,0,Lebanon,Michel Suleiman,660,660,Western Asia,Asia,Non-democracy,Military Dict,2008
+20,1,Lesotho,Leabua Jonathan,570,570,Southern Africa,Africa,Non-democracy,Civilian Dict,1966
+5,1,Lesotho,Justin Metsino Lekhanya,570,570,Southern Africa,Africa,Non-democracy,Military Dict,1986
+2,1,Lesotho,Elias Phisoana Ramaema,570,570,Southern Africa,Africa,Non-democracy,Military Dict,1991
+5,1,Lesotho,Ntsu Mokhehle,570,570,Southern Africa,Africa,Non-democracy,Civilian Dict,1993
+11,0,Lesotho,Pakalitha Mosisili,570,570,Southern Africa,Africa,Non-democracy,Civilian Dict,1998
+25,0,Liberia,William Tubman,450,450,Western Africa,Africa,Non-democracy,Civilian Dict,1946
+9,0,Liberia,"William Tolbert, Jr.",450,450,Western Africa,Africa,Non-democracy,Civilian Dict,1971
+10,0,Liberia,Samuel Doe,450,450,Western Africa,Africa,Non-democracy,Military Dict,1980
+3,1,Liberia,Amos Sawyer,450,450,Western Africa,Africa,Non-democracy,Civilian Dict,1990
+1,1,Liberia,Philip Banks,450,450,Western Africa,Africa,Non-democracy,Civilian Dict,1993
+1,1,Liberia,David Kpomakpor,450,450,Western Africa,Africa,Non-democracy,Civilian Dict,1994
+1,1,Liberia,Wilton Sankawnlo,450,450,Western Africa,Africa,Non-democracy,Civilian Dict,1995
+1,1,Liberia,Ruth Perry,450,450,Western Africa,Africa,Non-democracy,Civilian Dict,1996
+6,1,Liberia,Charles Taylor,450,450,Western Africa,Africa,Non-democracy,Civilian Dict,1997
+3,1,Liberia,Charles Gyude Bryant,450,450,Western Africa,Africa,Non-democracy,Civilian Dict,2003
+3,0,Liberia,Ellen Johnson-Sirleaf,450,450,Western Africa,Africa,Democracy,Presidential Dem,2006
+18,1,Libyan Arab Jamahiriya,Idris I,620,620,Northern Africa,Africa,Non-democracy,Monarchy,1951
+40,0,Libyan Arab Jamahiriya,Muammar al-Qaddafi,620,620,Northern Africa,Africa,Non-democracy,Military Dict,1969
+16,1,Liechtenstein,Alexander Frick,223,223,Western Europe,Europe,Democracy,Parliamentary Dem,1946
+8,1,Liechtenstein,Gerard Batliner,223,223,Western Europe,Europe,Democracy,Parliamentary Dem,1962
+4,1,Liechtenstein,Alfred Hilbe,223,223,Western Europe,Europe,Democracy,Parliamentary Dem,1970
+4,1,Liechtenstein,Walter Kieber,223,223,Western Europe,Europe,Democracy,Parliamentary Dem,1974
+15,1,Liechtenstein,Hans Brunhart,223,223,Western Europe,Europe,Democracy,Parliamentary Dem,1978
+8,1,Liechtenstein,Mario Frick,223,223,Western Europe,Europe,Democracy,Parliamentary Dem,1993
+8,0,Liechtenstein,Otmar Hasler,223,223,Western Europe,Europe,Democracy,Parliamentary Dem,2001
+1,1,Lithuania,Gediminas Vagnorius,368,368,Northern Europe,Europe,Democracy,Mixed Dem,1991
+1,1,Lithuania,Bronislovas Lubys,368,368,Northern Europe,Europe,Democracy,Mixed Dem,1992
+3,1,Lithuania,Adolfas Slezevicius,368,368,Northern Europe,Europe,Democracy,Mixed Dem,1993
+3,1,Lithuania,Gediminas Vagnorius,368,368,Northern Europe,Europe,Democracy,Mixed Dem,1996
+1,1,Lithuania,Andrius Kubilius,368,368,Northern Europe,Europe,Democracy,Mixed Dem,1999
+1,1,Lithuania,Rolandas Paksas,368,368,Northern Europe,Europe,Democracy,Mixed Dem,2000
+5,1,Lithuania,Algirdas Brazauskas,368,368,Northern Europe,Europe,Democracy,Mixed Dem,2001
+2,1,Lithuania,Gediminas Kirkilas,368,368,Northern Europe,Europe,Democracy,Mixed Dem,2006
+1,0,Lithuania,Andrius Kubilius,368,368,Northern Europe,Europe,Democracy,Mixed Dem,2008
+7,0,Luxembourg,Pierre Dupong,212,212,Western Europe,Europe,Democracy,Parliamentary Dem,1946
+5,1,Luxembourg,Joseph Bech,212,212,Western Europe,Europe,Democracy,Parliamentary Dem,1953
+1,1,Luxembourg,Pierre Frieden,212,212,Western Europe,Europe,Democracy,Parliamentary Dem,1958
+15,1,Luxembourg,Pierre Werner,212,212,Western Europe,Europe,Democracy,Parliamentary Dem,1959
+5,1,Luxembourg,Gaston Thorn,212,212,Western Europe,Europe,Democracy,Parliamentary Dem,1974
+5,1,Luxembourg,Pierre Werner,212,212,Western Europe,Europe,Democracy,Parliamentary Dem,1979
+11,1,Luxembourg,Jacques Santer,212,212,Western Europe,Europe,Democracy,Parliamentary Dem,1984
+14,0,Luxembourg,Jean-Claude Juncker,212,212,Western Europe,Europe,Democracy,Parliamentary Dem,1995
+1,1,Macedonia,Nikola Kljusev,343,343,Southern Europe,Europe,Democracy,Mixed Dem,1991
+6,1,Macedonia,Branko Crvenkovski,343,343,Southern Europe,Europe,Democracy,Mixed Dem,1992
+4,1,Macedonia,Ljupco Georgievski,343,343,Southern Europe,Europe,Democracy,Mixed Dem,1998
+2,1,Macedonia,Branko Crvenkovski,343,343,Southern Europe,Europe,Democracy,Mixed Dem,2002
+2,1,Macedonia,Vlado Buckovski,343,343,Southern Europe,Europe,Democracy,Mixed Dem,2004
+3,0,Macedonia,Nikola Gruevski,343,343,Southern Europe,Europe,Democracy,Mixed Dem,2006
+12,1,Madagascar,Philibert Tsiranana,580,580,Eastern Africa,Africa,Non-democracy,Civilian Dict,1960
+3,1,Madagascar,Gabriel Ramanantsoa,580,580,Eastern Africa,Africa,Non-democracy,Military Dict,1972
+18,1,Madagascar,Didier Ratsiraka,580,580,Eastern Africa,Africa,Non-democracy,Military Dict,1975
+2,1,Madagascar,Francisque Ravony,580,580,Eastern Africa,Africa,Democracy,Mixed Dem,1993
+1,1,Madagascar,Emmanuel Rakotovahiny,580,580,Eastern Africa,Africa,Democracy,Mixed Dem,1995
+1,1,Madagascar,Norbert Ratsirahonana,580,580,Eastern Africa,Africa,Democracy,Mixed Dem,1996
+1,1,Madagascar,Pascal Rakotomavo,580,580,Eastern Africa,Africa,Democracy,Mixed Dem,1997
+4,1,Madagascar,Rene Tantely Andrianarivo,580,580,Eastern Africa,Africa,Democracy,Mixed Dem,1998
+5,1,Madagascar,Jacques Sylla,580,580,Eastern Africa,Africa,Democracy,Mixed Dem,2002
+2,0,Madagascar,Charles Rabemananjara,580,580,Eastern Africa,Africa,Democracy,Mixed Dem,2007
+30,1,Malawi,H. Kamuzu Banda,553,553,Eastern Africa,Africa,Non-democracy,Civilian Dict,1964
+10,1,Malawi,Bakili Muluzi,553,553,Eastern Africa,Africa,Democracy,Presidential Dem,1994
+5,0,Malawi,Bingu wa Mutharika,553,553,Eastern Africa,Africa,Democracy,Presidential Dem,2004
+13,1,Malaysia,Tunku Abdul Rahman Putra,820,820,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1957
+6,0,Malaysia,Tun Abdul Razak bin Hussein,820,820,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1970
+5,1,Malaysia,Hussein bin Onn,820,820,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1976
+22,1,Malaysia,Mahathir bin Mohamed,820,820,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1981
+6,0,Malaysia,Abdullah Ahmad Badawi,820,820,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,2003
+3,1,Maldives,Muhammad Farid Didi,781,781,Southern Asia,Asia,Non-democracy,Monarchy,1965
+10,1,Maldives,Ibrahim Nasir,781,781,Southern Asia,Asia,Non-democracy,Civilian Dict,1968
+30,1,Maldives,Maumoon Abdul Gayoom,781,781,Southern Asia,Asia,Non-democracy,Civilian Dict,1978
+1,0,Maldives,Mohamed Nasheed,781,781,Southern Asia,Asia,Democracy,Presidential Dem,2008
+8,1,Mali,Modibo Keita,432,432,Western Africa,Africa,Non-democracy,Civilian Dict,1960
+23,1,Mali,Moussa Traore,432,432,Western Africa,Africa,Non-democracy,Military Dict,1968
+1,1,Mali,Amadou Toumani Toure,432,432,Western Africa,Africa,Non-democracy,Military Dict,1991
+1,1,Mali,Younoussi Toure,432,432,Western Africa,Africa,Democracy,Mixed Dem,1992
+1,1,Mali,Abdoulaye Sekou Sow,432,432,Western Africa,Africa,Democracy,Mixed Dem,1993
+6,1,Mali,Ibrahima Boubacar Keita,432,432,Western Africa,Africa,Democracy,Mixed Dem,1994
+2,1,Mali,Mande Sidibe,432,432,Western Africa,Africa,Democracy,Mixed Dem,2000
+2,1,Mali,Ahmed Mohamed Ag Hamani,432,432,Western Africa,Africa,Democracy,Mixed Dem,2002
+3,1,Mali,Ousmane Issoufi Maiga,432,432,Western Africa,Africa,Democracy,Mixed Dem,2004
+2,0,Mali,Modibo Sidibe,432,432,Western Africa,Africa,Democracy,Mixed Dem,2007
+7,1,Malta,George Borg Olivier,338,338,Southern Europe,Europe,Democracy,Parliamentary Dem,1964
+13,1,Malta,Dominic Mintoff,338,338,Southern Europe,Europe,Democracy,Parliamentary Dem,1971
+3,1,Malta,Carmelo Mifsud-Bonnici,338,338,Southern Europe,Europe,Democracy,Parliamentary Dem,1984
+9,1,Malta,Eddie Fenech Adami,338,338,Southern Europe,Europe,Democracy,Parliamentary Dem,1987
+2,1,Malta,Alfred Sant,338,338,Southern Europe,Europe,Democracy,Parliamentary Dem,1996
+6,1,Malta,Eddie Fenech Adami,338,338,Southern Europe,Europe,Democracy,Parliamentary Dem,1998
+5,0,Malta,Lawrence Gonzi,338,338,Southern Europe,Europe,Democracy,Parliamentary Dem,2004
+6,0,Marshall Islands,Amata Kabua,983,983,Micronesia,Oceania,Democracy,Parliamentary Dem,1990
+1,1,Marshall Islands,Kunio Lemari,983,983,Micronesia,Oceania,Democracy,Parliamentary Dem,1996
+3,1,Marshall Islands,Imata Kabua,983,983,Micronesia,Oceania,Democracy,Parliamentary Dem,1997
+8,1,Marshall Islands,Kessai Note,983,983,Micronesia,Oceania,Democracy,Parliamentary Dem,2000
+1,0,Marshall Islands,Litokwa Tomeing,983,983,Micronesia,Oceania,Democracy,Parliamentary Dem,2008
+18,1,Mauritania,Moktar Ould Daddah,435,435,Western Africa,Africa,Non-democracy,Civilian Dict,1960
+1,1,Mauritania,Mustapha Ould Salek,435,435,Western Africa,Africa,Non-democracy,Military Dict,1978
+1,1,Mauritania,Mahmed Ould Louly,435,435,Western Africa,Africa,Non-democracy,Military Dict,1979
+4,1,Mauritania,Mohammed Khouna Ould Haydalla,435,435,Western Africa,Africa,Non-democracy,Military Dict,1980
+21,1,Mauritania,Moaouya Ould Sidi Ahmed Taya,435,435,Western Africa,Africa,Non-democracy,Military Dict,1984
+2,1,Mauritania,Ely Ould Mohamed Vall,435,435,Western Africa,Africa,Non-democracy,Military Dict,2005
+1,1,Mauritania,Zeine Ould Zeidane,435,435,Western Africa,Africa,Democracy,Mixed Dem,2007
+1,0,Mauritania,Mohamed Ould Abdel Aziz,435,435,Western Africa,Africa,Non-democracy,Military Dict,2008
+14,1,Mauritius,Seewoosagur Ramgoolam,590,590,Eastern Africa,Africa,Democracy,Parliamentary Dem,1968
+13,1,Mauritius,Anerood Jugnauth,590,590,Eastern Africa,Africa,Democracy,Parliamentary Dem,1982
+5,1,Mauritius,Navin Ramgoolam,590,590,Eastern Africa,Africa,Democracy,Parliamentary Dem,1995
+3,1,Mauritius,Anerood Jugnauth,590,590,Eastern Africa,Africa,Democracy,Parliamentary Dem,2000
+2,1,Mauritius,Paul Raymond Berenger,590,590,Eastern Africa,Africa,Democracy,Parliamentary Dem,2003
+4,0,Mauritius,Navin(chandra) Ramgoolam,590,590,Eastern Africa,Africa,Democracy,Parliamentary Dem,2005
+6,1,Mexico,Miguel Aleman,70,70,Central America,Americas,Non-democracy,Civilian Dict,1946
+6,1,Mexico,Adolfo Ruiz Cortines,70,70,Central America,Americas,Non-democracy,Military Dict,1952
+6,1,Mexico,Adolfo Lopez Mateos,70,70,Central America,Americas,Non-democracy,Civilian Dict,1958
+6,1,Mexico,Gustavo Diaz Ordaz,70,70,Central America,Americas,Non-democracy,Civilian Dict,1964
+6,1,Mexico,Luis Echeverria Alvarez,70,70,Central America,Americas,Non-democracy,Civilian Dict,1970
+6,1,Mexico,Jose Lopez Portillo,70,70,Central America,Americas,Non-democracy,Civilian Dict,1976
+6,1,Mexico,Miguel de la Madrid,70,70,Central America,Americas,Non-democracy,Civilian Dict,1982
+6,1,Mexico,Carlos Salinas de Gortari,70,70,Central America,Americas,Non-democracy,Civilian Dict,1988
+6,1,Mexico,Ernesto Zedillo,70,70,Central America,Americas,Non-democracy,Civilian Dict,1994
+6,1,Mexico,Vicente Fox Quesada,70,70,Central America,Americas,Democracy,Presidential Dem,2000
+3,0,Mexico,Felipe de Jesï¿½s Calderï¿½n Hinojosa,70,70,Central America,Americas,Democracy,Presidential Dem,2006
+5,1,"Micronesia, Federated States of",Bailey Olter,987,987,Micronesia,Oceania,Democracy,Presidential Dem,1991
+3,1,"Micronesia, Federated States of",Jacob Nena,987,987,Micronesia,Oceania,Democracy,Presidential Dem,1996
+4,1,"Micronesia, Federated States of",Leo Falcam,987,987,Micronesia,Oceania,Democracy,Presidential Dem,1999
+4,1,"Micronesia, Federated States of",Joseph J. Urusemal,987,987,Micronesia,Oceania,Democracy,Presidential Dem,2003
+2,0,"Micronesia, Federated States of",Manny Mori,987,987,Micronesia,Oceania,Democracy,Presidential Dem,2007
+5,1,Moldova,Mirecea Snegur,359,359,Eastern Europe,Europe,Democracy,Parliamentary Dem,1991
+1,1,Moldova,Andrei Sangheli,359,359,Eastern Europe,Europe,Democracy,Parliamentary Dem,1996
+2,1,Moldova,Ion Ciubuc,359,359,Eastern Europe,Europe,Democracy,Mixed Dem,1997
+1,1,Moldova,Dumitru Braghis,359,359,Eastern Europe,Europe,Democracy,Mixed Dem,1999
+1,1,Moldova,Dumitru Braghis,359,359,Eastern Europe,Europe,Democracy,Parliamentary Dem,2000
+7,1,Moldova,Vasile Tarlev,359,359,Eastern Europe,Europe,Democracy,Parliamentary Dem,2001
+1,0,Moldova,Zinaida Greceanii,359,359,Eastern Europe,Europe,Democracy,Parliamentary Dem,2008
+8,1,Mongolia,Yumjaagiyn Tsedenbal,712,712,Eastern Asia,Asia,Non-democracy,Civilian Dict,1946
+4,1,Mongolia,Dashiyn Damba,712,712,Eastern Asia,Asia,Non-democracy,Civilian Dict,1954
+26,1,Mongolia,Yumjaagiyn Tsedenbal,712,712,Eastern Asia,Asia,Non-democracy,Civilian Dict,1958
+6,1,Mongolia,Jambyn Batmounkh,712,712,Eastern Asia,Asia,Non-democracy,Civilian Dict,1984
+2,1,Mongolia,Punsalmaagiyn Ochirbat,712,712,Eastern Asia,Asia,Democracy,Parliamentary Dem,1990
+4,1,Mongolia,Puntsagiyn Jasray,712,712,Eastern Asia,Asia,Democracy,Mixed Dem,1992
+2,1,Mongolia,Mendsayhany Enkhsaikhan,712,712,Eastern Asia,Asia,Democracy,Mixed Dem,1996
+1,1,Mongolia,Janlaviyn Narantsatsralt,712,712,Eastern Asia,Asia,Democracy,Mixed Dem,1998
+1,1,Mongolia,Rinchinnyamiyn Amarjargal,712,712,Eastern Asia,Asia,Democracy,Mixed Dem,1999
+4,1,Mongolia,Nambaryn Enkhbayar,712,712,Eastern Asia,Asia,Democracy,Mixed Dem,2000
+2,1,Mongolia,Tsakhiagiyn Elbegdorj,712,712,Eastern Asia,Asia,Democracy,Mixed Dem,2004
+1,1,Mongolia,Miyeegombo Enkhbold,712,712,Eastern Asia,Asia,Democracy,Mixed Dem,2006
+2,0,Mongolia,Sanj Bayar,712,712,Eastern Asia,Asia,Democracy,Mixed Dem,2007
+3,0,Montenegro,Filip Vujanovic,341,,Southern Europe,Europe,Non-democracy,Civilian Dict,2006
+5,0,Morocco,Muhammad V,600,600,Northern Africa,Africa,Non-democracy,Monarchy,1956
+38,0,Morocco,Hassan II,600,600,Northern Africa,Africa,Non-democracy,Monarchy,1961
+10,0,Morocco,Muhammad VI,600,600,Northern Africa,Africa,Non-democracy,Monarchy,1999
+11,0,Mozambique,Samora Machel,541,541,Eastern Africa,Africa,Non-democracy,Civilian Dict,1975
+19,1,Mozambique,Joaquim Chissano,541,541,Eastern Africa,Africa,Non-democracy,Civilian Dict,1986
+4,0,Mozambique,Armando Emï¿½lio Guebuza,541,541,Eastern Africa,Africa,Non-democracy,Civilian Dict,2005
+8,1,Myanmar,U Nu,775,775,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1948
+1,1,Myanmar,U Ba Swe,775,775,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1956
+1,1,Myanmar,U Nu,775,775,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1957
+2,1,Myanmar,Ne Win,775,775,South-Eastern Asia,Asia,Non-democracy,Military Dict,1958
+2,1,Myanmar,U Nu,775,775,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1960
+26,1,Myanmar,Ne Win,775,775,South-Eastern Asia,Asia,Non-democracy,Military Dict,1962
+4,1,Myanmar,Khin Nyunt,775,775,South-Eastern Asia,Asia,Non-democracy,Military Dict,1988
+17,0,Myanmar,Than Shwe,775,775,South-Eastern Asia,Asia,Non-democracy,Military Dict,1992
+15,1,Namibia,Sam Nujoma,565,565,Southern Africa,Africa,Non-democracy,Civilian Dict,1990
+4,0,Namibia,Hifikepunye Lucas Pohamba,565,565,Southern Africa,Africa,Non-democracy,Civilian Dict,2005
+8,1,Nauru,Hammer DeRoburt,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,1968
+2,1,Nauru,Bernard Dowiyogo,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,1976
+11,1,Nauru,Hammer DeRoburt,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,1978
+6,1,Nauru,Bernard Dowiyoyo,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,1989
+1,1,Nauru,Lagumot Harris,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,1995
+1,1,Nauru,Rueben Kun,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,1996
+1,1,Nauru,Kinza Clodumar,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,1997
+1,1,Nauru,Bernard Dowiyoyo,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,1998
+1,1,Nauru,Rene Harris,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,1999
+1,1,Nauru,Bernard Dowiyoyo,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,2000
+3,1,Nauru,Rene Harris,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,2001
+3,1,Nauru,Ludwig Scotty,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,2004
+2,0,Nauru,Marcus Stephen,970,970,Micronesia,Oceania,Democracy,Parliamentary Dem,2007
+2,1,Nepal,Padma Shumshere Rana,790,790,Southern Asia,Asia,Non-democracy,Civilian Dict,1946
+3,1,Nepal,Mohan Shumshere Rana,790,790,Southern Asia,Asia,Non-democracy,Civilian Dict,1948
+4,0,Nepal,Tribhuwan Bir Bikram Shah Deva,790,790,Southern Asia,Asia,Non-democracy,Monarchy,1951
+17,0,Nepal,Mahendra Bir Bikram Shah Deva,790,790,Southern Asia,Asia,Non-democracy,Monarchy,1955
+18,1,Nepal,Birendra Bir Bikram Shah Deva,790,790,Southern Asia,Asia,Non-democracy,Monarchy,1972
+1,1,Nepal,Birendra Bir Bikram Shah Deva,790,790,Southern Asia,Asia,Democracy,Parliamentary Dem,1990
+3,1,Nepal,Girija Prasad Koirala,790,790,Southern Asia,Asia,Democracy,Parliamentary Dem,1991
+1,1,Nepal,Man Mohan Adhikari,790,790,Southern Asia,Asia,Democracy,Parliamentary Dem,1994
+2,1,Nepal,Sher Bahadur Deuba,790,790,Southern Asia,Asia,Democracy,Parliamentary Dem,1995
+1,1,Nepal,Surya Bahadur Thapa,790,790,Southern Asia,Asia,Democracy,Parliamentary Dem,1997
+1,1,Nepal,Girija Prasad Koirala,790,790,Southern Asia,Asia,Democracy,Parliamentary Dem,1998
+1,1,Nepal,Krishna Prasad Bhattarai,790,790,Southern Asia,Asia,Democracy,Parliamentary Dem,1999
+1,1,Nepal,Girija Prasad Koirala,790,790,Southern Asia,Asia,Democracy,Parliamentary Dem,2000
+1,1,Nepal,Sher Bahadur Deuba,790,790,Southern Asia,Asia,Democracy,Parliamentary Dem,2001
+6,1,Nepal,Gyanendra Bir Bikram Shah Deva,790,790,Southern Asia,Asia,Non-democracy,Monarchy,2002
+1,0,Nepal,Pushpa Kamal Dahal,790,790,Southern Asia,Asia,Democracy,Parliamentary Dem,2008
+2,1,Netherlands,Louis Beel,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1946
+10,1,Netherlands,Willem Drees,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1948
+1,1,Netherlands,Louis Beel,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1958
+4,1,Netherlands,Jan de Quay,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1959
+2,1,Netherlands,Victor Marijnen,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1963
+2,1,Netherlands,Joseph Cals,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1965
+4,1,Netherlands,Petrus de Jong,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1967
+2,1,Netherlands,Barend Biesheuvel,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1971
+4,1,Netherlands,Johannes den Uyl,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1973
+5,1,Netherlands,Andreas van Agt,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1977
+12,1,Netherlands,Rudolphus Lubbers,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1982
+8,1,Netherlands,Wim Kok,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,1994
+7,0,Netherlands,Jan Peter Balkenende,210,210,Western Europe,Europe,Democracy,Parliamentary Dem,2002
+3,1,New Zealand,Peter Fraser,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1946
+8,1,New Zealand,Sidney Holland,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1949
+3,1,New Zealand,Walter Nash,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1957
+12,1,New Zealand,Keith Holyoake,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1960
+2,0,New Zealand,Norman Kirk,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1972
+1,1,New Zealand,Wallace Rowling,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1974
+9,1,New Zealand,Robert Muldoon,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1975
+5,1,New Zealand,David Lange,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1984
+1,1,New Zealand,Geoffrey Palmer,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1989
+7,1,New Zealand,Jim Bolger,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1990
+2,1,New Zealand,Jenny Shipley,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1997
+9,1,New Zealand,Helen Elizabeth Clark,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,1999
+1,0,New Zealand,John Phillip Key,920,920,Australia and New Zealand,Oceania,Democracy,Parliamentary Dem,2008
+10,0,Nicaragua,Anastasio Somoza Garcia,93,93,Central America,Americas,Non-democracy,Military Dict,1946
+11,1,Nicaragua,Luis Somoza Debayle,93,93,Central America,Americas,Non-democracy,Civilian Dict,1956
+12,1,Nicaragua,Anastasio Somoza Debayle,93,93,Central America,Americas,Non-democracy,Military Dict,1967
+5,1,Nicaragua,Daniel Ortega Saavedra,93,93,Central America,Americas,Non-democracy,Civilian Dict,1979
+6,1,Nicaragua,Daniel Ortega Saavedra,93,93,Central America,Americas,Democracy,Presidential Dem,1984
+7,1,Nicaragua,Violeta Barrios de Chamorro,93,93,Central America,Americas,Democracy,Presidential Dem,1990
+5,1,Nicaragua,Jose Arnoldo Aleman Lacayo,93,93,Central America,Americas,Democracy,Presidential Dem,1997
+5,1,Nicaragua,Enrique Bolanos Geyer,93,93,Central America,Americas,Democracy,Presidential Dem,2002
+2,0,Nicaragua,Josï¿½ Daniel Ortega Saavedra,93,93,Central America,Americas,Democracy,Presidential Dem,2007
+14,1,Niger,Hamani Diori,436,436,Western Africa,Africa,Non-democracy,Civilian Dict,1960
+13,0,Niger,Seyni Kountche,436,436,Western Africa,Africa,Non-democracy,Military Dict,1974
+6,1,Niger,Ali Saibou,436,436,Western Africa,Africa,Non-democracy,Military Dict,1987
+1,1,Niger,Mahamadou Issoufou,436,436,Western Africa,Africa,Democracy,Mixed Dem,1993
+1,1,Niger,Abdoulaye Souley,436,436,Western Africa,Africa,Democracy,Mixed Dem,1994
+1,1,Niger,Hama Amadou,436,436,Western Africa,Africa,Democracy,Mixed Dem,1995
+3,0,Niger,Ibrahim Bare Mainassara,436,436,Western Africa,Africa,Non-democracy,Military Dict,1996
+1,1,Niger,Dauoda Malam Wankï¿½,436,436,Western Africa,Africa,Non-democracy,Military Dict,1999
+7,1,Niger,Hama Amadou,436,436,Western Africa,Africa,Democracy,Mixed Dem,2000
+2,0,Niger,Seyni Oumarou,436,436,Western Africa,Africa,Democracy,Mixed Dem,2007
+6,0,Nigeria,Abubakar Tafawa Balewa,475,475,Western Africa,Africa,Democracy,Parliamentary Dem,1960
+9,1,Nigeria,Yakubu Gowon,475,475,Western Africa,Africa,Non-democracy,Military Dict,1966
+1,0,Nigeria,Murtala Mohammed,475,475,Western Africa,Africa,Non-democracy,Military Dict,1975
+3,1,Nigeria,Olusegun Obasanjo,475,475,Western Africa,Africa,Non-democracy,Military Dict,1976
+4,1,Nigeria,Shehu Shagari,475,475,Western Africa,Africa,Democracy,Presidential Dem,1979
+2,1,Nigeria,Mohammed Buhari,475,475,Western Africa,Africa,Non-democracy,Military Dict,1983
+8,1,Nigeria,Ibrahim Babangida,475,475,Western Africa,Africa,Non-democracy,Military Dict,1985
+5,0,Nigeria,Sani Abacha,475,475,Western Africa,Africa,Non-democracy,Military Dict,1993
+1,1,Nigeria,Abdulsalami Abubakar,475,475,Western Africa,Africa,Non-democracy,Military Dict,1998
+8,1,Nigeria,Olusegun Obasanjo,475,475,Western Africa,Africa,Democracy,Presidential Dem,1999
+2,0,Nigeria,Umaru Musa Yar'Adua,475,475,Western Africa,Africa,Democracy,Presidential Dem,2007
+46,0,North Korea,Kim Il Sung,731,731,Eastern Asia,Asia,Non-democracy,Military Dict,1948
+15,0,North Korea,Kim Jong Il,731,731,Eastern Asia,Asia,Non-democracy,Civilian Dict,1994
+5,1,Norway,Einar Gerhardsen,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1946
+4,1,Norway,Oscar Torp,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1951
+10,1,Norway,Einar Gerhardsen,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1955
+6,1,Norway,Per Borten,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1965
+1,1,Norway,Trygve Bratteli,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1971
+1,1,Norway,Lars Korvald,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1972
+3,1,Norway,Trygve Bratteli,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1973
+5,1,Norway,Odvar Nordli,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1976
+5,1,Norway,Kare Isaachsen Willoch,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1981
+3,1,Norway,Gro Harlem Brundtland,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1986
+1,1,Norway,Jan Peder Syse,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1989
+6,1,Norway,Gro Harlem Brundtland,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1990
+1,1,Norway,Thorbjorn Jagland,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1996
+3,1,Norway,Kjell Magne Bondevik,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,1997
+1,1,Norway,Jena Stoltenberg,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,2000
+4,1,Norway,Kjell Magne Bondevik,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,2001
+4,0,Norway,Jens Stoltenberg,385,385,Northern Europe,Europe,Democracy,Parliamentary Dem,2005
+39,0,Oman,Qabus ibn Sa'id,698,698,Western Asia,Asia,Non-democracy,Monarchy,1970
+4,0,Pakistan,Liaquat Ali Khan,770,769,Southern Asia,Asia,Democracy,Parliamentary Dem,1947
+2,1,Pakistan,Hwaja Nazim ad-Din,770,769,Southern Asia,Asia,Democracy,Parliamentary Dem,1951
+2,1,Pakistan,Mohammad Ali Bogra,770,769,Southern Asia,Asia,Democracy,Parliamentary Dem,1953
+1,1,Pakistan,Chauhdry Mohammad Ali,770,769,Southern Asia,Asia,Democracy,Parliamentary Dem,1955
+2,1,Pakistan,Iskander Ali Mirza,770,769,Southern Asia,Asia,Democracy,Parliamentary Dem,1956
+11,1,Pakistan,Mohammad Ayub Khan,770,769,Southern Asia,Asia,Non-democracy,Military Dict,1958
+2,1,Pakistan,Agha Mohammad Yahya Khan,770,769,Southern Asia,Asia,Non-democracy,Military Dict,1969
+1,1,Pakistan,Zulfikar Ali Bhutto,770,769,Southern Asia,Asia,Non-democracy,Civilian Dict,1971
+5,1,Pakistan,Zulfikar Ali Bhutto,770,770,Southern Asia,Asia,Democracy,Mixed Dem,1972
+11,0,Pakistan,Mohammad Zia-ul-Haq,770,770,Southern Asia,Asia,Non-democracy,Military Dict,1977
+2,1,Pakistan,Benazir Bhutto,770,770,Southern Asia,Asia,Democracy,Parliamentary Dem,1988
+3,1,Pakistan,Nawaz Sharif,770,770,Southern Asia,Asia,Democracy,Parliamentary Dem,1990
+3,1,Pakistan,Benazir Bhutto,770,770,Southern Asia,Asia,Democracy,Parliamentary Dem,1993
+1,1,Pakistan,Miraj Khalid,770,770,Southern Asia,Asia,Democracy,Parliamentary Dem,1996
+2,1,Pakistan,Nawaz Sharif,770,770,Southern Asia,Asia,Democracy,Parliamentary Dem,1997
+9,1,Pakistan,Pervez Musharraf,770,770,Southern Asia,Asia,Non-democracy,Military Dict,1999
+1,0,Pakistan,Yousaf Raza Gilani,770,770,Southern Asia,Asia,Democracy,Parliamentary Dem,2008
+7,1,Palau,Kuniwo Nakamura,986,986,Micronesia,Oceania,Democracy,Presidential Dem,1994
+8,0,Palau,"Tommy Esang Remengesau, Jr.",986,986,Micronesia,Oceania,Democracy,Presidential Dem,2001
+2,1,Panama,Enrique Jimenez,95,95,Central America,Americas,Non-democracy,Civilian Dict,1946
+1,1,Panama,Domingo Diaz Arosemena,95,95,Central America,Americas,Non-democracy,Civilian Dict,1948
+2,1,Panama,Arnulfo Arias Madrid,95,95,Central America,Americas,Democracy,Presidential Dem,1949
+1,1,Panama,military,95,95,Central America,Americas,Non-democracy,Military Dict,1951
+3,0,Panama,Jose Remon Cantero,95,95,Central America,Americas,Democracy,Presidential Dem,1952
+1,1,Panama,Ricardo Arias Espinosa,95,95,Central America,Americas,Democracy,Presidential Dem,1955
+4,1,Panama,Ernesto de las Guardia,95,95,Central America,Americas,Democracy,Presidential Dem,1956
+4,1,Panama,Roberto Chiari,95,95,Central America,Americas,Democracy,Presidential Dem,1960
+4,1,Panama,Marco Robles,95,95,Central America,Americas,Democracy,Presidential Dem,1964
+13,0,Panama,Omar Torrijos Herrera,95,95,Central America,Americas,Non-democracy,Military Dict,1968
+2,1,Panama,military,95,95,Central America,Americas,Non-democracy,Military Dict,1981
+6,1,Panama,Gen. Manuel Antonio Noriega Morena,95,95,Central America,Americas,Non-democracy,Military Dict,1983
+5,1,Panama,Guillermo Endara Galimany,95,95,Central America,Americas,Democracy,Presidential Dem,1989
+5,1,Panama,Ernesto Perez Balladares,95,95,Central America,Americas,Democracy,Presidential Dem,1994
+5,1,Panama,Mireya Elisa Moscoso de Arias,95,95,Central America,Americas,Democracy,Presidential Dem,1999
+5,0,Panama,Martï¿½n Erasto Torrijos Espino,95,95,Central America,Americas,Democracy,Presidential Dem,2004
+5,1,Papua New Guinea,Michael Somare,910,910,Melanesia,Oceania,Democracy,Parliamentary Dem,1975
+2,1,Papua New Guinea,Julius Chan,910,910,Melanesia,Oceania,Democracy,Parliamentary Dem,1980
+3,1,Papua New Guinea,Michael Somare,910,910,Melanesia,Oceania,Democracy,Parliamentary Dem,1982
+3,1,Papua New Guinea,Paias Wingti,910,910,Melanesia,Oceania,Democracy,Parliamentary Dem,1985
+4,1,Papua New Guinea,Rabbie Namaliu,910,910,Melanesia,Oceania,Democracy,Parliamentary Dem,1988
+2,1,Papua New Guinea,Paias Wingti,910,910,Melanesia,Oceania,Democracy,Parliamentary Dem,1992
+3,1,Papua New Guinea,Julius Chan,910,910,Melanesia,Oceania,Democracy,Parliamentary Dem,1994
+2,1,Papua New Guinea,Bill Skate,910,910,Melanesia,Oceania,Democracy,Parliamentary Dem,1997
+3,1,Papua New Guinea,Mekere Morauta,910,910,Melanesia,Oceania,Democracy,Parliamentary Dem,1999
+7,0,Papua New Guinea,Michael Somare,910,910,Melanesia,Oceania,Democracy,Parliamentary Dem,2002
+2,1,Paraguay,Higinio Morinigo,150,150,South America,Americas,Non-democracy,Military Dict,1946
+1,1,Paraguay,Juan Natalicio Gonzalez,150,150,South America,Americas,Non-democracy,Civilian Dict,1948
+5,1,Paraguay,Federico Chavez,150,150,South America,Americas,Non-democracy,Civilian Dict,1949
+35,1,Paraguay,Alfredo Stroessner,150,150,South America,Americas,Non-democracy,Military Dict,1954
+4,1,Paraguay,Andres Rodriguez,150,150,South America,Americas,Democracy,Presidential Dem,1989
+5,1,Paraguay,Juan Carlos Wasmosy,150,150,South America,Americas,Democracy,Presidential Dem,1993
+1,1,Paraguay,Raul Cuba Grau,150,150,South America,Americas,Democracy,Presidential Dem,1998
+4,1,Paraguay,Luis Angel Gonzalez Macchi,150,150,South America,Americas,Democracy,Presidential Dem,1999
+5,1,Paraguay,ï¿½scar Nicanor Duarte Frutos,150,150,South America,Americas,Democracy,Presidential Dem,2003
+1,0,Paraguay,Fernando Armindo Lugo Mï¿½ndez,150,150,South America,Americas,Democracy,Presidential Dem,2008
+2,1,Peru,Jose Bustamente y Rivero,135,135,South America,Americas,Democracy,Presidential Dem,1946
+8,1,Peru,Manuel Odria,135,135,South America,Americas,Non-democracy,Military Dict,1948
+6,1,Peru,Manuel Prado y Ugarteche,135,135,South America,Americas,Democracy,Presidential Dem,1956
+1,1,Peru,Ricardo Perez Godoy,135,135,South America,Americas,Non-democracy,Military Dict,1962
+5,1,Peru,Fernando Belaunde Terry,135,135,South America,Americas,Democracy,Presidential Dem,1963
+7,1,Peru,Juan Velasco Alvaredo,135,135,South America,Americas,Non-democracy,Military Dict,1968
+5,1,Peru,Francisco Morales Bermudez,135,135,South America,Americas,Non-democracy,Military Dict,1975
+5,1,Peru,Fernando Belaunde Terry,135,135,South America,Americas,Democracy,Presidential Dem,1980
+5,1,Peru,Alan Garcia Perez,135,135,South America,Americas,Democracy,Presidential Dem,1985
+10,1,Peru,Alberto Fujimori,135,135,South America,Americas,Non-democracy,Civilian Dict,1990
+1,1,Peru,Valentin Paniagua Corazao,135,135,South America,Americas,Non-democracy,Civilian Dict,2000
+5,1,Peru,Alejandro Celestino Toledo Manrique,135,135,South America,Americas,Democracy,Presidential Dem,2001
+3,0,Peru,Alan Gabriel Ludwig Garcï¿½a Pï¿½rez,135,135,South America,Americas,Democracy,Presidential Dem,2006
+2,0,Philippines,Manuel Roxas y Acuna,840,840,South-Eastern Asia,Asia,Democracy,Presidential Dem,1946
+6,1,Philippines,Elpidio Quirino,840,840,South-Eastern Asia,Asia,Democracy,Presidential Dem,1948
+3,0,Philippines,Ramon Magsaysay,840,840,South-Eastern Asia,Asia,Democracy,Presidential Dem,1954
+4,1,Philippines,Carlos Garcia,840,840,South-Eastern Asia,Asia,Democracy,Presidential Dem,1957
+4,1,Philippines,Diosdado Macapagal,840,840,South-Eastern Asia,Asia,Democracy,Presidential Dem,1961
+21,1,Philippines,Ferdinand Marcos,840,840,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1965
+6,1,Philippines,Corazon Aquino,840,840,South-Eastern Asia,Asia,Democracy,Presidential Dem,1986
+6,1,Philippines,Fidel Ramos,840,840,South-Eastern Asia,Asia,Democracy,Presidential Dem,1992
+3,1,Philippines,Joseph Estrada,840,840,South-Eastern Asia,Asia,Democracy,Presidential Dem,1998
+8,0,Philippines,Maria Gloria Macapagal,840,840,South-Eastern Asia,Asia,Democracy,Presidential Dem,2001
+2,1,Poland,Wladyslaw Gomulka,290,290,Eastern Europe,Europe,Non-democracy,Civilian Dict,1946
+8,1,Poland,Boleslaw Bierut,290,290,Eastern Europe,Europe,Non-democracy,Civilian Dict,1948
+14,1,Poland,Wladyslaw Gomulka,290,290,Eastern Europe,Europe,Non-democracy,Civilian Dict,1956
+10,1,Poland,Edward Gierek,290,290,Eastern Europe,Europe,Non-democracy,Civilian Dict,1970
+1,1,Poland,Stanislaw Kania,290,290,Eastern Europe,Europe,Non-democracy,Civilian Dict,1980
+8,1,Poland,Wojciech Jaruzelski,290,290,Eastern Europe,Europe,Non-democracy,Military Dict,1981
+2,1,Poland,Tadeusz Mazowiecki,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,1989
+1,1,Poland,Jan Olszewski,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,1991
+1,1,Poland,Hana Suchocka,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,1992
+2,1,Poland,Waldemar Pawlak,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,1993
+1,1,Poland,Jozef Oleksy,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,1995
+1,1,Poland,Wlodzimierz Cimoszewicz,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,1996
+4,1,Poland,Jerzy Buzek,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,1997
+3,1,Poland,Leszek Miller,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,2001
+1,1,Poland,Marek Belka,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,2004
+1,1,Poland,Kazimierz Marcinkiewicz,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,2005
+1,1,Poland,Jaroslaw Kaczynski,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,2006
+2,0,Poland,Donald Tusk,290,290,Eastern Europe,Europe,Democracy,Mixed Dem,2007
+22,1,Portugal,Antonio de Oliveira Salazar,235,235,Southern Europe,Europe,Non-democracy,Civilian Dict,1946
+6,1,Portugal,Marcelo Caetano,235,235,Southern Europe,Europe,Non-democracy,Civilian Dict,1968
+2,1,Portugal,Francisco da Costa Gomes,235,235,Southern Europe,Europe,Non-democracy,Military Dict,1974
+2,1,Portugal,Mario Alberto Nobre Lopes Soares,235,235,Southern Europe,Europe,Democracy,Mixed Dem,1976
+1,1,Portugal,Carlos da Mota Pinto,235,235,Southern Europe,Europe,Democracy,Mixed Dem,1978
+1,1,Portugal,Maria de Lourdes Pintasilgo,235,235,Southern Europe,Europe,Democracy,Mixed Dem,1979
+1,1,Portugal,Diogo Freitas do Amaral,235,235,Southern Europe,Europe,Democracy,Mixed Dem,1980
+2,1,Portugal,Francisco Pinto Balsemao,235,235,Southern Europe,Europe,Democracy,Mixed Dem,1981
+2,1,Portugal,Mario Soares,235,235,Southern Europe,Europe,Democracy,Mixed Dem,1983
+10,1,Portugal,Anibal Cavaco Silva,235,235,Southern Europe,Europe,Democracy,Mixed Dem,1985
+7,1,Portugal,Antonio Guterres,235,235,Southern Europe,Europe,Democracy,Mixed Dem,1995
+2,1,Portugal,Jose Manuel Durao Barroso,235,235,Southern Europe,Europe,Democracy,Mixed Dem,2002
+1,1,Portugal,Pedro (Miguel de) Santana Lopes,235,235,Southern Europe,Europe,Democracy,Mixed Dem,2004
+4,0,Portugal,Josï¿½ Sï¿½crates (Carvalho Pinto de Sousa),235,235,Southern Europe,Europe,Democracy,Mixed Dem,2005
+1,1,Qatar,Sheikh Ahmad ibn Ali Al Thani,694,694,Western Asia,Asia,Non-democracy,Monarchy,1971
+23,1,Qatar,Sheikh Khalifah ibn Hamad Al Thani,694,694,Western Asia,Asia,Non-democracy,Monarchy,1972
+14,0,Qatar,Sheikh Hamad ibn Khalifah Al Thani,694,694,Western Asia,Asia,Non-democracy,Monarchy,1995
+8,1,Romania,Georghe Gheorghiu-Dej,360,360,Eastern Europe,Europe,Non-democracy,Civilian Dict,1946
+1,1,Romania,Gheorghe Apostol,360,360,Eastern Europe,Europe,Non-democracy,Civilian Dict,1954
+10,0,Romania,Georghe Gheorghiu-Dej,360,360,Eastern Europe,Europe,Non-democracy,Civilian Dict,1955
+25,0,Romania,Nicolae Ceausescu,360,360,Eastern Europe,Europe,Non-democracy,Civilian Dict,1965
+1,1,Romania,Petre Roman,360,360,Eastern Europe,Europe,Democracy,Mixed Dem,1990
+1,1,Romania,Theodor Stolojan,360,360,Eastern Europe,Europe,Democracy,Mixed Dem,1991
+4,1,Romania,Nicolae Vacaroiu,360,360,Eastern Europe,Europe,Democracy,Mixed Dem,1992
+2,1,Romania,Victor Ciorbea,360,360,Eastern Europe,Europe,Democracy,Mixed Dem,1996
+1,1,Romania,Radu Vasile,360,360,Eastern Europe,Europe,Democracy,Mixed Dem,1998
+1,1,Romania,Mugur Isarescu,360,360,Eastern Europe,Europe,Democracy,Mixed Dem,1999
+4,1,Romania,Adrian Nastase,360,360,Eastern Europe,Europe,Democracy,Mixed Dem,2000
+4,1,Romania,Calin Popescu-Tariceanu,360,360,Eastern Europe,Europe,Democracy,Mixed Dem,2004
+1,0,Romania,Emil Boc,360,360,Eastern Europe,Europe,Democracy,Mixed Dem,2008
+8,1,Russian Federation,Boris Yeltsin,374,365,Eastern Europe,Europe,Non-democracy,Civilian Dict,1991
+9,1,Russian Federation,Vladimir Vladimirovich Putin,374,365,Eastern Europe,Europe,Non-democracy,Civilian Dict,1999
+1,0,Russian Federation,Dmitry Anatolyevich Medvedev,374,365,Eastern Europe,Europe,Non-democracy,Civilian Dict,2008
+11,1,Rwanda,Gregoire Kayibanda,517,517,Eastern Africa,Africa,Non-democracy,Civilian Dict,1962
+21,0,Rwanda,Juvenal Habyarimana,517,517,Eastern Africa,Africa,Non-democracy,Military Dict,1973
+15,0,Rwanda,Paul Kagame,517,517,Eastern Africa,Africa,Non-democracy,Military Dict,1994
+1,0,Samoa,Malietoa Tanumafili II + Tupua Tamasese Mea'ole,990,990,Polynesia,Oceania,Non-democracy,Monarchy,1962
+44,0,Samoa,Malietoa Tanumafili II,990,990,Polynesia,Oceania,Non-democracy,Monarchy,1963
+2,0,Samoa,Tuiatua Tupua Tamasese Efi,990,990,Polynesia,Oceania,Non-democracy,Monarchy,2007
+1,1,San Marino,Romeo Morri + Marino Zanotti,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,1992
+1,1,San Marino,Gian Luigi Berti + Paride Andreoli,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,1993
+1,1,San Marino,Renzo Ghiotti + Luciano Ciavatta,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,1994
+1,1,San Marino,Pier Natalino Mularoni + Marino Venturini,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,1995
+1,1,San Marino,Maurizio Rattini + Giancarlo Venturini,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,1996
+1,1,San Marino,Luigi Mazza + Marino Zanotti,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,1997
+1,1,San Marino,Pietro Berti + Paolo Bollini,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,1998
+1,1,San Marino,Marino Bollini + Giuseppe Arzilli,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,1999
+1,1,San Marino,Gian Franco Terenzi + Enzo Colombini,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,2000
+1,1,San Marino,Alberto Cecchetti + Gino Giovagnoli,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,2001
+1,1,San Marino,Giuseppe Maria Morganti + Mauro Chiaruzzi,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,2002
+1,1,San Marino,Giovanni Lonfernini + Valeria Ciavatta,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,2003
+1,1,San Marino,Giuseppe Arzilli + Roberto Raschi,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,2004
+1,1,San Marino,Claudio Muccioli + Antonello Bacciocchi,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,2005
+1,1,San Marino,Antonio Carattoni + Roberto Giorgetti,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,2006
+1,1,San Marino,Mirko Tomassoni + Alberto Selva,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,2007
+1,0,San Marino,Ernesto Benedettini + Assunta Meloni,331,331,Southern Europe,Europe,Democracy,Parliamentary Dem,2008
+16,1,Sao Tome and Principe,Manuel Pinto da Costa,403,403,Middle Africa,Africa,Non-democracy,Civilian Dict,1975
+1,1,Sao Tome and Principe,Daniel Lima dos Santos Daio,403,403,Middle Africa,Africa,Democracy,Mixed Dem,1991
+2,1,Sao Tome and Principe,Norberto Jose d'Alva Costa Alegre,403,403,Middle Africa,Africa,Democracy,Mixed Dem,1992
+1,1,Sao Tome and Principe,Carlos da Graca,403,403,Middle Africa,Africa,Democracy,Mixed Dem,1994
+1,1,Sao Tome and Principe,Armindo Vaz d'Almeida,403,403,Middle Africa,Africa,Democracy,Mixed Dem,1995
+3,1,Sao Tome and Principe,Raul Braganca Neto,403,403,Middle Africa,Africa,Democracy,Mixed Dem,1996
+2,1,Sao Tome and Principe,Guilherme Posser da Costa,403,403,Middle Africa,Africa,Democracy,Mixed Dem,1999
+1,1,Sao Tome and Principe,Evaristo Carvalho,403,403,Middle Africa,Africa,Democracy,Mixed Dem,2001
+2,1,Sao Tome and Principe,Maria das Neves Ceita Baptista de Sousa,403,403,Middle Africa,Africa,Democracy,Mixed Dem,2002
+1,1,Sao Tome and Principe,Damiï¿½o Vaz d'Almeida,403,403,Middle Africa,Africa,Democracy,Mixed Dem,2004
+1,1,Sao Tome and Principe,Maria do Carmo Silveira,403,403,Middle Africa,Africa,Democracy,Mixed Dem,2005
+2,1,Sao Tome and Principe,Tomï¿½ Vera Cruz,403,403,Middle Africa,Africa,Democracy,Mixed Dem,2006
+1,0,Sao Tome and Principe,Joaquim Rafael Branco,403,403,Middle Africa,Africa,Democracy,Mixed Dem,2008
+7,0,Saudi Arabia,Ibn Sa'ud,670,670,Western Asia,Asia,Non-democracy,Monarchy,1946
+11,1,Saudi Arabia,Sa'ud,670,670,Western Asia,Asia,Non-democracy,Monarchy,1953
+11,0,Saudi Arabia,Faysal,670,670,Western Asia,Asia,Non-democracy,Monarchy,1964
+7,0,Saudi Arabia,Khalid,670,670,Western Asia,Asia,Non-democracy,Monarchy,1975
+14,1,Saudi Arabia,Fahd,670,670,Western Asia,Asia,Non-democracy,Monarchy,1982
+13,0,Saudi Arabia,Abdallah,670,670,Western Asia,Asia,Non-democracy,Monarchy,1996
+21,1,Senegal,Leopold Senghor,433,433,Western Africa,Africa,Non-democracy,Civilian Dict,1960
+19,1,Senegal,Abdou Diouf,433,433,Western Africa,Africa,Non-democracy,Civilian Dict,1981
+1,1,Senegal,Moustapha Niasse,433,433,Western Africa,Africa,Democracy,Mixed Dem,2000
+1,1,Senegal,Mame Madior Boye,433,433,Western Africa,Africa,Democracy,Mixed Dem,2001
+2,1,Senegal,Idrissa Seck,433,433,Western Africa,Africa,Democracy,Mixed Dem,2002
+3,1,Senegal,Macky Sall,433,433,Western Africa,Africa,Democracy,Mixed Dem,2004
+2,0,Senegal,Hadjibou Soumarï¿½,433,433,Western Africa,Africa,Democracy,Mixed Dem,2007
+2,1,Serbia,Vojislav Kostunica,342,342,Southern Europe,Europe,Democracy,Mixed Dem,2006
+1,0,Serbia,Mirko Cvetkovic,342,342,Southern Europe,Europe,Democracy,Mixed Dem,2008
+9,1,Serbia and Montenegro,Slobodan Milosevic,347,347,Southern Europe,Europe,Non-democracy,Civilian Dict,1991
+1,1,Serbia and Montenegro,Milomir Minic,347,347,Southern Europe,Europe,Democracy,Mixed Dem,2000
+2,0,Serbia and Montenegro,Zoran Djindjic,347,347,Southern Europe,Europe,Democracy,Mixed Dem,2001
+1,1,Serbia and Montenegro,Zoran Zivkovic,347,347,Southern Europe,Europe,Democracy,Mixed Dem,2003
+2,0,Serbia and Montenegro,Vojislav Kostunica,347,347,Southern Europe,Europe,Democracy,Mixed Dem,2004
+1,1,Seychelles,James Mancham,591,591,Eastern Africa,Africa,Non-democracy,Civilian Dict,1976
+27,1,Seychelles,Albert Rene,591,591,Eastern Africa,Africa,Non-democracy,Civilian Dict,1977
+5,0,Seychelles,James Alix Michel,591,591,Eastern Africa,Africa,Non-democracy,Civilian Dict,2004
+3,0,Sierra Leone,Milton Margai,451,451,Western Africa,Africa,Democracy,Parliamentary Dem,1961
+3,1,Sierra Leone,Albert Margai,451,451,Western Africa,Africa,Democracy,Parliamentary Dem,1964
+1,1,Sierra Leone,Andrew Juxon-Smith,451,451,Western Africa,Africa,Non-democracy,Military Dict,1967
+17,1,Sierra Leone,Siaka Stevens,451,451,Western Africa,Africa,Non-democracy,Civilian Dict,1968
+7,1,Sierra Leone,Joseph Saidu Momoh,451,451,Western Africa,Africa,Non-democracy,Military Dict,1985
+4,1,Sierra Leone,Valentine Strasser,451,451,Western Africa,Africa,Non-democracy,Military Dict,1992
+1,1,Sierra Leone,Ahmad Tejan Kabbah,451,451,Western Africa,Africa,Democracy,Presidential Dem,1996
+1,1,Sierra Leone,Johnny Paul Koroma,451,451,Western Africa,Africa,Non-democracy,Military Dict,1997
+9,1,Sierra Leone,Ahmad Tejan Kabbah,451,451,Western Africa,Africa,Democracy,Presidential Dem,1998
+2,0,Sierra Leone,Ernest Bai Koroma,451,451,Western Africa,Africa,Democracy,Presidential Dem,2007
+25,1,Singapore,Lee Kuan Yew,830,830,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1965
+14,1,Singapore,Goh Chok Tong,830,830,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1990
+5,0,Singapore,Lee Hsien Loong,830,830,South-Eastern Asia,Asia,Non-democracy,Military Dict,2004
+5,1,Slovakia,Vladimir Meciar,317,317,Eastern Europe,Europe,Democracy,Parliamentary Dem,1993
+1,1,Slovakia,Milkulis Dzurinda,317,317,Eastern Europe,Europe,Democracy,Parliamentary Dem,1998
+7,1,Slovakia,Milkulis Dzurinda,317,317,Eastern Europe,Europe,Democracy,Mixed Dem,1999
+3,0,Slovakia,Robert Fico,317,317,Eastern Europe,Europe,Democracy,Mixed Dem,2006
+1,1,Slovenia,Lojze Peterle,349,349,Southern Europe,Europe,Democracy,Mixed Dem,1991
+10,1,Slovenia,Janez Drnovsek,349,349,Southern Europe,Europe,Democracy,Mixed Dem,1992
+1,1,Slovenia,Anton Rop,349,349,Southern Europe,Europe,Democracy,Mixed Dem,2002
+1,1,Slovenia,Anton Rop,349,349,Southern Europe,Europe,Democracy,Parliamentary Dem,2003
+4,1,Slovenia,Janez Jansa,349,349,Southern Europe,Europe,Democracy,Parliamentary Dem,2004
+1,0,Slovenia,Borut Pahor,349,349,Southern Europe,Europe,Democracy,Parliamentary Dem,2008
+3,1,Solomon Islands,Peter Kenilorea,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,1978
+3,1,Solomon Islands,Solomon Mamaloni,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,1981
+2,1,Solomon Islands,Peter Kenilorea,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,1984
+3,1,Solomon Islands,Ezekiel Alebua,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,1986
+4,1,Solomon Islands,Solomon Mamaloni,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,1989
+4,1,Solomon Islands,Francis Billy Hilly,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,1993
+3,1,Solomon Islands,Bartholomew Ulufa'alu,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,1997
+1,1,Solomon Islands,Mannasseh Sogavare,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,2000
+5,1,Solomon Islands,Allan Kemakeza,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,2001
+1,1,Solomon Islands,Manasseh Damukana Sogavare,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,2006
+2,0,Solomon Islands,Derek Sikua,940,940,Melanesia,Oceania,Democracy,Parliamentary Dem,2007
+4,0,Somalia,Abdirashid Shermarke,520,520,Eastern Africa,Africa,Democracy,Parliamentary Dem,1960
+3,1,Somalia,Abdirizak Hussain,520,520,Eastern Africa,Africa,Democracy,Parliamentary Dem,1964
+2,1,Somalia,Mohammed Egal,520,520,Eastern Africa,Africa,Democracy,Parliamentary Dem,1967
+22,1,Somalia,Mohammed Siyad Barreh,520,520,Eastern Africa,Africa,Non-democracy,Military Dict,1969
+6,1,Somalia,Ali Mahdi Muhammad,520,520,Eastern Africa,Africa,Non-democracy,Civilian Dict,1991
+3,1,Somalia,"Five person collective chairmanship of National Salvation Council including previous president, Ali Mahdi Muhammad, Osman Hassan Ali Ato, Abdulkadir Muhammad Aden Zoppo, Abdullahi Yussuf Ahmad, and Aden Abdullahi Nur Gabiyow",520,520,Eastern Africa,Africa,Non-democracy,Civilian Dict,1997
+4,1,Somalia,Abdiqassim Salad Hassan,520,520,Eastern Africa,Africa,Non-democracy,Civilian Dict,2000
+3,1,Somalia,Abdullahi Yussuf Ahmad,520,520,Eastern Africa,Africa,Non-democracy,Civilian Dict,2004
+2,0,Somalia,Aden Muhammad Nur Madobe,520,520,Eastern Africa,Africa,Non-democracy,Civilian Dict,2007
+2,1,South Africa,Jan Christian Smuts,560,560,Southern Africa,Africa,Non-democracy,Civilian Dict,1946
+6,1,South Africa,Daniel Malan,560,560,Southern Africa,Africa,Non-democracy,Civilian Dict,1948
+4,0,South Africa,Johannes Strijdom,560,560,Southern Africa,Africa,Non-democracy,Civilian Dict,1954
+8,0,South Africa,Hendrik Verwoerd,560,560,Southern Africa,Africa,Non-democracy,Civilian Dict,1958
+12,1,South Africa,B. Johannes Vorster,560,560,Southern Africa,Africa,Non-democracy,Civilian Dict,1966
+11,1,South Africa,Pieter Botha,560,560,Southern Africa,Africa,Non-democracy,Civilian Dict,1978
+5,1,South Africa,Frederik de Klerk,560,560,Southern Africa,Africa,Non-democracy,Civilian Dict,1989
+5,1,South Africa,Nelson Mandela,560,560,Southern Africa,Africa,Non-democracy,Civilian Dict,1994
+9,1,South Africa,Thabo Mbeki,560,560,Southern Africa,Africa,Non-democracy,Civilian Dict,1999
+1,0,South Africa,Kgalema Petrus Motlanthe,560,560,Southern Africa,Africa,Non-democracy,Civilian Dict,2008
+12,1,South Korea,Syngman Rhee,732,732,Eastern Asia,Asia,Non-democracy,Civilian Dict,1948
+1,1,South Korea,John Myun Chang,732,732,Eastern Asia,Asia,Democracy,Parliamentary Dem,1960
+18,0,South Korea,Park Chung Hee,732,732,Eastern Asia,Asia,Non-democracy,Military Dict,1961
+9,1,South Korea,Chun Doo Hwan,732,732,Eastern Asia,Asia,Non-democracy,Military Dict,1979
+5,1,South Korea,Roh Tae Woo,732,732,Eastern Asia,Asia,Democracy,Presidential Dem,1988
+5,1,South Korea,Kim Young Sam,732,732,Eastern Asia,Asia,Democracy,Presidential Dem,1993
+5,1,South Korea,Kim Dae Jung,732,732,Eastern Asia,Asia,Democracy,Presidential Dem,1998
+5,1,South Korea,Roh Moo Hyun,732,732,Eastern Asia,Asia,Democracy,Presidential Dem,2003
+1,1,South Korea,Lee Myung Bak,732,732,Eastern Asia,Asia,Democracy,Presidential Dem,2008
+29,0,Spain,Francisco Franco y Bahamonde,230,230,Southern Europe,Europe,Non-democracy,Military Dict,1946
+1,1,Spain,Carlos Arias Navarro,230,230,Southern Europe,Europe,Non-democracy,Civilian Dict,1975
+1,1,Spain,Adolfo Suarez Gonzalez,230,230,Southern Europe,Europe,Non-democracy,Civilian Dict,1976
+4,1,Spain,Adolfo Suarez Gonzalez,230,230,Southern Europe,Europe,Democracy,Parliamentary Dem,1977
+1,1,Spain,Leopoldo Calvo-Sotelo y Bustelo,230,230,Southern Europe,Europe,Democracy,Parliamentary Dem,1981
+14,1,Spain,Felipe Gonzalez Marquez,230,230,Southern Europe,Europe,Democracy,Parliamentary Dem,1982
+8,1,Spain,Jose Maria Aznar,230,230,Southern Europe,Europe,Democracy,Parliamentary Dem,1996
+5,0,Spain,Josï¿½ Luis Rodrï¿½guez Zapatero,230,230,Southern Europe,Europe,Democracy,Parliamentary Dem,2004
+4,0,Sri Lanka,Don Stephen Senanayake,780,780,Southern Asia,Asia,Democracy,Parliamentary Dem,1948
+1,1,Sri Lanka,Dudley Shelton Senanayake,780,780,Southern Asia,Asia,Democracy,Parliamentary Dem,1952
+3,1,Sri Lanka,John Lionel Kotelawala,780,780,Southern Asia,Asia,Democracy,Parliamentary Dem,1953
+3,0,Sri Lanka,S.W.R.D. Bandaranaike,780,780,Southern Asia,Asia,Democracy,Parliamentary Dem,1956
+1,1,Sri Lanka,Vijayananda Dahanayake,780,780,Southern Asia,Asia,Democracy,Parliamentary Dem,1959
+5,1,Sri Lanka,Sirimavo Bandaranaike,780,780,Southern Asia,Asia,Democracy,Parliamentary Dem,1960
+5,1,Sri Lanka,Dudley Shelton Senanayake,780,780,Southern Asia,Asia,Democracy,Parliamentary Dem,1965
+7,1,Sri Lanka,Sirimavo Bandaranaike,780,780,Southern Asia,Asia,Democracy,Parliamentary Dem,1970
+12,1,Sri Lanka,Junius Richard Jayawardene,780,780,Southern Asia,Asia,Non-democracy,Civilian Dict,1977
+4,1,Sri Lanka,Dingiri Banda Wijetunge,780,780,Southern Asia,Asia,Democracy,Presidential Dem,1989
+1,1,Sri Lanka,Ranil Wickremasinghe,780,780,Southern Asia,Asia,Democracy,Presidential Dem,1993
+6,0,Sri Lanka,Sirimavo Bandaranaike,780,780,Southern Asia,Asia,Democracy,Presidential Dem,1994
+1,1,Sri Lanka,Ratnasiri Wickremanayake,780,780,Southern Asia,Asia,Democracy,Presidential Dem,2000
+3,1,Sri Lanka,Ranil Wickremasinghe,780,780,Southern Asia,Asia,Democracy,Presidential Dem,2001
+1,1,Sri Lanka,Mahinda Rajapakse,780,780,Southern Asia,Asia,Democracy,Presidential Dem,2004
+4,0,Sri Lanka,Ratnasiri Wickremanayake,780,780,Southern Asia,Asia,Democracy,Presidential Dem,2005
+12,1,St. Kitts and Nevis,Kennedy Simmonds,60,60,Caribbean,Americas,Democracy,Parliamentary Dem,1983
+14,0,St. Kitts and Nevis,Denzil Douglas,60,60,Caribbean,Americas,Democracy,Parliamentary Dem,1995
+2,1,St. Lucia,Allan Louisy,56,56,Caribbean,Americas,Democracy,Parliamentary Dem,1979
+1,1,St. Lucia,Winston Francis Cenac,56,56,Caribbean,Americas,Democracy,Parliamentary Dem,1981
+14,1,St. Lucia,John Compton,56,56,Caribbean,Americas,Democracy,Parliamentary Dem,1982
+1,1,St. Lucia,Vaughan Allen Lewis,56,56,Caribbean,Americas,Democracy,Parliamentary Dem,1996
+9,1,St. Lucia,Kenny Anthony,56,56,Caribbean,Americas,Democracy,Parliamentary Dem,1997
+1,1,St. Lucia,John Compton,56,56,Caribbean,Americas,Democracy,Parliamentary Dem,2006
+2,0,St. Lucia,Stephenson King,56,56,Caribbean,Americas,Democracy,Parliamentary Dem,2007
+5,1,St. Vincent and the Grenadines,Milton Cato,57,57,Caribbean,Americas,Democracy,Parliamentary Dem,1979
+16,1,St. Vincent and the Grenadines,James Fitz-Allen Mitchell,57,57,Caribbean,Americas,Democracy,Parliamentary Dem,1984
+1,1,St. Vincent and the Grenadines,Arnhim Eustace,57,57,Caribbean,Americas,Democracy,Parliamentary Dem,2000
+8,0,St. Vincent and the Grenadines,Ralph Gonsalves,57,57,Caribbean,Americas,Democracy,Parliamentary Dem,2001
+2,1,Sudan,Abdullah Khalil,625,625,Northern Africa,Africa,Democracy,Parliamentary Dem,1956
+6,1,Sudan,Ibrahim Abboud,625,625,Northern Africa,Africa,Non-democracy,Military Dict,1958
+1,1,Sudan,Sir al-Khatim al-Khalifah,625,625,Northern Africa,Africa,Non-democracy,Civilian Dict,1964
+1,1,Sudan,Mohammed Mahgoub,625,625,Northern Africa,Africa,Democracy,Parliamentary Dem,1965
+1,1,Sudan,Sadiq al-Mahdi,625,625,Northern Africa,Africa,Democracy,Parliamentary Dem,1966
+2,1,Sudan,Mohammed Mahgoub,625,625,Northern Africa,Africa,Democracy,Parliamentary Dem,1967
+16,1,Sudan,Jaafar el-Nemery,625,625,Northern Africa,Africa,Non-democracy,Military Dict,1969
+1,1,Sudan,Abdul Rahman Swareddabhab,625,625,Northern Africa,Africa,Non-democracy,Military Dict,1985
+3,1,Sudan,Sadiq al-Mahdi,625,625,Northern Africa,Africa,Democracy,Parliamentary Dem,1986
+20,0,Sudan,Omar Hassan Ahmad al-Bashir,625,625,Northern Africa,Africa,Non-democracy,Military Dict,1989
+5,1,Suriname,Henck Arron,115,115,South America,Americas,Democracy,Parliamentary Dem,1975
+8,1,Suriname,Desi Bouterse,115,115,South America,Americas,Non-democracy,Military Dict,1980
+2,1,Suriname,Ramsewak Shankar,115,115,South America,Americas,Democracy,Presidential Dem,1988
+1,1,Suriname,Desi Bouterse,115,115,South America,Americas,Non-democracy,Military Dict,1990
+5,1,Suriname,Ronald Venetiaan,115,115,South America,Americas,Democracy,Presidential Dem,1991
+4,1,Suriname,Jules Albert Wijdenbosch,115,115,South America,Americas,Democracy,Presidential Dem,1996
+9,0,Suriname,Ronald Venetiaan,115,115,South America,Americas,Democracy,Presidential Dem,2000
+14,0,Swaziland,Sobhuza II,572,572,Southern Africa,Africa,Non-democracy,Monarchy,1968
+1,1,Swaziland,Queen Dzeliwe,572,572,Southern Africa,Africa,Non-democracy,Monarchy,1982
+3,1,Swaziland,Queen Ntombi,572,572,Southern Africa,Africa,Non-democracy,Monarchy,1983
+23,0,Swaziland,Mswati III,572,572,Southern Africa,Africa,Non-democracy,Monarchy,1986
+23,1,Sweden,Tage Erlander,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,1946
+7,1,Sweden,Olof Palme,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,1969
+2,1,Sweden,Thorbjorn Falldin,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,1976
+1,1,Sweden,Ola Ullsten,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,1978
+3,1,Sweden,Thorbjorn Falldin,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,1979
+4,0,Sweden,Olof Palme,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,1982
+5,1,Sweden,Ingvar Carlsson,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,1986
+3,1,Sweden,Carl Bildt,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,1991
+2,1,Sweden,Ingvar Carlsson,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,1994
+10,1,Sweden,Goran Persson,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,1996
+3,0,Sweden,John Fredrik Reinfeldt,380,380,Northern Europe,Europe,Democracy,Parliamentary Dem,2006
+1,1,Switzerland,Karl Kobelt,225,225,Western Europe,Europe,Democracy,Presidential Dem,1946
+1,1,Switzerland,Philipp Etter,225,225,Western Europe,Europe,Democracy,Presidential Dem,1947
+1,1,Switzerland,Enrico Celio,225,225,Western Europe,Europe,Democracy,Presidential Dem,1948
+1,1,Switzerland,Ernst Nobs,225,225,Western Europe,Europe,Democracy,Presidential Dem,1949
+1,1,Switzerland,Max-Edouard Petitpierre,225,225,Western Europe,Europe,Democracy,Presidential Dem,1950
+1,1,Switzerland,Adolf Eduard von Steiger,225,225,Western Europe,Europe,Democracy,Presidential Dem,1951
+1,1,Switzerland,Karl Kobelt,225,225,Western Europe,Europe,Democracy,Presidential Dem,1952
+1,1,Switzerland,Philipp Etter,225,225,Western Europe,Europe,Democracy,Presidential Dem,1953
+1,1,Switzerland,Rodolphe Rubattel,225,225,Western Europe,Europe,Democracy,Presidential Dem,1954
+1,1,Switzerland,Max-Edouard Petitpierre,225,225,Western Europe,Europe,Democracy,Presidential Dem,1955
+1,1,Switzerland,Markus Feldmann,225,225,Western Europe,Europe,Democracy,Presidential Dem,1956
+1,1,Switzerland,Hans Streuli,225,225,Western Europe,Europe,Democracy,Presidential Dem,1957
+1,1,Switzerland,Thomas Emil Leo Holenstein,225,225,Western Europe,Europe,Democracy,Presidential Dem,1958
+1,1,Switzerland,Paul Chaudet,225,225,Western Europe,Europe,Democracy,Presidential Dem,1959
+1,1,Switzerland,Max-Edouard Petitpierre,225,225,Western Europe,Europe,Democracy,Presidential Dem,1960
+1,1,Switzerland,Friedrich Traugott Wahlen,225,225,Western Europe,Europe,Democracy,Presidential Dem,1961
+1,1,Switzerland,Paul Chaudet,225,225,Western Europe,Europe,Democracy,Presidential Dem,1962
+1,1,Switzerland,Willy Spuhler,225,225,Western Europe,Europe,Democracy,Presidential Dem,1963
+1,1,Switzerland,Ludwig von Moos,225,225,Western Europe,Europe,Democracy,Presidential Dem,1964
+1,1,Switzerland,Hans-Peter Tschudi,225,225,Western Europe,Europe,Democracy,Presidential Dem,1965
+1,1,Switzerland,Hans Schaffner,225,225,Western Europe,Europe,Democracy,Presidential Dem,1966
+1,1,Switzerland,Roger Bonvin,225,225,Western Europe,Europe,Democracy,Presidential Dem,1967
+1,1,Switzerland,Willy Spuhler,225,225,Western Europe,Europe,Democracy,Presidential Dem,1968
+1,1,Switzerland,Ludwig von Moos,225,225,Western Europe,Europe,Democracy,Presidential Dem,1969
+1,1,Switzerland,Hans-Peter Tschudi,225,225,Western Europe,Europe,Democracy,Presidential Dem,1970
+1,1,Switzerland,Rudolf Gnagi,225,225,Western Europe,Europe,Democracy,Presidential Dem,1971
+1,1,Switzerland,Nello Celio,225,225,Western Europe,Europe,Democracy,Presidential Dem,1972
+1,1,Switzerland,Roger Bonvin,225,225,Western Europe,Europe,Democracy,Presidential Dem,1973
+1,1,Switzerland,Ernst Brugger,225,225,Western Europe,Europe,Democracy,Presidential Dem,1974
+1,1,Switzerland,Pierre Graber,225,225,Western Europe,Europe,Democracy,Presidential Dem,1975
+1,1,Switzerland,Rudolf Gnagi,225,225,Western Europe,Europe,Democracy,Presidential Dem,1976
+1,1,Switzerland,Kurt Furgler,225,225,Western Europe,Europe,Democracy,Presidential Dem,1977
+1,1,Switzerland,Willi Ritschard,225,225,Western Europe,Europe,Democracy,Presidential Dem,1978
+1,1,Switzerland,Hans Hurlimann,225,225,Western Europe,Europe,Democracy,Presidential Dem,1979
+1,1,Switzerland,Georges-Andre Chevallaz,225,225,Western Europe,Europe,Democracy,Presidential Dem,1980
+1,1,Switzerland,Kurt Furgler,225,225,Western Europe,Europe,Democracy,Presidential Dem,1981
+1,1,Switzerland,Fritz Honegger,225,225,Western Europe,Europe,Democracy,Presidential Dem,1982
+1,1,Switzerland,Pierre Aubert,225,225,Western Europe,Europe,Democracy,Presidential Dem,1983
+1,1,Switzerland,Leon Schlumpf,225,225,Western Europe,Europe,Democracy,Presidential Dem,1984
+1,1,Switzerland,Kurt Furgler,225,225,Western Europe,Europe,Democracy,Presidential Dem,1985
+1,1,Switzerland,Alphons Egli,225,225,Western Europe,Europe,Democracy,Presidential Dem,1986
+1,1,Switzerland,Pierre Aubert,225,225,Western Europe,Europe,Democracy,Presidential Dem,1987
+1,1,Switzerland,Otto Stich,225,225,Western Europe,Europe,Democracy,Presidential Dem,1988
+1,1,Switzerland,Jean-Pascal Delamuraz,225,225,Western Europe,Europe,Democracy,Presidential Dem,1989
+1,1,Switzerland,Arnold Koller,225,225,Western Europe,Europe,Democracy,Presidential Dem,1990
+1,1,Switzerland,Flavio Cotti,225,225,Western Europe,Europe,Democracy,Presidential Dem,1991
+1,1,Switzerland,Rene Felber,225,225,Western Europe,Europe,Democracy,Presidential Dem,1992
+1,1,Switzerland,Adolf Ogi,225,225,Western Europe,Europe,Democracy,Presidential Dem,1993
+1,1,Switzerland,Otto Stich,225,225,Western Europe,Europe,Democracy,Presidential Dem,1994
+1,1,Switzerland,Kaspar Villiger,225,225,Western Europe,Europe,Democracy,Presidential Dem,1995
+1,1,Switzerland,Jean-Pascal Delamuraz,225,225,Western Europe,Europe,Democracy,Presidential Dem,1996
+1,1,Switzerland,Arnold Koller,225,225,Western Europe,Europe,Democracy,Presidential Dem,1997
+1,1,Switzerland,Flavio Cotti,225,225,Western Europe,Europe,Democracy,Presidential Dem,1998
+1,1,Switzerland,Ruth Dreifuss,225,225,Western Europe,Europe,Democracy,Presidential Dem,1999
+1,1,Switzerland,Adolf Ogi,225,225,Western Europe,Europe,Democracy,Presidential Dem,2000
+1,1,Switzerland,Moritz Leuenberger,225,225,Western Europe,Europe,Democracy,Presidential Dem,2001
+1,1,Switzerland,Kaspar Villiger,225,225,Western Europe,Europe,Democracy,Presidential Dem,2002
+1,1,Switzerland,Pascal Couchepin,225,225,Western Europe,Europe,Democracy,Presidential Dem,2003
+1,1,Switzerland,Joseph Deiss,225,225,Western Europe,Europe,Democracy,Presidential Dem,2004
+1,1,Switzerland,Samuel Schmid,225,225,Western Europe,Europe,Democracy,Presidential Dem,2005
+1,1,Switzerland,Moritz Leuenberger,225,225,Western Europe,Europe,Democracy,Presidential Dem,2006
+1,1,Switzerland,Micheline Calmy-Rey,225,225,Western Europe,Europe,Democracy,Presidential Dem,2007
+1,0,Switzerland,Pascal Couchepin,225,225,Western Europe,Europe,Democracy,Presidential Dem,2008
+3,1,Syria,Shukri al-Kuwatli,652,652,Western Asia,Asia,Non-democracy,Civilian Dict,1946
+5,1,Syria,Adib ash-Shishakli,652,652,Western Asia,Asia,Non-democracy,Military Dict,1949
+1,1,Syria,military,652,652,Western Asia,Asia,Non-democracy,Military Dict,1954
+6,1,Syria,Shukri al-Kuwatli,652,652,Western Asia,Asia,Non-democracy,Civilian Dict,1955
+2,1,Syria,Nazim al-Kudsi,652,652,Western Asia,Asia,Non-democracy,Civilian Dict,1961
+3,1,Syria,Amin al-Hafez,652,652,Western Asia,Asia,Non-democracy,Military Dict,1963
+4,1,Syria,Salah al-Jadid,652,652,Western Asia,Asia,Non-democracy,Military Dict,1966
+30,0,Syria,Hafez al-Assad,652,652,Western Asia,Asia,Non-democracy,Military Dict,1970
+9,0,Syria,Bashar al-Assad,652,652,Western Asia,Asia,Non-democracy,Military Dict,2000
+26,0,Taiwan,Chiang Kai-shek,713,713,Eastern Asia,Asia,Non-democracy,Military Dict,1949
+3,1,Taiwan,Yen Chia-kan,713,713,Eastern Asia,Asia,Non-democracy,Civilian Dict,1975
+10,0,Taiwan,Chiang Ching-kuo,713,713,Eastern Asia,Asia,Non-democracy,Civilian Dict,1978
+8,1,Taiwan,Lee Teng-hui,713,713,Eastern Asia,Asia,Non-democracy,Civilian Dict,1988
+1,1,Taiwan,Lien Chan,713,713,Eastern Asia,Asia,Democracy,Mixed Dem,1996
+3,1,Taiwan,Vincent Siew,713,713,Eastern Asia,Asia,Democracy,Mixed Dem,1997
+2,1,Taiwan,Chang Chun-hsiung,713,713,Eastern Asia,Asia,Democracy,Mixed Dem,2000
+3,1,Taiwan,Yu Shyi-kun,713,713,Eastern Asia,Asia,Democracy,Mixed Dem,2002
+1,1,Taiwan,Frank Hsieh,713,713,Eastern Asia,Asia,Democracy,Mixed Dem,2005
+1,1,Taiwan,Su Tseng-chang,713,713,Eastern Asia,Asia,Democracy,Mixed Dem,2006
+1,1,Taiwan,Chang Chun-hsiung,713,713,Eastern Asia,Asia,Democracy,Mixed Dem,2007
+1,0,Taiwan,Liu Chao-shiuan,713,713,Eastern Asia,Asia,Democracy,Mixed Dem,2008
+1,1,Tajikistan,Rakhmon Nabiyev,702,702,Central Asia,Asia,Non-democracy,Civilian Dict,1991
+17,0,Tajikistan,Imomali Rakhmonov,702,702,Central Asia,Asia,Non-democracy,Civilian Dict,1992
+24,1,Tanzania,Julius Nyerere,510,510,Eastern Africa,Africa,Non-democracy,Civilian Dict,1961
+10,1,Tanzania,Ali Hassan Mwinyi,510,510,Eastern Africa,Africa,Non-democracy,Civilian Dict,1985
+10,1,Tanzania,Benjamin Mkapa,510,510,Eastern Africa,Africa,Non-democracy,Civilian Dict,1995
+4,0,Tanzania,Jakaya Mrisho Kikwete,510,510,Eastern Africa,Africa,Non-democracy,Military Dict,2005
+1,1,Thailand,Luang Thamrongnawasawat,800,800,South-Eastern Asia,Asia,Non-democracy,Military Dict,1946
+10,1,Thailand,Luang Phibulsongkhram,800,800,South-Eastern Asia,Asia,Non-democracy,Military Dict,1947
+1,1,Thailand,Thanom Kittikachorn,800,800,South-Eastern Asia,Asia,Non-democracy,Military Dict,1957
+5,0,Thailand,Sarit Thanarat,800,800,South-Eastern Asia,Asia,Non-democracy,Military Dict,1958
+10,1,Thailand,Thanom Kittikachorn,800,800,South-Eastern Asia,Asia,Non-democracy,Military Dict,1963
+2,1,Thailand,Sanya Thammasak,800,800,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1973
+1,1,Thailand,Kukrit Pramoj,800,800,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1975
+1,1,Thailand,military,800,800,South-Eastern Asia,Asia,Non-democracy,Military Dict,1976
+2,1,Thailand,Kriangsak Chamanand,800,800,South-Eastern Asia,Asia,Non-democracy,Military Dict,1977
+1,1,Thailand,Kriangsak Chamanand,800,800,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1979
+8,1,Thailand,Prem Tinsulanond,800,800,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1980
+3,1,Thailand,Chatichai Choonhavan,800,800,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1988
+1,1,Thailand,military,800,800,South-Eastern Asia,Asia,Non-democracy,Military Dict,1991
+3,1,Thailand,Chuan Leekpai,800,800,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1992
+1,1,Thailand,Banharn Silapa-archa,800,800,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1995
+1,1,Thailand,Chaovalit Yongchaiyudh,800,800,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1996
+4,1,Thailand,Chuan Leekpai,800,800,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,1997
+5,1,Thailand,Thaksin Shinawatra,800,800,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,2001
+2,1,Thailand,Surayud Chulanont,800,800,South-Eastern Asia,Asia,Non-democracy,Military Dict,2006
+1,0,Thailand,Abhisit Vejjajiva,800,800,South-Eastern Asia,Asia,Democracy,Parliamentary Dem,2008
+3,0,Togo,Sylvanus Olympio,461,461,Western Africa,Africa,Non-democracy,Civilian Dict,1960
+4,1,Togo,Nicholas Grunitzky,461,461,Western Africa,Africa,Non-democracy,Civilian Dict,1963
+38,0,Togo,Etienne Eyadema,461,461,Western Africa,Africa,Non-democracy,Military Dict,1967
+4,0,Togo,Faure Gnassingbï¿½,461,461,Western Africa,Africa,Non-democracy,Civilian Dict,2005
+36,0,Tonga,Taufa'ahau Tupou IV,955,955,Polynesia,Oceania,Non-democracy,Monarchy,1970
+3,0,Tonga,George Tupou V,955,955,Polynesia,Oceania,Non-democracy,Monarchy,2006
+19,0,Trinidad and Tobago,Eric Williams,52,52,Caribbean,Americas,Democracy,Parliamentary Dem,1962
+5,1,Trinidad and Tobago,George Chambers,52,52,Caribbean,Americas,Democracy,Parliamentary Dem,1981
+5,1,Trinidad and Tobago,A.N.R. Robinson,52,52,Caribbean,Americas,Democracy,Parliamentary Dem,1986
+4,1,Trinidad and Tobago,Patrick Manning,52,52,Caribbean,Americas,Democracy,Parliamentary Dem,1991
+6,1,Trinidad and Tobago,Basdeo Panday,52,52,Caribbean,Americas,Democracy,Parliamentary Dem,1995
+8,0,Trinidad and Tobago,Patrick Manning,52,52,Caribbean,Americas,Democracy,Parliamentary Dem,2001
+31,1,Tunisia,Habib Bourguiba,616,616,Northern Africa,Africa,Non-democracy,Civilian Dict,1956
+22,0,Tunisia,Zine al-Abidine Ben Ali,616,616,Northern Africa,Africa,Non-democracy,Military Dict,1987
+4,1,Turkey,Ismet Inonu,640,640,Western Asia,Asia,Non-democracy,Military Dict,1946
+10,1,Turkey,Celal Bayar,640,640,Western Asia,Asia,Non-democracy,Civilian Dict,1950
+1,1,Turkey,Cemal Gursel,640,640,Western Asia,Asia,Non-democracy,Military Dict,1960
+4,1,Turkey,Ismet Inonu,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1961
+6,1,Turkey,Suleyman Demirel,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1965
+1,1,Turkey,Nihat Erim,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1971
+1,1,Turkey,Ferit Melen,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1972
+1,1,Turkey,Naim Talu,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1973
+1,1,Turkey,Said Irmak,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1974
+3,1,Turkey,Suleyman Demirel,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1975
+1,1,Turkey,Bulent Ecevit,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1978
+1,1,Turkey,Suleyman Demirel,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1979
+3,1,Turkey,Kenan Evren,640,640,Western Asia,Asia,Non-democracy,Military Dict,1980
+6,1,Turkey,Turgut Ozal,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1983
+2,1,Turkey,Yildirim Akbulut,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1989
+2,1,Turkey,Suleyman Demirel,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1991
+3,1,Turkey,Tansu Ciller,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1993
+1,1,Turkey,Necmettin Erbakan,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1996
+2,1,Turkey,Mesut Yilmaz,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1997
+3,1,Turkey,Mustafa Bulent Ecevit,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,1999
+1,1,Turkey,Abdullah Gul,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,2002
+6,0,Turkey,Recep Tayyip Erdogan,640,640,Western Asia,Asia,Democracy,Parliamentary Dem,2003
+15,0,Turkmenistan,Saparmurad Niyazov,701,701,Central Asia,Asia,Non-democracy,Civilian Dict,1991
+3,0,Turkmenistan,Gurbanguly M. Berdymukhammedov,701,701,Central Asia,Asia,Non-democracy,Civilian Dict,2006
+3,1,Tuvalu,Toalipi Lauti,947,,Polynesia,Oceania,Democracy,Parliamentary Dem,1978
+8,1,Tuvalu,Tomasi Puapua,947,,Polynesia,Oceania,Democracy,Parliamentary Dem,1981
+4,1,Tuvalu,Bikenibeu Paeniu,947,,Polynesia,Oceania,Democracy,Parliamentary Dem,1989
+3,1,Tuvalu,Kamuta Latasi,947,,Polynesia,Oceania,Democracy,Parliamentary Dem,1993
+3,1,Tuvalu,Bikenibeu Paeniu,947,,Polynesia,Oceania,Democracy,Parliamentary Dem,1996
+1,1,Tuvalu,Ionatana Ionatana,947,,Polynesia,Oceania,Democracy,Parliamentary Dem,1999
+1,1,Tuvalu,Lgitupu Tuilimu,947,947,Polynesia,Oceania,Democracy,Parliamentary Dem,2000
+1,1,Tuvalu,Koloa Talake,947,947,Polynesia,Oceania,Democracy,Parliamentary Dem,2001
+2,1,Tuvalu,Saufatu Sopoanga,947,947,Polynesia,Oceania,Democracy,Parliamentary Dem,2002
+2,1,Tuvalu,Maatia Toafa,947,947,Polynesia,Oceania,Democracy,Parliamentary Dem,2004
+3,0,Tuvalu,Apisai Ielemia,947,947,Polynesia,Oceania,Democracy,Parliamentary Dem,2006
+7,0,U.S.S.R.,Josef Stalin,365,364,Eastern Europe,Europe,Non-democracy,Civilian Dict,1946
+11,1,U.S.S.R.,Nikita Khruschev,365,364,Eastern Europe,Europe,Non-democracy,Civilian Dict,1953
+18,0,U.S.S.R.,Leonid Brezhnev,365,364,Eastern Europe,Europe,Non-democracy,Civilian Dict,1964
+2,0,U.S.S.R.,Yuri Andropov,365,364,Eastern Europe,Europe,Non-democracy,Civilian Dict,1982
+1,0,U.S.S.R.,Konstantin Chernenko,365,364,Eastern Europe,Europe,Non-democracy,Civilian Dict,1984
+6,0,U.S.S.R.,Mikhail Gorbachev,365,364,Eastern Europe,Europe,Non-democracy,Civilian Dict,1985
+1,1,Uganda,Sir Walter Fleming Coutts,500,500,Eastern Africa,Africa,Non-democracy,Civilian Dict,1962
+3,1,Uganda,Sir Edward Frederick Mutesa II,500,500,Eastern Africa,Africa,Non-democracy,Civilian Dict,1963
+5,1,Uganda,Milton Obote,500,500,Eastern Africa,Africa,Non-democracy,Civilian Dict,1966
+8,1,Uganda,Idi Amin Dada,500,500,Eastern Africa,Africa,Non-democracy,Military Dict,1971
+1,1,Uganda,Godfrey Binsaisa,500,500,Eastern Africa,Africa,Non-democracy,Civilian Dict,1979
+5,1,Uganda,Milton Obote,500,500,Eastern Africa,Africa,Democracy,Presidential Dem,1980
+1,1,Uganda,Tito Okello,500,500,Eastern Africa,Africa,Non-democracy,Military Dict,1985
+23,0,Uganda,Yoweri Museveni,500,500,Eastern Africa,Africa,Non-democracy,Civilian Dict,1986
+1,1,Ukraine,Vitold Pavlovych Fokin,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,1991
+1,1,Ukraine,Leonid Danylovych Kuchma,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,1992
+1,1,Ukraine,Yukhym Leonidovych Zvyahilskiy,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,1993
+1,1,Ukraine,Vitaliy Anriyovych Masol,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,1994
+1,1,Ukraine,Yevhen Kyrylovych Marchuk,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,1995
+1,1,Ukraine,Pavlo Ivanovych Lazarenko,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,1996
+2,1,Ukraine,Valeriy Pavlovych Pustovoytenko,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,1997
+2,1,Ukraine,Viktor Andriyovych Yushchenko,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,1999
+1,1,Ukraine,Anatoliy Kyrylovych Kinakh,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,2001
+3,1,Ukraine,Viktor Fedorovych Yanukovych,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,2002
+1,1,Ukraine,Yuriy Ivanovych Yekhanurov,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,2005
+1,1,Ukraine,Viktor Fedorovych Yanukovych,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,2006
+2,0,Ukraine,Yuliya Volodymyrivna Tymoshenko,369,369,Eastern Europe,Europe,Democracy,Mixed Dem,2007
+33,1,United Arab Emirates,Sheikh Zaid ibn Sultan Al Nahayan,696,696,Western Asia,Asia,Non-democracy,Monarchy,1971
+5,0,United Arab Emirates,Sheikh Khalifa ibn Zayid Al Nuhayyan,696,696,Western Asia,Asia,Non-democracy,Monarchy,2004
+5,1,United Kingdom,Clement Attlee,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1946
+4,1,United Kingdom,Winston Churchill,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1951
+2,1,United Kingdom,Anthony Eden,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1955
+6,1,United Kingdom,Harold MacMillan,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1957
+1,1,United Kingdom,Alexander Douglas-Home,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1963
+6,1,United Kingdom,Harold Wilson,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1964
+4,1,United Kingdom,Edward Heath,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1970
+2,1,United Kingdom,Harold Wilson,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1974
+3,1,United Kingdom,James Callaghan,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1976
+11,1,United Kingdom,Margaret Thatcher,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1979
+7,1,United Kingdom,John Major,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1990
+10,1,United Kingdom,Tony Blair,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,1997
+2,0,United Kingdom,Gordon Brown,200,200,Northern Europe,Europe,Democracy,Parliamentary Dem,2007
+7,1,United States of America,Harry Truman,2,2,Northern America,Americas,Democracy,Presidential Dem,1946
+8,1,United States of America,Dwight D. Eisenhower,2,2,Northern America,Americas,Democracy,Presidential Dem,1953
+2,0,United States of America,John Kennedy,2,2,Northern America,Americas,Democracy,Presidential Dem,1961
+6,1,United States of America,Lyndon Johnson,2,2,Northern America,Americas,Democracy,Presidential Dem,1963
+5,1,United States of America,Richard Nixon,2,2,Northern America,Americas,Democracy,Presidential Dem,1969
+3,1,United States of America,Gerald Ford,2,2,Northern America,Americas,Democracy,Presidential Dem,1974
+4,1,United States of America,Jimmy Carter,2,2,Northern America,Americas,Democracy,Presidential Dem,1977
+8,1,United States of America,Ronald Reagan,2,2,Northern America,Americas,Democracy,Presidential Dem,1981
+4,1,United States of America,George Bush,2,2,Northern America,Americas,Democracy,Presidential Dem,1989
+8,1,United States of America,Bill Clinton,2,2,Northern America,Americas,Democracy,Presidential Dem,1993
+8,0,United States of America,George W. Bush,2,2,Northern America,Americas,Democracy,Presidential Dem,2001
+1,1,Uruguay,Juan Amezaga,165,165,South America,Americas,Democracy,Presidential Dem,1946
+4,1,Uruguay,Luis Batlle Berres,165,165,South America,Americas,Democracy,Presidential Dem,1947
+4,1,Uruguay,Andres Martinez Trueba,165,165,South America,Americas,Democracy,Presidential Dem,1951
+1,1,Uruguay,Luis Batlle Berres,165,165,South America,Americas,Democracy,Presidential Dem,1955
+1,1,Uruguay,Alberto Fermin Zubiria,165,165,South America,Americas,Democracy,Presidential Dem,1956
+1,1,Uruguay,Arturo Lezama,165,165,South America,Americas,Democracy,Presidential Dem,1957
+1,1,Uruguay,Carlos Fischer,165,165,South America,Americas,Democracy,Presidential Dem,1958
+1,1,Uruguay,Martin Etchegoyen,165,165,South America,Americas,Democracy,Presidential Dem,1959
+1,1,Uruguay,Benito Nardone,165,165,South America,Americas,Democracy,Presidential Dem,1960
+1,1,Uruguay,Eduardo Haedo,165,165,South America,Americas,Democracy,Presidential Dem,1961
+1,1,Uruguay,Faustino Harrison,165,165,South America,Americas,Democracy,Presidential Dem,1962
+1,1,Uruguay,Daniel Fernandez Crespo,165,165,South America,Americas,Democracy,Presidential Dem,1963
+1,1,Uruguay,Luis Giannatasio,165,165,South America,Americas,Democracy,Presidential Dem,1964
+1,1,Uruguay,Washington Beltran,165,165,South America,Americas,Democracy,Presidential Dem,1965
+1,1,Uruguay,Alberto Heber Usher,165,165,South America,Americas,Democracy,Presidential Dem,1966
+5,1,Uruguay,Jorge Pacheco Arego,165,165,South America,Americas,Democracy,Presidential Dem,1967
+1,1,Uruguay,Juan Bordaberry Arocena,165,165,South America,Americas,Democracy,Presidential Dem,1972
+8,1,Uruguay,Military,165,165,South America,Americas,Non-democracy,Military Dict,1973
+4,1,Uruguay,Gregorio Alvarez Armelino,165,165,South America,Americas,Non-democracy,Military Dict,1981
+5,1,Uruguay,Julio Sanguinetti Cairdo,165,165,South America,Americas,Democracy,Presidential Dem,1985
+5,1,Uruguay,Luis Alberto Lacalle,165,165,South America,Americas,Democracy,Presidential Dem,1990
+5,1,Uruguay,Julio Sanguinetti Cairdo,165,165,South America,Americas,Democracy,Presidential Dem,1995
+5,1,Uruguay,Jorge Luis Batlle Ibanez,165,165,South America,Americas,Democracy,Presidential Dem,2000
+4,0,Uruguay,Tabarï¿½ Ramï¿½n Vï¿½zquez Rosas,165,165,South America,Americas,Democracy,Presidential Dem,2005
+18,0,Uzbekistan,Islam Karimov,704,704,Central Asia,Asia,Non-democracy,Civilian Dict,1991
+11,1,Vanuatu,Walter Lini,935,935,Melanesia,Oceania,Democracy,Parliamentary Dem,1980
+4,1,Vanuatu,Maxime Carlot Korman,935,935,Melanesia,Oceania,Democracy,Parliamentary Dem,1991
+3,1,Vanuatu,Serge Vohor,935,935,Melanesia,Oceania,Democracy,Parliamentary Dem,1995
+1,1,Vanuatu,Donald Kalpokas,935,935,Melanesia,Oceania,Democracy,Parliamentary Dem,1998
+2,1,Vanuatu,Barak Sope,935,935,Melanesia,Oceania,Democracy,Parliamentary Dem,1999
+3,1,Vanuatu,Edward Natapei,935,935,Melanesia,Oceania,Democracy,Parliamentary Dem,2001
+4,1,Vanuatu,Ham Lini,935,935,Melanesia,Oceania,Democracy,Parliamentary Dem,2004
+1,0,Vanuatu,Edward Natapei,935,935,Melanesia,Oceania,Democracy,Parliamentary Dem,2008
+2,1,Venezuela,Romulo Betancourt,101,101,South America,Americas,Democracy,Presidential Dem,1946
+2,0,Venezuela,Carlos Delgado Chalbaud,101,101,South America,Americas,Non-democracy,Military Dict,1948
+8,1,Venezuela,Marcos Perez Jimenez,101,101,South America,Americas,Non-democracy,Military Dict,1950
+1,1,Venezuela,military,101,101,South America,Americas,Non-democracy,Military Dict,1958
+5,1,Venezuela,Romulo Betancourt,101,101,South America,Americas,Democracy,Presidential Dem,1959
+5,1,Venezuela,Raul Leoni,101,101,South America,Americas,Democracy,Presidential Dem,1964
+5,1,Venezuela,Rafael Caldera Rodriguez,101,101,South America,Americas,Democracy,Presidential Dem,1969
+5,1,Venezuela,Carlos Andres Perez,101,101,South America,Americas,Democracy,Presidential Dem,1974
+5,1,Venezuela,Luis Herrera Campins,101,101,South America,Americas,Democracy,Presidential Dem,1979
+5,1,Venezuela,Jaime Lusinchi,101,101,South America,Americas,Democracy,Presidential Dem,1984
+4,1,Venezuela,Carlos Andres Perez,101,101,South America,Americas,Democracy,Presidential Dem,1989
+1,1,Venezuela,Ramon Jose Velasquez,101,101,South America,Americas,Democracy,Presidential Dem,1993
+5,1,Venezuela,Rafael Caldera Rodriguez,101,101,South America,Americas,Democracy,Presidential Dem,1994
+10,0,Venezuela,Hugo Chavez,101,101,South America,Americas,Democracy,Presidential Dem,1999
+10,0,Viet Nam,Le Duan,818,818,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1976
+5,1,Viet Nam,Nguyen Van Linh,818,818,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1986
+6,1,Viet Nam,Do Muoi,818,818,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,1991
+4,1,Viet Nam,Le Kha Phieu,818,818,South-Eastern Asia,Asia,Non-democracy,Military Dict,1997
+8,0,Viet Nam,Nong Duc Manh,818,818,South-Eastern Asia,Asia,Non-democracy,Civilian Dict,2001
+19,0,Yemen,Ali Abdullah Saleh,679,679,Western Asia,Asia,Non-democracy,Military Dict,1990
+2,0,Yemen Arab Republic,Yahya ibn Muhammad,678,678,Western Asia,Asia,Non-democracy,Monarchy,1946
+14,0,Yemen Arab Republic,Ahmad ash-Shams ibn Yahya,678,678,Western Asia,Asia,Non-democracy,Monarchy,1948
+5,1,Yemen Arab Republic,`Abd Allah as-Sallal,678,678,Western Asia,Asia,Non-democracy,Civilian Dict,1962
+7,1,Yemen Arab Republic,Abdel Rahman al-Iriani,678,678,Western Asia,Asia,Non-democracy,Civilian Dict,1967
+3,0,Yemen Arab Republic,Ibrahim Muhammad al-Hamadi,678,678,Western Asia,Asia,Non-democracy,Military Dict,1974
+1,0,Yemen Arab Republic,Ahmad al-Ghashmi,678,678,Western Asia,Asia,Non-democracy,Military Dict,1977
+12,0,Yemen Arab Republic,Ali Abdullah Saleh,678,678,Western Asia,Asia,Non-democracy,Military Dict,1978
+2,1,Yemen PDR (South),Qahtan Muhammad al-Shabi,680,680,Western Asia,Asia,Non-democracy,Civilian Dict,1967
+9,0,Yemen PDR (South),Salem Ali Rubayyi,680,680,Western Asia,Asia,Non-democracy,Civilian Dict,1969
+2,1,Yemen PDR (South),Abd al-Fattah Ismail,680,680,Western Asia,Asia,Non-democracy,Civilian Dict,1978
+6,1,Yemen PDR (South),Ali Nasir Muhammad Husani,680,680,Western Asia,Asia,Non-democracy,Civilian Dict,1980
+4,0,Yemen PDR (South),Haidar Abu Bakr al-Attas,680,680,Western Asia,Asia,Non-democracy,Civilian Dict,1986
+34,0,Yugoslavia,Josip Broz Tito,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1946
+1,1,Yugoslavia,Lazar Mojsov,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1980
+1,1,Yugoslavia,Dusan Dragosavac,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1981
+1,1,Yugoslavia,Mitja Ribicic,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1982
+1,1,Yugoslavia,Dragoslav Markovic,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1983
+1,1,Yugoslavia,Ali Sukrija,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1984
+1,1,Yugoslavia,Vidoje Zarkovic,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1985
+1,1,Yugoslavia,Milanko Renovica,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1986
+1,1,Yugoslavia,Bosko Krunic,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1987
+1,1,Yugoslavia,Stipe Suvar,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1988
+1,1,Yugoslavia,Milan Pancevski,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1989
+1,0,Yugoslavia,Borisav Jovic,345,345,Southern Europe,Europe,Non-democracy,Civilian Dict,1990
+27,1,Zambia,Kenneth Kaunda,551,551,Eastern Africa,Africa,Non-democracy,Civilian Dict,1964
+11,1,Zambia,Frederick Chiluba,551,551,Eastern Africa,Africa,Non-democracy,Civilian Dict,1991
+6,1,Zambia,Levy Patrick Mwanawasa,551,551,Eastern Africa,Africa,Non-democracy,Civilian Dict,2002
+1,0,Zambia,Rupiah Bwezani Banda,551,551,Eastern Africa,Africa,Non-democracy,Civilian Dict,2008
+14,1,Zimbabwe,Ian Smith,552,552,Eastern Africa,Africa,Non-democracy,Civilian Dict,1965
+1,1,Zimbabwe,Abel Muzorewa,552,552,Eastern Africa,Africa,Non-democracy,Civilian Dict,1979
+29,0,Zimbabwe,Robert Mugabe,552,552,Eastern Africa,Africa,Non-democracy,Civilian Dict,1980

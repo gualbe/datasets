@@ -1,0 +1,101 @@
+hair,feathers,eggs,milk,airborne,aquatic,predator,toothed,backbone,breathes,venomous,fins,legs,tail,domestic,catsize,type,name
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,no,no,yes,mammal,aardvark
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,no,yes,mammal,antelope
+no,no,yes,no,no,yes,yes,yes,yes,no,no,yes,no,yes,no,no,fish,largemouth bass
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,no,no,yes,mammal,bear
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,boar
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,no,yes,mammal,bubalina
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,yes,yes,mammal,calf
+no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,yes,yes,no,fish,carp
+no,no,yes,no,no,yes,yes,yes,yes,no,no,yes,no,yes,no,no,fish,wels catfish
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,cheetah
+no,yes,yes,no,yes,no,no,no,yes,yes,no,no,2,yes,yes,no,bird,chicken
+no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,invertebrate,bivalvia
+no,no,yes,no,no,yes,yes,no,no,no,no,no,4,no,no,no,invertebrate,crustacean
+no,no,yes,no,no,yes,yes,no,no,no,no,no,6,no,no,no,invertebrate,crayfish
+no,yes,yes,no,yes,no,yes,no,yes,yes,no,no,2,yes,no,no,bird,crows
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,no,yes,mammal,red deer
+no,yes,yes,no,yes,no,no,no,yes,yes,no,no,2,yes,yes,no,bird,pigeon
+no,yes,yes,no,yes,yes,no,no,yes,yes,no,no,2,yes,no,no,bird,duck
+no,yes,yes,no,yes,no,no,no,yes,yes,no,no,2,yes,no,yes,bird,flamingo
+no,no,yes,no,no,no,no,no,no,yes,no,no,6,no,no,no,insect,flea
+no,no,yes,no,no,yes,yes,yes,yes,yes,no,no,4,no,no,no,amphibian,frog
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,no,yes,mammal,giraffe
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,2,no,yes,yes,mammal,girl
+no,no,yes,no,yes,no,no,no,no,yes,no,no,6,no,no,no,insect,mosquito
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,yes,yes,mammal,goat
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,2,no,no,yes,mammal,gorilla
+no,yes,yes,no,yes,yes,yes,no,yes,yes,no,no,2,yes,no,no,bird,seagull
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,yes,no,mammal,hamster
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,no,no,mammal,rabbit
+no,yes,yes,no,yes,no,yes,no,yes,yes,no,no,2,yes,no,no,bird,falcon
+no,no,yes,no,no,yes,yes,yes,yes,no,no,yes,no,yes,no,no,fish,herring
+yes,no,yes,no,yes,no,no,no,no,yes,yes,no,6,no,yes,no,insect,bee
+yes,no,yes,no,yes,no,no,no,no,yes,no,no,6,no,no,no,insect,fly
+no,yes,yes,no,no,no,yes,no,yes,yes,no,no,2,yes,no,no,bird,kiwi
+no,no,yes,no,yes,no,yes,no,no,yes,no,no,6,no,no,no,insect,ladybird
+no,yes,yes,no,yes,no,no,no,yes,yes,no,no,2,yes,no,no,bird,lark
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,leopard
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,lion
+no,no,yes,no,no,yes,yes,no,no,no,no,no,6,no,no,no,invertebrate,lobster
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,lynx
+yes,no,no,yes,no,yes,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,mustelidae
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,no,mammal,mole
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,mongoose
+yes,no,yes,no,yes,no,no,no,no,yes,no,no,6,no,no,no,insect,clothing moth
+no,no,yes,no,no,yes,yes,no,no,no,no,no,8,no,no,yes,invertebrate,octopus
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,no,mammal,oposum
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,no,yes,mammal,oryx
+no,yes,yes,no,no,no,no,no,yes,yes,no,no,2,yes,no,yes,bird,ostrich
+no,yes,yes,no,no,yes,yes,no,yes,yes,no,no,2,yes,no,yes,bird,penguin
+no,yes,yes,no,yes,no,no,no,yes,yes,no,no,2,yes,no,no,bird,peafowl
+no,no,yes,no,no,yes,yes,yes,yes,no,no,yes,no,yes,no,yes,fish,esox
+no,no,yes,no,no,yes,yes,yes,yes,no,no,yes,no,yes,no,no,fish,piranha
+no,no,yes,no,no,no,yes,yes,yes,yes,yes,no,no,yes,no,no,reptile,bothrops
+yes,no,yes,yes,no,yes,yes,no,yes,yes,no,no,4,yes,no,yes,mammal,beak
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,badger
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,yes,yes,mammal,pony
+no,no,no,yes,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,yes,mammal,bottlenose dolphin
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,cougar
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,yes,yes,mammal,cat
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,raccoon
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,yes,yes,mammal,reindeer
+no,no,no,no,no,no,yes,no,no,yes,yes,no,8,yes,no,no,invertebrate,scorpion
+no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,yes,no,no,fish,seahorse
+yes,no,no,yes,no,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,mammal,seal
+yes,no,no,yes,no,yes,yes,yes,yes,yes,no,yes,2,yes,no,yes,mammal,sea lion
+no,no,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,invertebrate,jellyfish
+no,yes,yes,no,yes,yes,yes,no,yes,yes,no,no,2,yes,no,no,bird,tern
+no,no,yes,no,no,no,yes,yes,yes,yes,no,no,no,yes,no,no,reptile,slow worm
+no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,invertebrate,snail
+no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,yes,no,no,fish,sole
+no,yes,yes,no,yes,no,no,no,yes,yes,no,no,2,yes,no,no,bird,sparrow
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,2,yes,no,no,mammal,squirrel
+no,no,yes,no,no,yes,yes,no,no,no,no,no,5,no,no,no,invertebrate,starfish
+no,no,yes,no,no,yes,yes,yes,yes,no,yes,yes,no,yes,no,yes,fish,ray
+no,yes,yes,no,yes,yes,no,no,yes,yes,no,no,2,yes,no,yes,bird,swan
+no,no,yes,no,no,no,no,no,no,yes,no,no,6,no,no,no,insect,termite
+no,no,yes,no,no,yes,no,yes,yes,yes,no,no,4,no,no,no,amphibian,toad
+no,no,yes,no,no,no,no,no,yes,yes,no,no,4,yes,no,yes,reptile,turtle
+no,no,yes,no,no,no,yes,yes,yes,yes,no,no,4,yes,no,no,reptile,tuatara
+no,no,yes,no,no,yes,yes,yes,yes,no,no,yes,no,yes,no,yes,fish,tuna
+yes,no,no,yes,yes,no,no,yes,yes,yes,no,no,2,yes,no,no,mammal,vampire
+no,yes,yes,no,yes,no,yes,no,yes,yes,no,no,2,yes,no,yes,bird,vulture
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,2,yes,no,yes,mammal,kangaroo
+yes,no,yes,no,yes,no,no,no,no,yes,yes,no,6,no,no,no,insect,wasp
+yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,4,yes,no,yes,mammal,wolf
+no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,invertebrate,worm
+no,yes,yes,no,yes,no,no,no,yes,yes,no,no,2,yes,no,no,bird,wren
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,no,yes,no,,guinea pig
+no,no,yes,no,no,yes,yes,yes,yes,no,no,yes,no,yes,no,no,,chub
+no,no,yes,no,no,yes,yes,yes,yes,no,no,yes,no,yes,no,yes,,spiny dogfish
+no,no,no,yes,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,yes,,dolphin
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,no,yes,,elephant
+yes,no,no,yes,yes,no,no,yes,yes,yes,no,no,2,yes,no,no,,megabat
+no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,yes,no,no,,haddock
+no,no,yes,no,no,yes,yes,yes,yes,yes,no,no,4,yes,no,no,,salamander
+no,yes,yes,no,yes,no,no,no,yes,yes,no,no,2,yes,yes,no,,budgerigar
+no,yes,yes,no,no,no,yes,no,yes,yes,no,no,2,yes,no,yes,,rhea
+no,no,no,no,no,yes,yes,yes,yes,no,yes,no,no,yes,no,no,,sea snake
+no,yes,yes,no,yes,yes,yes,no,yes,yes,no,no,2,yes,no,no,,skua
+yes,no,no,yes,no,no,no,yes,yes,yes,no,no,4,yes,no,no,,voles
